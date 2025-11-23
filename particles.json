@@ -230,5 +230,21 @@
   {
     "protocol_id": 57,
     "identifier": "minecraft:campfire_signal_smoke"
+  },
+  {
+    "protocol_id": 58,
+    "identifier": "minecraft:dripping_honey"
+  },
+  {
+    "protocol_id": 59,
+    "identifier": "minecraft:falling_honey"
+  },
+  {
+    "protocol_id": 60,
+    "identifier": "minecraft:landing_honey"
+  },
+  {
+    "protocol_id": 61,
+    "identifier": "minecraft:falling_nectar"
   }
 ]
