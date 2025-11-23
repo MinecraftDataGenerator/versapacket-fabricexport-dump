@@ -51,6 +51,7 @@
 [BLOCK] Cannot serialize voxel shapes for block: Block{minecraft:moving_piston}
 [BLOCK] Cannot serialize voxel shapes for block: Block{minecraft:moving_piston}
 [BLOCK] Cannot serialize voxel shapes for block: Block{minecraft:dandelion}
+[BLOCK] Cannot serialize voxel shapes for block: Block{minecraft:torchflower}
 [BLOCK] Cannot serialize voxel shapes for block: Block{minecraft:poppy}
 [BLOCK] Cannot serialize voxel shapes for block: Block{minecraft:blue_orchid}
 [BLOCK] Cannot serialize voxel shapes for block: Block{minecraft:allium}
@@ -199,4 +200,5 @@
 [BLOCK] Cannot serialize voxel shapes for block: Block{minecraft:pointed_dripstone}
 [BLOCK] Cannot serialize voxel shapes for block: Block{minecraft:pointed_dripstone}
 [ENTITY] Cannot dump internal attributes of entity.minecraft.camel
+[ENTITY] Cannot dump internal attributes of entity.minecraft.sniffer
 [ENTITY] Cannot dump internal attributes of entity.minecraft.player
