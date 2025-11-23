@@ -294,5 +294,21 @@
   {
     "protocol_id": 73,
     "identifier": "minecraft:snowflake"
+  },
+  {
+    "protocol_id": 74,
+    "identifier": "minecraft:dripping_dripstone_lava"
+  },
+  {
+    "protocol_id": 75,
+    "identifier": "minecraft:falling_dripstone_lava"
+  },
+  {
+    "protocol_id": 76,
+    "identifier": "minecraft:dripping_dripstone_water"
+  },
+  {
+    "protocol_id": 77,
+    "identifier": "minecraft:falling_dripstone_water"
   }
 ]
