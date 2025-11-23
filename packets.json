@@ -570,20 +570,23 @@
   },
   "configuration": {
     "serverbound": {
-      "custom_payload": {
+      "client_information": {
         "protocol_id": 0
       },
-      "finish_configuration": {
+      "custom_payload": {
         "protocol_id": 1
       },
-      "keep_alive": {
+      "finish_configuration": {
         "protocol_id": 2
       },
-      "pong": {
+      "keep_alive": {
         "protocol_id": 3
       },
-      "resource_pack": {
+      "pong": {
         "protocol_id": 4
+      },
+      "resource_pack": {
+        "protocol_id": 5
       }
     },
     "clientbound": {
