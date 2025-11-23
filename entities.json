@@ -18574,13 +18574,13 @@
         "standing": {
           "width": 0.4,
           "height": 0.8,
-          "eye_height": 0.3625,
+          "eye_height": 0.51875,
           "fixed": false
         },
         "fall_flying": {
           "width": 0.4,
           "height": 0.8,
-          "eye_height": 0.3625,
+          "eye_height": 0.51875,
           "fixed": false
         },
         "sleeping": {
@@ -18592,73 +18592,73 @@
         "swimming": {
           "width": 0.4,
           "height": 0.8,
-          "eye_height": 0.3625,
+          "eye_height": 0.51875,
           "fixed": false
         },
         "spin_attack": {
           "width": 0.4,
           "height": 0.8,
-          "eye_height": 0.3625,
+          "eye_height": 0.51875,
           "fixed": false
         },
         "crouching": {
           "width": 0.4,
           "height": 0.8,
-          "eye_height": 0.3625,
+          "eye_height": 0.51875,
           "fixed": false
         },
         "long_jumping": {
           "width": 0.4,
           "height": 0.8,
-          "eye_height": 0.3625,
+          "eye_height": 0.51875,
           "fixed": false
         },
         "dying": {
           "width": 0.4,
           "height": 0.8,
-          "eye_height": 0.3625,
+          "eye_height": 0.51875,
           "fixed": false
         },
         "croaking": {
           "width": 0.4,
           "height": 0.8,
-          "eye_height": 0.3625,
+          "eye_height": 0.51875,
           "fixed": false
         },
         "using_tongue": {
           "width": 0.4,
           "height": 0.8,
-          "eye_height": 0.3625,
+          "eye_height": 0.51875,
           "fixed": false
         },
         "sitting": {
           "width": 0.4,
           "height": 0.8,
-          "eye_height": 0.3625,
+          "eye_height": 0.51875,
           "fixed": false
         },
         "roaring": {
           "width": 0.4,
           "height": 0.8,
-          "eye_height": 0.3625,
+          "eye_height": 0.51875,
           "fixed": false
         },
         "sniffing": {
           "width": 0.4,
           "height": 0.8,
-          "eye_height": 0.3625,
+          "eye_height": 0.51875,
           "fixed": false
         },
         "emerging": {
           "width": 0.4,
           "height": 0.8,
-          "eye_height": 0.3625,
+          "eye_height": 0.51875,
           "fixed": false
         },
         "digging": {
           "width": 0.4,
           "height": 0.8,
-          "eye_height": 0.3625,
+          "eye_height": 0.51875,
           "fixed": false
         }
       },
