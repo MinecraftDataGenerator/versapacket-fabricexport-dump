@@ -323,7 +323,7 @@
       "recipe": {
         "protocol_id": 56
       },
-      "remove_entities": {
+      "remove_entity": {
         "protocol_id": 57
       },
       "remove_mob_effect": {
