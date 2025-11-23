@@ -400,6 +400,164 @@
   },
   {
     "protocol_id": 3,
+    "identifier": "minecraft:axolotl",
+    "dimensions": {
+      "width": 0.75,
+      "height": 0.42,
+      "eye_height": 0.357,
+      "fixed": false
+    },
+    "attributes": {
+      "poses": {
+        "standing": {
+          "width": 0.75,
+          "height": 0.42,
+          "eye_height": 0.275,
+          "fixed": false
+        },
+        "fall_flying": {
+          "width": 0.75,
+          "height": 0.42,
+          "eye_height": 0.275,
+          "fixed": false
+        },
+        "sleeping": {
+          "width": 0.2,
+          "height": 0.2,
+          "eye_height": 0.2,
+          "fixed": true
+        },
+        "swimming": {
+          "width": 0.75,
+          "height": 0.42,
+          "eye_height": 0.275,
+          "fixed": false
+        },
+        "spin_attack": {
+          "width": 0.75,
+          "height": 0.42,
+          "eye_height": 0.275,
+          "fixed": false
+        },
+        "crouching": {
+          "width": 0.75,
+          "height": 0.42,
+          "eye_height": 0.275,
+          "fixed": false
+        },
+        "dying": {
+          "width": 0.75,
+          "height": 0.42,
+          "eye_height": 0.275,
+          "fixed": false
+        }
+      },
+      "data_tracker": [
+        {
+          "name": "DATA_VARIANT",
+          "id": 17,
+          "type": 1
+        },
+        {
+          "name": "DATA_PLAYING_DEAD",
+          "id": 18,
+          "type": 8
+        },
+        {
+          "name": "FROM_BUCKET",
+          "id": 19,
+          "type": 8
+        },
+        {
+          "name": "DATA_BABY_ID",
+          "id": 16,
+          "type": 8
+        },
+        {
+          "name": "DATA_MOB_FLAGS_ID",
+          "id": 15,
+          "type": 0
+        },
+        {
+          "name": "DATA_LIVING_ENTITY_FLAGS",
+          "id": 8,
+          "type": 0
+        },
+        {
+          "name": "DATA_HEALTH_ID",
+          "id": 9,
+          "type": 2
+        },
+        {
+          "name": "DATA_EFFECT_COLOR_ID",
+          "id": 10,
+          "type": 1
+        },
+        {
+          "name": "DATA_EFFECT_AMBIENCE_ID",
+          "id": 11,
+          "type": 8
+        },
+        {
+          "name": "DATA_ARROW_COUNT_ID",
+          "id": 12,
+          "type": 1
+        },
+        {
+          "name": "DATA_STINGER_COUNT_ID",
+          "id": 13,
+          "type": 1
+        },
+        {
+          "name": "SLEEPING_POS_ID",
+          "id": 14,
+          "type": 12
+        },
+        {
+          "name": "DATA_SHARED_FLAGS_ID",
+          "id": 0,
+          "type": 0
+        },
+        {
+          "name": "DATA_AIR_SUPPLY_ID",
+          "id": 1,
+          "type": 1
+        },
+        {
+          "name": "DATA_CUSTOM_NAME",
+          "id": 2,
+          "type": 5
+        },
+        {
+          "name": "DATA_CUSTOM_NAME_VISIBLE",
+          "id": 3,
+          "type": 8
+        },
+        {
+          "name": "DATA_SILENT",
+          "id": 4,
+          "type": 8
+        },
+        {
+          "name": "DATA_NO_GRAVITY",
+          "id": 5,
+          "type": 8
+        },
+        {
+          "name": "DATA_POSE",
+          "id": 6,
+          "type": 18
+        },
+        {
+          "name": "DATA_TICKS_FROZEN",
+          "id": 7,
+          "type": 1
+        }
+      ]
+    }
+  },
+  {
+    "protocol_id": 4,
     "identifier": "minecraft:bat",
     "dimensions": {
       "width": 0.5,
@@ -542,7 +700,7 @@
     }
   },
   {
-    "protocol_id": 4,
+    "protocol_id": 5,
     "identifier": "minecraft:bee",
     "dimensions": {
       "width": 0.7,
@@ -695,7 +853,7 @@
     }
   },
   {
-    "protocol_id": 5,
+    "protocol_id": 6,
     "identifier": "minecraft:blaze",
     "dimensions": {
       "width": 0.6,
@@ -838,7 +996,7 @@
     }
   },
   {
-    "protocol_id": 6,
+    "protocol_id": 7,
     "identifier": "minecraft:boat",
     "dimensions": {
       "width": 1.375,
@@ -971,7 +1129,7 @@
     }
   },
   {
-    "protocol_id": 7,
+    "protocol_id": 8,
     "identifier": "minecraft:cat",
     "dimensions": {
       "width": 0.6,
@@ -1144,7 +1302,7 @@
     }
   },
   {
-    "protocol_id": 8,
+    "protocol_id": 9,
     "identifier": "minecraft:cave_spider",
     "dimensions": {
       "width": 0.7,
@@ -1287,7 +1445,7 @@
     }
   },
   {
-    "protocol_id": 9,
+    "protocol_id": 10,
     "identifier": "minecraft:chicken",
     "dimensions": {
       "width": 0.4,
@@ -1430,7 +1588,7 @@
     }
   },
   {
-    "protocol_id": 10,
+    "protocol_id": 11,
     "identifier": "minecraft:cod",
     "dimensions": {
       "width": 0.5,
@@ -1573,7 +1731,7 @@
     }
   },
   {
-    "protocol_id": 11,
+    "protocol_id": 12,
     "identifier": "minecraft:cow",
     "dimensions": {
       "width": 0.9,
@@ -1716,7 +1874,7 @@
     }
   },
   {
-    "protocol_id": 12,
+    "protocol_id": 13,
     "identifier": "minecraft:creeper",
     "dimensions": {
       "width": 0.6,
@@ -1869,7 +2027,7 @@
     }
   },
   {
-    "protocol_id": 13,
+    "protocol_id": 14,
     "identifier": "minecraft:dolphin",
     "dimensions": {
       "width": 0.9,
@@ -2022,7 +2180,7 @@
     }
   },
   {
-    "protocol_id": 14,
+    "protocol_id": 15,
     "identifier": "minecraft:donkey",
     "dimensions": {
       "width": 1.3964844,
@@ -2180,7 +2338,7 @@
     }
   },
   {
-    "protocol_id": 15,
+    "protocol_id": 16,
     "identifier": "minecraft:dragon_fireball",
     "dimensions": {
       "width": 1.0,
@@ -2278,7 +2436,7 @@
     }
   },
   {
-    "protocol_id": 16,
+    "protocol_id": 17,
     "identifier": "minecraft:drowned",
     "dimensions": {
       "width": 0.6,
@@ -2431,7 +2589,7 @@
     }
   },
   {
-    "protocol_id": 17,
+    "protocol_id": 18,
     "identifier": "minecraft:elder_guardian",
     "dimensions": {
       "width": 1.9975,
@@ -2579,7 +2737,7 @@
     }
   },
   {
-    "protocol_id": 18,
+    "protocol_id": 19,
     "identifier": "minecraft:end_crystal",
     "dimensions": {
       "width": 2.0,
@@ -2687,7 +2845,7 @@
     }
   },
   {
-    "protocol_id": 19,
+    "protocol_id": 20,
     "identifier": "minecraft:ender_dragon",
     "dimensions": {
       "width": 16.0,
@@ -2830,7 +2988,7 @@
     }
   },
   {
-    "protocol_id": 20,
+    "protocol_id": 21,
     "identifier": "minecraft:enderman",
     "dimensions": {
       "width": 0.6,
@@ -2983,7 +3141,7 @@
     }
   },
   {
-    "protocol_id": 21,
+    "protocol_id": 22,
     "identifier": "minecraft:endermite",
     "dimensions": {
       "width": 0.4,
@@ -3121,7 +3279,7 @@
     }
   },
   {
-    "protocol_id": 22,
+    "protocol_id": 23,
     "identifier": "minecraft:evoker",
     "dimensions": {
       "width": 0.6,
@@ -3269,7 +3427,7 @@
     }
   },
   {
-    "protocol_id": 23,
+    "protocol_id": 24,
     "identifier": "minecraft:evoker_fangs",
     "dimensions": {
       "width": 0.5,
@@ -3367,7 +3525,7 @@
     }
   },
   {
-    "protocol_id": 24,
+    "protocol_id": 25,
     "identifier": "minecraft:experience_orb",
     "dimensions": {
       "width": 0.5,
@@ -3465,7 +3623,7 @@
     }
   },
   {
-    "protocol_id": 25,
+    "protocol_id": 26,
     "identifier": "minecraft:eye_of_ender",
     "dimensions": {
       "width": 0.25,
@@ -3568,7 +3726,7 @@
     }
   },
   {
-    "protocol_id": 26,
+    "protocol_id": 27,
     "identifier": "minecraft:falling_block",
     "dimensions": {
       "width": 0.98,
@@ -3671,7 +3829,7 @@
     }
   },
   {
-    "protocol_id": 27,
+    "protocol_id": 28,
     "identifier": "minecraft:firework_rocket",
     "dimensions": {
       "width": 0.25,
@@ -3784,7 +3942,7 @@
     }
   },
   {
-    "protocol_id": 28,
+    "protocol_id": 29,
     "identifier": "minecraft:fox",
     "dimensions": {
       "width": 0.6,
@@ -3947,7 +4105,7 @@
     }
   },
   {
-    "protocol_id": 29,
+    "protocol_id": 30,
     "identifier": "minecraft:ghast",
     "dimensions": {
       "width": 4.0,
@@ -4090,7 +4248,7 @@
     }
   },
   {
-    "protocol_id": 30,
+    "protocol_id": 31,
     "identifier": "minecraft:giant",
     "dimensions": {
       "width": 3.6,
@@ -4228,7 +4386,7 @@
     }
   },
   {
-    "protocol_id": 31,
+    "protocol_id": 32,
     "identifier": "minecraft:guardian",
     "dimensions": {
       "width": 0.85,
@@ -4376,7 +4534,7 @@
     }
   },
   {
-    "protocol_id": 32,
+    "protocol_id": 33,
     "identifier": "minecraft:hoglin",
     "dimensions": {
       "width": 1.3964844,
@@ -4524,7 +4682,7 @@
     }
   },
   {
-    "protocol_id": 33,
+    "protocol_id": 34,
     "identifier": "minecraft:horse",
     "dimensions": {
       "width": 1.3964844,
@@ -4682,7 +4840,7 @@
     }
   },
   {
-    "protocol_id": 34,
+    "protocol_id": 35,
     "identifier": "minecraft:husk",
     "dimensions": {
       "width": 0.6,
@@ -4835,7 +4993,7 @@
     }
   },
   {
-    "protocol_id": 35,
+    "protocol_id": 36,
     "identifier": "minecraft:illusioner",
     "dimensions": {
       "width": 0.6,
@@ -4983,7 +5141,7 @@
     }
   },
   {
-    "protocol_id": 36,
+    "protocol_id": 37,
     "identifier": "minecraft:iron_golem",
     "dimensions": {
       "width": 1.4,
@@ -5126,7 +5284,7 @@
     }
   },
   {
-    "protocol_id": 37,
+    "protocol_id": 38,
     "identifier": "minecraft:item",
     "dimensions": {
       "width": 0.25,
@@ -5229,7 +5387,7 @@
     }
   },
   {
-    "protocol_id": 38,
+    "protocol_id": 39,
     "identifier": "minecraft:item_frame",
     "dimensions": {
       "width": 0.5,
@@ -5337,7 +5495,7 @@
     }
   },
   {
-    "protocol_id": 39,
+    "protocol_id": 40,
     "identifier": "minecraft:fireball",
     "dimensions": {
       "width": 1.0,
@@ -5440,7 +5598,7 @@
     }
   },
   {
-    "protocol_id": 40,
+    "protocol_id": 41,
     "identifier": "minecraft:leash_knot",
     "dimensions": {
       "width": 0.375,
@@ -5538,7 +5696,7 @@
     }
   },
   {
-    "protocol_id": 41,
+    "protocol_id": 42,
     "identifier": "minecraft:lightning_bolt",
     "dimensions": {
       "width": 0.0,
@@ -5636,7 +5794,7 @@
     }
   },
   {
-    "protocol_id": 42,
+    "protocol_id": 43,
     "identifier": "minecraft:llama",
     "dimensions": {
       "width": 0.9,
@@ -5809,7 +5967,7 @@
     }
   },
   {
-    "protocol_id": 43,
+    "protocol_id": 44,
     "identifier": "minecraft:llama_spit",
     "dimensions": {
       "width": 0.25,
@@ -5907,7 +6065,7 @@
     }
   },
   {
-    "protocol_id": 44,
+    "protocol_id": 45,
     "identifier": "minecraft:magma_cube",
     "dimensions": {
       "width": 2.04,
@@ -6050,7 +6208,7 @@
     }
   },
   {
-    "protocol_id": 45,
+    "protocol_id": 46,
     "identifier": "minecraft:minecart",
     "dimensions": {
       "width": 0.98,
@@ -6178,7 +6336,7 @@
     }
   },
   {
-    "protocol_id": 46,
+    "protocol_id": 47,
     "identifier": "minecraft:chest_minecart",
     "dimensions": {
       "width": 0.98,
@@ -6306,7 +6464,7 @@
     }
   },
   {
-    "protocol_id": 47,
+    "protocol_id": 48,
     "identifier": "minecraft:command_block_minecart",
     "dimensions": {
       "width": 0.98,
@@ -6444,7 +6602,7 @@
     }
   },
   {
-    "protocol_id": 48,
+    "protocol_id": 49,
     "identifier": "minecraft:furnace_minecart",
     "dimensions": {
       "width": 0.98,
@@ -6577,7 +6735,7 @@
     }
   },
   {
-    "protocol_id": 49,
+    "protocol_id": 50,
     "identifier": "minecraft:hopper_minecart",
     "dimensions": {
       "width": 0.98,
@@ -6705,7 +6863,7 @@
     }
   },
   {
-    "protocol_id": 50,
+    "protocol_id": 51,
     "identifier": "minecraft:spawner_minecart",
     "dimensions": {
       "width": 0.98,
@@ -6833,7 +6991,7 @@
     }
   },
   {
-    "protocol_id": 51,
+    "protocol_id": 52,
     "identifier": "minecraft:tnt_minecart",
     "dimensions": {
       "width": 0.98,
@@ -6961,7 +7119,7 @@
     }
   },
   {
-    "protocol_id": 52,
+    "protocol_id": 53,
     "identifier": "minecraft:mule",
     "dimensions": {
       "width": 1.3964844,
@@ -7119,7 +7277,7 @@
     }
   },
   {
-    "protocol_id": 53,
+    "protocol_id": 54,
     "identifier": "minecraft:mooshroom",
     "dimensions": {
       "width": 0.9,
@@ -7267,7 +7425,7 @@
     }
   },
   {
-    "protocol_id": 54,
+    "protocol_id": 55,
     "identifier": "minecraft:ocelot",
     "dimensions": {
       "width": 0.6,
@@ -7415,7 +7573,7 @@
     }
   },
   {
-    "protocol_id": 55,
+    "protocol_id": 56,
     "identifier": "minecraft:painting",
     "dimensions": {
       "width": 0.5,
@@ -7513,7 +7671,7 @@
     }
   },
   {
-    "protocol_id": 56,
+    "protocol_id": 57,
     "identifier": "minecraft:panda",
     "dimensions": {
       "width": 1.3,
@@ -7686,7 +7844,7 @@
     }
   },
   {
-    "protocol_id": 57,
+    "protocol_id": 58,
     "identifier": "minecraft:parrot",
     "dimensions": {
       "width": 0.5,
@@ -7844,7 +8002,7 @@
     }
   },
   {
-    "protocol_id": 58,
+    "protocol_id": 59,
     "identifier": "minecraft:phantom",
     "dimensions": {
       "width": 0.9,
@@ -7987,7 +8145,7 @@
     }
   },
   {
-    "protocol_id": 59,
+    "protocol_id": 60,
     "identifier": "minecraft:pig",
     "dimensions": {
       "width": 0.9,
@@ -8140,7 +8298,7 @@
     }
   },
   {
-    "protocol_id": 60,
+    "protocol_id": 61,
     "identifier": "minecraft:piglin",
     "dimensions": {
       "width": 0.6,
@@ -8298,7 +8456,7 @@
     }
   },
   {
-    "protocol_id": 61,
+    "protocol_id": 62,
     "identifier": "minecraft:piglin_brute",
     "dimensions": {
       "width": 0.6,
@@ -8441,7 +8599,7 @@
     }
   },
   {
-    "protocol_id": 62,
+    "protocol_id": 63,
     "identifier": "minecraft:pillager",
     "dimensions": {
       "width": 0.6,
@@ -8589,7 +8747,7 @@
     }
   },
   {
-    "protocol_id": 63,
+    "protocol_id": 64,
     "identifier": "minecraft:polar_bear",
     "dimensions": {
       "width": 1.4,
@@ -8737,7 +8895,7 @@
     }
   },
   {
-    "protocol_id": 64,
+    "protocol_id": 65,
     "identifier": "minecraft:tnt",
     "dimensions": {
       "width": 0.98,
@@ -8840,7 +8998,7 @@
     }
   },
   {
-    "protocol_id": 65,
+    "protocol_id": 66,
     "identifier": "minecraft:pufferfish",
     "dimensions": {
       "width": 0.7,
@@ -8988,7 +9146,7 @@
     }
   },
   {
-    "protocol_id": 66,
+    "protocol_id": 67,
     "identifier": "minecraft:rabbit",
     "dimensions": {
       "width": 0.4,
@@ -9136,7 +9294,7 @@
     }
   },
   {
-    "protocol_id": 67,
+    "protocol_id": 68,
     "identifier": "minecraft:ravager",
     "dimensions": {
       "width": 1.95,
@@ -9279,7 +9437,7 @@
     }
   },
   {
-    "protocol_id": 68,
+    "protocol_id": 69,
     "identifier": "minecraft:salmon",
     "dimensions": {
       "width": 0.7,
@@ -9422,7 +9580,7 @@
     }
   },
   {
-    "protocol_id": 69,
+    "protocol_id": 70,
     "identifier": "minecraft:sheep",
     "dimensions": {
       "width": 0.9,
@@ -9570,7 +9728,7 @@
     }
   },
   {
-    "protocol_id": 70,
+    "protocol_id": 71,
     "identifier": "minecraft:shulker",
     "dimensions": {
       "width": 1.0,
@@ -9728,7 +9886,7 @@
     }
   },
   {
-    "protocol_id": 71,
+    "protocol_id": 72,
     "identifier": "minecraft:shulker_bullet",
     "dimensions": {
       "width": 0.3125,
@@ -9826,7 +9984,7 @@
     }
   },
   {
-    "protocol_id": 72,
+    "protocol_id": 73,
     "identifier": "minecraft:silverfish",
     "dimensions": {
       "width": 0.4,
@@ -9964,7 +10122,7 @@
     }
   },
   {
-    "protocol_id": 73,
+    "protocol_id": 74,
     "identifier": "minecraft:skeleton",
     "dimensions": {
       "width": 0.6,
@@ -10102,7 +10260,7 @@
     }
   },
   {
-    "protocol_id": 74,
+    "protocol_id": 75,
     "identifier": "minecraft:skeleton_horse",
     "dimensions": {
       "width": 1.3964844,
@@ -10255,7 +10413,7 @@
     }
   },
   {
-    "protocol_id": 75,
+    "protocol_id": 76,
     "identifier": "minecraft:slime",
     "dimensions": {
       "width": 2.04,
@@ -10398,7 +10556,7 @@
     }
   },
   {
-    "protocol_id": 76,
+    "protocol_id": 77,
     "identifier": "minecraft:small_fireball",
     "dimensions": {
       "width": 0.3125,
@@ -10501,7 +10659,7 @@
     }
   },
   {
-    "protocol_id": 77,
+    "protocol_id": 78,
     "identifier": "minecraft:snow_golem",
     "dimensions": {
       "width": 0.7,
@@ -10644,7 +10802,7 @@
     }
   },
   {
-    "protocol_id": 78,
+    "protocol_id": 79,
     "identifier": "minecraft:snowball",
     "dimensions": {
       "width": 0.25,
@@ -10747,7 +10905,7 @@
     }
   },
   {
-    "protocol_id": 79,
+    "protocol_id": 80,
     "identifier": "minecraft:spectral_arrow",
     "dimensions": {
       "width": 0.5,
@@ -10855,7 +11013,7 @@
     }
   },
   {
-    "protocol_id": 80,
+    "protocol_id": 81,
     "identifier": "minecraft:spider",
     "dimensions": {
       "width": 1.4,
@@ -10998,7 +11156,7 @@
     }
   },
   {
-    "protocol_id": 81,
+    "protocol_id": 82,
     "identifier": "minecraft:squid",
     "dimensions": {
       "width": 0.8,
@@ -11136,7 +11294,7 @@
     }
   },
   {
-    "protocol_id": 82,
+    "protocol_id": 83,
     "identifier": "minecraft:stray",
     "dimensions": {
       "width": 0.6,
@@ -11274,7 +11432,7 @@
     }
   },
   {
-    "protocol_id": 83,
+    "protocol_id": 84,
     "identifier": "minecraft:strider",
     "dimensions": {
       "width": 0.9,
@@ -11432,7 +11590,7 @@
     }
   },
   {
-    "protocol_id": 84,
+    "protocol_id": 85,
     "identifier": "minecraft:egg",
     "dimensions": {
       "width": 0.25,
@@ -11535,7 +11693,7 @@
     }
   },
   {
-    "protocol_id": 85,
+    "protocol_id": 86,
     "identifier": "minecraft:ender_pearl",
     "dimensions": {
       "width": 0.25,
@@ -11638,7 +11796,7 @@
     }
   },
   {
-    "protocol_id": 86,
+    "protocol_id": 87,
     "identifier": "minecraft:experience_bottle",
     "dimensions": {
       "width": 0.25,
@@ -11741,7 +11899,7 @@
     }
   },
   {
-    "protocol_id": 87,
+    "protocol_id": 88,
     "identifier": "minecraft:potion",
     "dimensions": {
       "width": 0.25,
@@ -11844,7 +12002,7 @@
     }
   },
   {
-    "protocol_id": 88,
+    "protocol_id": 89,
     "identifier": "minecraft:trident",
     "dimensions": {
       "width": 0.5,
@@ -11962,7 +12120,7 @@
     }
   },
   {
-    "protocol_id": 89,
+    "protocol_id": 90,
     "identifier": "minecraft:trader_llama",
     "dimensions": {
       "width": 0.9,
@@ -12135,7 +12293,7 @@
     }
   },
   {
-    "protocol_id": 90,
+    "protocol_id": 91,
     "identifier": "minecraft:tropical_fish",
     "dimensions": {
       "width": 0.5,
@@ -12283,7 +12441,7 @@
     }
   },
   {
-    "protocol_id": 91,
+    "protocol_id": 92,
     "identifier": "minecraft:turtle",
     "dimensions": {
       "width": 1.2,
@@ -12456,7 +12614,7 @@
     }
   },
   {
-    "protocol_id": 92,
+    "protocol_id": 93,
     "identifier": "minecraft:vex",
     "dimensions": {
       "width": 0.4,
@@ -12599,7 +12757,7 @@
     }
   },
   {
-    "protocol_id": 93,
+    "protocol_id": 94,
     "identifier": "minecraft:villager",
     "dimensions": {
       "width": 0.6,
@@ -12752,7 +12910,7 @@
     }
   },
   {
-    "protocol_id": 94,
+    "protocol_id": 95,
     "identifier": "minecraft:vindicator",
     "dimensions": {
       "width": 0.6,
@@ -12895,7 +13053,7 @@
     }
   },
   {
-    "protocol_id": 95,
+    "protocol_id": 96,
     "identifier": "minecraft:wandering_trader",
     "dimensions": {
       "width": 0.6,
@@ -13043,7 +13201,7 @@
     }
   },
   {
-    "protocol_id": 96,
+    "protocol_id": 97,
     "identifier": "minecraft:witch",
     "dimensions": {
       "width": 0.6,
@@ -13191,7 +13349,7 @@
     }
   },
   {
-    "protocol_id": 97,
+    "protocol_id": 98,
     "identifier": "minecraft:wither",
     "dimensions": {
       "width": 0.9,
@@ -13349,7 +13507,7 @@
     }
   },
   {
-    "protocol_id": 98,
+    "protocol_id": 99,
     "identifier": "minecraft:wither_skeleton",
     "dimensions": {
       "width": 0.7,
@@ -13487,7 +13645,7 @@
     }
   },
   {
-    "protocol_id": 99,
+    "protocol_id": 100,
     "identifier": "minecraft:wither_skull",
     "dimensions": {
       "width": 0.3125,
@@ -13590,7 +13748,7 @@
     }
   },
   {
-    "protocol_id": 100,
+    "protocol_id": 101,
     "identifier": "minecraft:wolf",
     "dimensions": {
       "width": 0.6,
@@ -13758,7 +13916,7 @@
     }
   },
   {
-    "protocol_id": 101,
+    "protocol_id": 102,
     "identifier": "minecraft:zoglin",
     "dimensions": {
       "width": 1.3964844,
@@ -13901,7 +14059,7 @@
     }
   },
   {
-    "protocol_id": 102,
+    "protocol_id": 103,
     "identifier": "minecraft:zombie",
     "dimensions": {
       "width": 0.6,
@@ -14054,7 +14212,7 @@
     }
   },
   {
-    "protocol_id": 103,
+    "protocol_id": 104,
     "identifier": "minecraft:zombie_horse",
     "dimensions": {
       "width": 1.3964844,
@@ -14207,7 +14365,7 @@
     }
   },
   {
-    "protocol_id": 104,
+    "protocol_id": 105,
     "identifier": "minecraft:zombie_villager",
     "dimensions": {
       "width": 0.6,
@@ -14370,7 +14528,7 @@
     }
   },
   {
-    "protocol_id": 105,
+    "protocol_id": 106,
     "identifier": "minecraft:zombified_piglin",
     "dimensions": {
       "width": 0.6,
@@ -14523,7 +14681,7 @@
     }
   },
   {
-    "protocol_id": 106,
+    "protocol_id": 107,
     "identifier": "minecraft:player",
     "dimensions": {
       "width": 0.6,
@@ -14533,7 +14691,7 @@
     }
   },
   {
-    "protocol_id": 107,
+    "protocol_id": 108,
     "identifier": "minecraft:fishing_bobber",
     "dimensions": {
       "width": 0.25,
