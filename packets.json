@@ -30,137 +30,143 @@
       "chat_session_update": {
         "protocol_id": 6
       },
-      "client_command": {
+      "chunk_batch_received": {
         "protocol_id": 7
       },
-      "client_information": {
+      "client_command": {
         "protocol_id": 8
       },
-      "command_suggestion": {
+      "client_information": {
         "protocol_id": 9
       },
-      "container_button_click": {
+      "command_suggestion": {
         "protocol_id": 10
       },
-      "container_click": {
+      "configuration_acknowledged": {
         "protocol_id": 11
       },
-      "container_close": {
+      "container_button_click": {
         "protocol_id": 12
       },
-      "custom_payload": {
+      "container_click": {
         "protocol_id": 13
       },
-      "edit_book": {
+      "container_close": {
         "protocol_id": 14
       },
-      "entity_tag_query": {
+      "custom_payload": {
         "protocol_id": 15
       },
-      "interact": {
+      "edit_book": {
         "protocol_id": 16
       },
-      "jigsaw_generate": {
+      "entity_tag_query": {
         "protocol_id": 17
       },
-      "keep_alive": {
+      "interact": {
         "protocol_id": 18
       },
-      "lock_difficulty": {
+      "jigsaw_generate": {
         "protocol_id": 19
       },
-      "move_player_pos": {
+      "keep_alive": {
         "protocol_id": 20
       },
-      "move_player_pos_rot": {
+      "lock_difficulty": {
         "protocol_id": 21
       },
-      "move_player_rot": {
+      "move_player_pos": {
         "protocol_id": 22
       },
-      "move_player_status_only": {
+      "move_player_pos_rot": {
         "protocol_id": 23
       },
-      "move_vehicle": {
+      "move_player_rot": {
         "protocol_id": 24
       },
-      "paddle_boat": {
+      "move_player_status_only": {
         "protocol_id": 25
       },
-      "pick_item": {
+      "move_vehicle": {
         "protocol_id": 26
       },
-      "place_recipe": {
+      "paddle_boat": {
         "protocol_id": 27
       },
-      "player_abilities": {
+      "pick_item": {
         "protocol_id": 28
       },
-      "player_action": {
+      "place_recipe": {
         "protocol_id": 29
       },
-      "player_command": {
+      "player_abilities": {
         "protocol_id": 30
       },
-      "player_input": {
+      "player_action": {
         "protocol_id": 31
       },
-      "pong": {
+      "player_command": {
         "protocol_id": 32
       },
-      "recipe_book_change_settings": {
+      "player_input": {
         "protocol_id": 33
       },
-      "recipe_book_seen_recipe": {
+      "pong": {
         "protocol_id": 34
       },
-      "rename_item": {
+      "recipe_book_change_settings": {
         "protocol_id": 35
       },
-      "resource_pack": {
+      "recipe_book_seen_recipe": {
         "protocol_id": 36
       },
-      "seen_advancements": {
+      "rename_item": {
         "protocol_id": 37
       },
-      "select_trade": {
+      "resource_pack": {
         "protocol_id": 38
       },
-      "set_beacon": {
+      "seen_advancements": {
         "protocol_id": 39
       },
-      "set_carried_item": {
+      "select_trade": {
         "protocol_id": 40
       },
-      "set_command_block": {
+      "set_beacon": {
         "protocol_id": 41
       },
-      "set_command_minecart": {
+      "set_carried_item": {
         "protocol_id": 42
       },
-      "set_creative_mode_slot": {
+      "set_command_block": {
         "protocol_id": 43
       },
-      "set_jigsaw_block": {
+      "set_command_minecart": {
         "protocol_id": 44
       },
-      "set_structure_block": {
+      "set_creative_mode_slot": {
         "protocol_id": 45
       },
-      "sign_update": {
+      "set_jigsaw_block": {
         "protocol_id": 46
       },
-      "swing": {
+      "set_structure_block": {
         "protocol_id": 47
       },
-      "teleport_to_entity": {
+      "sign_update": {
         "protocol_id": 48
       },
-      "use_item_on": {
+      "swing": {
         "protocol_id": 49
       },
-      "use_item": {
+      "teleport_to_entity": {
         "protocol_id": 50
+      },
+      "use_item_on": {
+        "protocol_id": 51
+      },
+      "use_item": {
+        "protocol_id": 52
       }
     },
     "clientbound": {
@@ -203,299 +209,305 @@
       "change_difficulty": {
         "protocol_id": 12
       },
-      "chunks_biomes": {
+      "chunk_batch_finished": {
         "protocol_id": 13
       },
-      "clear_titles": {
+      "chunk_batch_start": {
         "protocol_id": 14
       },
-      "command_suggestions": {
+      "chunks_biomes": {
         "protocol_id": 15
       },
-      "commands": {
+      "clear_titles": {
         "protocol_id": 16
       },
-      "container_close": {
+      "command_suggestions": {
         "protocol_id": 17
       },
-      "container_set_content": {
+      "commands": {
         "protocol_id": 18
       },
-      "container_set_data": {
+      "container_close": {
         "protocol_id": 19
       },
-      "container_set_slot": {
+      "container_set_content": {
         "protocol_id": 20
       },
-      "cooldown": {
+      "container_set_data": {
         "protocol_id": 21
       },
-      "custom_chat_completions": {
+      "container_set_slot": {
         "protocol_id": 22
       },
-      "custom_payload": {
+      "cooldown": {
         "protocol_id": 23
       },
-      "damage_event": {
+      "custom_chat_completions": {
         "protocol_id": 24
       },
-      "delete_chat": {
+      "custom_payload": {
         "protocol_id": 25
       },
-      "disconnect": {
+      "damage_event": {
         "protocol_id": 26
       },
-      "disguised_chat": {
+      "delete_chat": {
         "protocol_id": 27
       },
-      "entity_event": {
+      "disconnect": {
         "protocol_id": 28
       },
-      "explode": {
+      "disguised_chat": {
         "protocol_id": 29
       },
-      "forget_level_chunk": {
+      "entity_event": {
         "protocol_id": 30
       },
-      "game_event": {
+      "explode": {
         "protocol_id": 31
       },
-      "horse_screen_open": {
+      "forget_level_chunk": {
         "protocol_id": 32
       },
-      "hurt_animation": {
+      "game_event": {
         "protocol_id": 33
       },
-      "initialize_border": {
+      "horse_screen_open": {
         "protocol_id": 34
       },
-      "keep_alive": {
+      "hurt_animation": {
         "protocol_id": 35
       },
-      "level_chunk_with_light": {
+      "initialize_border": {
         "protocol_id": 36
       },
-      "level_event": {
+      "keep_alive": {
         "protocol_id": 37
       },
-      "level_particles": {
+      "level_chunk_with_light": {
         "protocol_id": 38
       },
-      "light_update": {
+      "level_event": {
         "protocol_id": 39
       },
-      "login": {
+      "level_particles": {
         "protocol_id": 40
       },
-      "map_item_data": {
+      "light_update": {
         "protocol_id": 41
       },
-      "merchant_offers": {
+      "login": {
         "protocol_id": 42
       },
-      "move_entity_pos": {
+      "map_item_data": {
         "protocol_id": 43
       },
-      "move_entity_pos_rot": {
+      "merchant_offers": {
         "protocol_id": 44
       },
-      "move_entity_rot": {
+      "move_entity_pos": {
         "protocol_id": 45
       },
-      "move_vehicle": {
+      "move_entity_pos_rot": {
         "protocol_id": 46
       },
-      "open_book": {
+      "move_entity_rot": {
         "protocol_id": 47
       },
-      "open_screen": {
+      "move_vehicle": {
         "protocol_id": 48
       },
-      "open_sign_editor": {
+      "open_book": {
         "protocol_id": 49
       },
-      "ping": {
+      "open_screen": {
         "protocol_id": 50
       },
-      "place_ghost_recipe": {
+      "open_sign_editor": {
         "protocol_id": 51
       },
-      "player_abilities": {
+      "ping": {
         "protocol_id": 52
       },
-      "player_chat": {
+      "place_ghost_recipe": {
         "protocol_id": 53
       },
-      "player_combat_end": {
+      "player_abilities": {
         "protocol_id": 54
       },
-      "player_combat_enter": {
+      "player_chat": {
         "protocol_id": 55
       },
-      "player_combat_kill": {
+      "player_combat_end": {
         "protocol_id": 56
       },
-      "player_info_remove": {
+      "player_combat_enter": {
         "protocol_id": 57
       },
-      "player_info_update": {
+      "player_combat_kill": {
         "protocol_id": 58
       },
-      "player_look_at": {
+      "player_info_remove": {
         "protocol_id": 59
       },
-      "player_position": {
+      "player_info_update": {
         "protocol_id": 60
       },
-      "recipe": {
+      "player_look_at": {
         "protocol_id": 61
       },
-      "remove_entities": {
+      "player_position": {
         "protocol_id": 62
       },
-      "remove_mob_effect": {
+      "recipe": {
         "protocol_id": 63
       },
-      "resource_pack": {
+      "remove_entities": {
         "protocol_id": 64
       },
-      "respawn": {
+      "remove_mob_effect": {
         "protocol_id": 65
       },
-      "rotate_head": {
+      "resource_pack": {
         "protocol_id": 66
       },
-      "section_blocks_update": {
+      "respawn": {
         "protocol_id": 67
       },
-      "select_advancements_tab": {
+      "rotate_head": {
         "protocol_id": 68
       },
-      "server_data": {
+      "section_blocks_update": {
         "protocol_id": 69
       },
-      "set_action_bar_text": {
+      "select_advancements_tab": {
         "protocol_id": 70
       },
-      "set_border_center": {
+      "server_data": {
         "protocol_id": 71
       },
-      "set_border_lerp_size": {
+      "set_action_bar_text": {
         "protocol_id": 72
       },
-      "set_border_size": {
+      "set_border_center": {
         "protocol_id": 73
       },
-      "set_border_warning_delay": {
+      "set_border_lerp_size": {
         "protocol_id": 74
       },
-      "set_border_warning_distance": {
+      "set_border_size": {
         "protocol_id": 75
       },
-      "set_camera": {
+      "set_border_warning_delay": {
         "protocol_id": 76
       },
-      "set_carried_item": {
+      "set_border_warning_distance": {
         "protocol_id": 77
       },
-      "set_chunk_cache_center": {
+      "set_camera": {
         "protocol_id": 78
       },
-      "set_chunk_cache_radius": {
+      "set_carried_item": {
         "protocol_id": 79
       },
-      "set_default_spawn_position": {
+      "set_chunk_cache_center": {
         "protocol_id": 80
       },
-      "set_display_objective": {
+      "set_chunk_cache_radius": {
         "protocol_id": 81
       },
-      "set_entity_data": {
+      "set_default_spawn_position": {
         "protocol_id": 82
       },
-      "set_entity_link": {
+      "set_display_objective": {
         "protocol_id": 83
       },
-      "set_entity_motion": {
+      "set_entity_data": {
         "protocol_id": 84
       },
-      "set_equipment": {
+      "set_entity_link": {
         "protocol_id": 85
       },
-      "set_experience": {
+      "set_entity_motion": {
         "protocol_id": 86
       },
-      "set_health": {
+      "set_equipment": {
         "protocol_id": 87
       },
-      "set_objective": {
+      "set_experience": {
         "protocol_id": 88
       },
-      "set_passengers": {
+      "set_health": {
         "protocol_id": 89
       },
-      "set_player_team": {
+      "set_objective": {
         "protocol_id": 90
       },
-      "set_score": {
+      "set_passengers": {
         "protocol_id": 91
       },
-      "set_simulation_distance": {
+      "set_player_team": {
         "protocol_id": 92
       },
-      "set_subtitle_text": {
+      "set_score": {
         "protocol_id": 93
       },
-      "set_time": {
+      "set_simulation_distance": {
         "protocol_id": 94
       },
-      "set_title_text": {
+      "set_subtitle_text": {
         "protocol_id": 95
       },
-      "set_titles_animation": {
+      "set_time": {
         "protocol_id": 96
       },
-      "sound_entity": {
+      "set_title_text": {
         "protocol_id": 97
       },
-      "sound": {
+      "set_titles_animation": {
         "protocol_id": 98
       },
-      "stop_sound": {
+      "sound_entity": {
         "protocol_id": 99
       },
-      "system_chat": {
+      "sound": {
         "protocol_id": 100
       },
-      "tab_list": {
+      "start_configuration": {
         "protocol_id": 101
       },
-      "tag_query": {
+      "stop_sound": {
         "protocol_id": 102
       },
-      "take_item_entity": {
+      "system_chat": {
         "protocol_id": 103
       },
-      "teleport_entity": {
+      "tab_list": {
         "protocol_id": 104
       },
-      "update_advancements": {
+      "tag_query": {
         "protocol_id": 105
       },
-      "update_attributes": {
+      "take_item_entity": {
         "protocol_id": 106
       },
-      "update_enabled_features": {
+      "teleport_entity": {
         "protocol_id": 107
       },
-      "update_mob_effect": {
+      "update_advancements": {
         "protocol_id": 108
       },
-      "update_recipes": {
+      "update_attributes": {
         "protocol_id": 109
       },
-      "update_tags": {
+      "update_mob_effect": {
         "protocol_id": 110
+      },
+      "update_recipes": {
+        "protocol_id": 111
+      },
+      "update_tags": {
+        "protocol_id": 112
       }
     }
   },
@@ -525,8 +537,11 @@
       "key": {
         "protocol_id": 1
       },
-      "custom_query": {
+      "custom_query_answer": {
         "protocol_id": 2
+      },
+      "login_acknowledged": {
+        "protocol_id": 3
       }
     },
     "clientbound": {
@@ -544,6 +559,54 @@
       },
       "custom_query": {
         "protocol_id": 4
+      }
+    }
+  },
+  "configuration": {
+    "serverbound": {
+      "custom_payload": {
+        "protocol_id": 0
+      },
+      "finish_configuration": {
+        "protocol_id": 1
+      },
+      "keep_alive": {
+        "protocol_id": 2
+      },
+      "pong": {
+        "protocol_id": 3
+      },
+      "resource_pack": {
+        "protocol_id": 4
+      }
+    },
+    "clientbound": {
+      "custom_payload": {
+        "protocol_id": 0
+      },
+      "disconnect": {
+        "protocol_id": 1
+      },
+      "finish_configuration": {
+        "protocol_id": 2
+      },
+      "keep_alive": {
+        "protocol_id": 3
+      },
+      "ping": {
+        "protocol_id": 4
+      },
+      "registry_data": {
+        "protocol_id": 5
+      },
+      "resource_pack": {
+        "protocol_id": 6
+      },
+      "update_enabled_features": {
+        "protocol_id": 7
+      },
+      "update_tags": {
+        "protocol_id": 8
       }
     }
   }
