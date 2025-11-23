@@ -54,98 +54,101 @@
       "interact": {
         "protocol_id": 14
       },
-      "keep_alive": {
+      "jigsaw_generate": {
         "protocol_id": 15
       },
-      "lock_difficulty": {
+      "keep_alive": {
         "protocol_id": 16
       },
-      "move_player_pos": {
+      "lock_difficulty": {
         "protocol_id": 17
       },
-      "move_player_pos_rot": {
+      "move_player_pos": {
         "protocol_id": 18
       },
-      "move_player_rot": {
+      "move_player_pos_rot": {
         "protocol_id": 19
       },
-      "move_player": {
+      "move_player_rot": {
         "protocol_id": 20
       },
-      "move_vehicle": {
+      "move_player": {
         "protocol_id": 21
       },
-      "paddle_boat": {
+      "move_vehicle": {
         "protocol_id": 22
       },
-      "pick_item": {
+      "paddle_boat": {
         "protocol_id": 23
       },
-      "place_recipe": {
+      "pick_item": {
         "protocol_id": 24
       },
-      "player_abilities": {
+      "place_recipe": {
         "protocol_id": 25
       },
-      "player_action": {
+      "player_abilities": {
         "protocol_id": 26
       },
-      "player_command": {
+      "player_action": {
         "protocol_id": 27
       },
-      "player_input": {
+      "player_command": {
         "protocol_id": 28
       },
-      "recipe_book_update": {
+      "player_input": {
         "protocol_id": 29
       },
-      "rename_item": {
+      "recipe_book_update": {
         "protocol_id": 30
       },
-      "resource_pack": {
+      "rename_item": {
         "protocol_id": 31
       },
-      "seen_advancements": {
+      "resource_pack": {
         "protocol_id": 32
       },
-      "select_trade": {
+      "seen_advancements": {
         "protocol_id": 33
       },
-      "set_beacon": {
+      "select_trade": {
         "protocol_id": 34
       },
-      "set_carried_item": {
+      "set_beacon": {
         "protocol_id": 35
       },
-      "set_command_block": {
+      "set_carried_item": {
         "protocol_id": 36
       },
-      "set_command_minecart": {
+      "set_command_block": {
         "protocol_id": 37
       },
-      "set_creative_mode_slot": {
+      "set_command_minecart": {
         "protocol_id": 38
       },
-      "set_jigsaw_block": {
+      "set_creative_mode_slot": {
         "protocol_id": 39
       },
-      "set_structure_block": {
+      "set_jigsaw_block": {
         "protocol_id": 40
       },
-      "sign_update": {
+      "set_structure_block": {
         "protocol_id": 41
       },
-      "swing": {
+      "sign_update": {
         "protocol_id": 42
       },
-      "teleport_to_entity": {
+      "swing": {
         "protocol_id": 43
       },
-      "use_item_on": {
+      "teleport_to_entity": {
         "protocol_id": 44
       },
-      "use_item": {
+      "use_item_on": {
         "protocol_id": 45
+      },
+      "use_item": {
+        "protocol_id": 46
       }
     },
     "clientbound": {
