@@ -1636,9 +1636,9 @@
           "type": 8
         },
         {
-          "name": "DATA_INTERPOLATION_START_TICKS_ID",
+          "name": "DATA_INTERPOLATION_START_DELTA_TICKS_ID",
           "id": 8,
-          "type": 2
+          "type": 1
         },
         {
           "name": "DATA_INTERPOLATION_DURATION_ID",
@@ -10057,9 +10057,9 @@
           "type": 0
         },
         {
-          "name": "DATA_INTERPOLATION_START_TICKS_ID",
+          "name": "DATA_INTERPOLATION_START_DELTA_TICKS_ID",
           "id": 8,
-          "type": 2
+          "type": 1
         },
         {
           "name": "DATA_INTERPOLATION_DURATION_ID",
@@ -18151,9 +18151,9 @@
           "type": 0
         },
         {
-          "name": "DATA_INTERPOLATION_START_TICKS_ID",
+          "name": "DATA_INTERPOLATION_START_DELTA_TICKS_ID",
           "id": 8,
-          "type": 2
+          "type": 1
         },
         {
           "name": "DATA_INTERPOLATION_DURATION_ID",
