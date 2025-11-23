@@ -5243,7 +5243,7 @@
     "protocol_id": 40,
     "identifier": "minecraft:leash_knot",
     "dimensions": {
-      "width": 0.5,
+      "width": 0.375,
       "height": 0.5,
       "eye_height": 0.425,
       "fixed": false
@@ -5251,45 +5251,45 @@
     "attributes": {
       "poses": {
         "standing": {
-          "width": 0.5,
+          "width": 0.375,
           "height": 0.5,
-          "eye_height": -0.0625,
+          "eye_height": 0.0625,
           "fixed": false
         },
         "fall_flying": {
-          "width": 0.5,
+          "width": 0.375,
           "height": 0.5,
-          "eye_height": -0.0625,
+          "eye_height": 0.0625,
           "fixed": false
         },
         "sleeping": {
-          "width": 0.5,
+          "width": 0.375,
           "height": 0.5,
-          "eye_height": -0.0625,
+          "eye_height": 0.0625,
           "fixed": false
         },
         "swimming": {
-          "width": 0.5,
+          "width": 0.375,
           "height": 0.5,
-          "eye_height": -0.0625,
+          "eye_height": 0.0625,
           "fixed": false
         },
         "spin_attack": {
-          "width": 0.5,
+          "width": 0.375,
           "height": 0.5,
-          "eye_height": -0.0625,
+          "eye_height": 0.0625,
           "fixed": false
         },
         "crouching": {
-          "width": 0.5,
+          "width": 0.375,
           "height": 0.5,
-          "eye_height": -0.0625,
+          "eye_height": 0.0625,
           "fixed": false
         },
         "dying": {
-          "width": 0.5,
+          "width": 0.375,
           "height": 0.5,
-          "eye_height": -0.0625,
+          "eye_height": 0.0625,
           "fixed": false
         }
       },
@@ -14010,6 +14010,99 @@
       "height": 0.25,
       "eye_height": 0.2125,
       "fixed": false
+    },
+    "attributes": {
+      "poses": {
+        "standing": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "fall_flying": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "sleeping": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "swimming": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "spin_attack": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "crouching": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "dying": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        }
+      },
+      "data_tracker": [
+        {
+          "name": "DATA_HOOKED_ENTITY",
+          "id": 7,
+          "type": 1
+        },
+        {
+          "name": "DATA_BITING",
+          "id": 8,
+          "type": 8
+        },
+        {
+          "name": "DATA_SHARED_FLAGS_ID",
+          "id": 0,
+          "type": 0
+        },
+        {
+          "name": "DATA_AIR_SUPPLY_ID",
+          "id": 1,
+          "type": 1
+        },
+        {
+          "name": "DATA_CUSTOM_NAME",
+          "id": 2,
+          "type": 5
+        },
+        {
+          "name": "DATA_CUSTOM_NAME_VISIBLE",
+          "id": 3,
+          "type": 8
+        },
+        {
+          "name": "DATA_SILENT",
+          "id": 4,
+          "type": 8
+        },
+        {
+          "name": "DATA_NO_GRAVITY",
+          "id": 5,
+          "type": 8
+        },
+        {
+          "name": "DATA_POSE",
+          "id": 6,
+          "type": 18
+        }
+      ]
     }
   }
 ]

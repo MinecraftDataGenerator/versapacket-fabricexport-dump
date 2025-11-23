@@ -139,4 +139,3 @@
 [BLOCK] Cannot serialize voxel shapes for block: Block{minecraft:bamboo}
 [BLOCK] Cannot serialize voxel shapes for block: Block{minecraft:bamboo}
 [ENTITY] Cannot dump internal attributes of entity.minecraft.player
-[ENTITY] Cannot dump internal attributes of entity.minecraft.fishing_bobber
