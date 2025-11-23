@@ -5138,18 +5138,23 @@
       "data_tracker": [
         {
           "name": "TREASURE_POS",
-          "id": 16,
+          "id": 17,
           "type": 14
         },
         {
           "name": "GOT_FISH",
-          "id": 17,
+          "id": 18,
           "type": 10
         },
         {
           "name": "MOISTNESS_LEVEL",
-          "id": 18,
+          "id": 19,
           "type": 1
+        },
+        {
+          "name": "DATA_BABY_ID",
+          "id": 16,
+          "type": 10
         },
         {
           "name": "DATA_MOB_FLAGS_ID",
@@ -9779,8 +9784,13 @@
       "data_tracker": [
         {
           "name": "DATA_DARK_TICKS_REMAINING",
-          "id": 16,
+          "id": 17,
           "type": 1
+        },
+        {
+          "name": "DATA_BABY_ID",
+          "id": 16,
+          "type": 10
         },
         {
           "name": "DATA_MOB_FLAGS_ID",
@@ -17465,6 +17475,11 @@
       },
       "data_tracker": [
         {
+          "name": "DATA_TYPE",
+          "id": 17,
+          "type": 4
+        },
+        {
           "name": "FROM_BUCKET",
           "id": 16,
           "type": 10
@@ -20449,6 +20464,11 @@
         }
       },
       "data_tracker": [
+        {
+          "name": "DATA_BABY_ID",
+          "id": 16,
+          "type": 10
+        },
         {
           "name": "DATA_MOB_FLAGS_ID",
           "id": 15,
