@@ -398,5 +398,9 @@
   {
     "protocol_id": 99,
     "identifier": "minecraft:trial_spawner_detection"
+  },
+  {
+    "protocol_id": 100,
+    "identifier": "minecraft:vault_connection"
   }
 ]
