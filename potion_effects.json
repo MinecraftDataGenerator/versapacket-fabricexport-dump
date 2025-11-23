@@ -9,7 +9,7 @@
         "attribute": "minecraft:generic.movement_speed",
         "identifier": "91aeaa56-376b-4498-935b-2f7f68070635",
         "base_value": 0.20000000298023224,
-        "operation": "multiply_total"
+        "operation": "add_multiplied_total"
       }
     ]
   },
@@ -23,7 +23,7 @@
         "attribute": "minecraft:generic.movement_speed",
         "identifier": "7107de5e-7ce8-4030-940e-514c1f160890",
         "base_value": -0.15000000596046448,
-        "operation": "multiply_total"
+        "operation": "add_multiplied_total"
       }
     ]
   },
@@ -37,7 +37,7 @@
         "attribute": "minecraft:generic.attack_speed",
         "identifier": "af8b6e3f-3328-4c0a-aa36-5ba2bb9dbef3",
         "base_value": 0.10000000149011612,
-        "operation": "multiply_total"
+        "operation": "add_multiplied_total"
       }
     ]
   },
@@ -51,7 +51,7 @@
         "attribute": "minecraft:generic.attack_speed",
         "identifier": "55fced67-e92a-486e-9800-b47f202c4386",
         "base_value": -0.10000000149011612,
-        "operation": "multiply_total"
+        "operation": "add_multiplied_total"
       }
     ]
   },
@@ -65,7 +65,7 @@
         "attribute": "minecraft:generic.attack_damage",
         "identifier": "648d7064-6a60-4f59-8abe-c2c23a6dd7a9",
         "base_value": 3.0,
-        "operation": "addition"
+        "operation": "add_value"
       }
     ]
   },
@@ -93,7 +93,7 @@
         "attribute": "minecraft:generic.safe_fall_distance",
         "identifier": "c0105bf3-aef8-46b0-9ebc-92943757ccbe",
         "base_value": 1.0,
-        "operation": "addition"
+        "operation": "add_value"
       }
     ]
   },
@@ -170,7 +170,7 @@
         "attribute": "minecraft:generic.attack_damage",
         "identifier": "22653b89-116e-49dc-9b6b-9971489b5be5",
         "base_value": -4.0,
-        "operation": "addition"
+        "operation": "add_value"
       }
     ]
   },
@@ -198,7 +198,7 @@
         "attribute": "minecraft:generic.max_health",
         "identifier": "5d6f0ba2-1186-46ac-b896-c61c5cee99cc",
         "base_value": 4.0,
-        "operation": "addition"
+        "operation": "add_value"
       }
     ]
   },
@@ -212,7 +212,7 @@
         "attribute": "minecraft:generic.max_absorption",
         "identifier": "eae29cf0-701e-4ed6-883a-96f798f3dab5",
         "base_value": 4.0,
-        "operation": "addition"
+        "operation": "add_value"
       }
     ]
   },
@@ -247,7 +247,7 @@
         "attribute": "minecraft:generic.luck",
         "identifier": "03c3c89d-7037-4b42-869f-b146bcb64d2e",
         "base_value": 1.0,
-        "operation": "addition"
+        "operation": "add_value"
       }
     ]
   },
@@ -261,7 +261,7 @@
         "attribute": "minecraft:generic.luck",
         "identifier": "cc5af142-2bd2-4215-b636-2605aed11727",
         "base_value": -1.0,
-        "operation": "addition"
+        "operation": "add_value"
       }
     ]
   },
