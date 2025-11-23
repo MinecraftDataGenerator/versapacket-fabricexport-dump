@@ -332,7 +332,7 @@
       "data_tracker": [
         {
           "name": "ID_EFFECT_COLOR",
-          "id": 10,
+          "id": 9,
           "type": 1
         },
         {
@@ -341,13 +341,8 @@
           "type": 0
         },
         {
-          "name": "DATA_OWNERUUID_ID",
-          "id": 8,
-          "type": 14
-        },
-        {
           "name": "PIERCE_LEVEL",
-          "id": 9,
+          "id": 8,
           "type": 0
         },
         {
@@ -9481,13 +9476,8 @@
           "type": 0
         },
         {
-          "name": "DATA_OWNERUUID_ID",
-          "id": 8,
-          "type": 14
-        },
-        {
           "name": "PIERCE_LEVEL",
-          "id": 9,
+          "id": 8,
           "type": 0
         },
         {
@@ -10860,12 +10850,12 @@
       "data_tracker": [
         {
           "name": "ID_LOYALTY",
-          "id": 10,
+          "id": 9,
           "type": 0
         },
         {
           "name": "ID_FOIL",
-          "id": 11,
+          "id": 10,
           "type": 8
         },
         {
@@ -10874,13 +10864,8 @@
           "type": 0
         },
         {
-          "name": "DATA_OWNERUUID_ID",
-          "id": 8,
-          "type": 14
-        },
-        {
           "name": "PIERCE_LEVEL",
-          "id": 9,
+          "id": 8,
           "type": 0
         },
         {
