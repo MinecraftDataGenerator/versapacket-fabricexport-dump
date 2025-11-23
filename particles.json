@@ -262,5 +262,17 @@
   {
     "protocol_id": 65,
     "identifier": "minecraft:warped_spore"
+  },
+  {
+    "protocol_id": 66,
+    "identifier": "minecraft:dripping_obsidian_tear"
+  },
+  {
+    "protocol_id": 67,
+    "identifier": "minecraft:falling_obsidian_tear"
+  },
+  {
+    "protocol_id": 68,
+    "identifier": "minecraft:landing_obsidian_tear"
   }
 ]
