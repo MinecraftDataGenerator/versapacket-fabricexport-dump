@@ -7900,18 +7900,13 @@
           "type": 8
         },
         {
-          "name": "DATA_IMMUNE_TO_ZOMBIFICATION",
+          "name": "DATA_IS_CHARGING_CROSSBOW",
           "id": 17,
           "type": 8
         },
         {
-          "name": "DATA_IS_CHARGING_CROSSBOW",
-          "id": 18,
-          "type": 8
-        },
-        {
           "name": "DATA_IS_DANCING",
-          "id": 19,
+          "id": 18,
           "type": 8
         },
         {
