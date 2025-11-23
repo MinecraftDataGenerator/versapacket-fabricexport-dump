@@ -11237,6 +11237,11 @@
       },
       "data_tracker": [
         {
+          "name": "DATA_PAINTING_VARIANT_ID",
+          "id": 8,
+          "type": 22
+        },
+        {
           "name": "DATA_SHARED_FLAGS_ID",
           "id": 0,
           "type": 0
