@@ -290,5 +290,9 @@
   {
     "protocol_id": 72,
     "identifier": "minecraft:small_flame"
+  },
+  {
+    "protocol_id": 73,
+    "identifier": "minecraft:snowflake"
   }
 ]
