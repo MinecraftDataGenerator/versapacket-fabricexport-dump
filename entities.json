@@ -10423,6 +10423,11 @@
       },
       "data_tracker": [
         {
+          "name": "DATA_STRAY_CONVERSION_ID",
+          "id": 16,
+          "type": 8
+        },
+        {
           "name": "DATA_MOB_FLAGS_ID",
           "id": 15,
           "type": 0
