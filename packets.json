@@ -1,4 +1,22 @@
 {
+  "status": {
+    "serverbound": {
+      "minecraft:status_request": {
+        "protocol_id": 0
+      },
+      "minecraft:ping_request": {
+        "protocol_id": 1
+      }
+    },
+    "clientbound": {
+      "minecraft:status_response": {
+        "protocol_id": 0
+      },
+      "minecraft:pong_response": {
+        "protocol_id": 1
+      }
+    }
+  },
   "play": {
     "serverbound": {
       "minecraft:accept_teleportation": {
@@ -545,6 +563,13 @@
       }
     }
   },
+  "handshake": {
+    "serverbound": {
+      "minecraft:intention": {
+        "protocol_id": 0
+      }
+    }
+  },
   "configuration": {
     "serverbound": {
       "minecraft:client_information": {
@@ -617,31 +642,6 @@
       },
       "minecraft:select_known_packs": {
         "protocol_id": 14
-      }
-    }
-  },
-  "status": {
-    "serverbound": {
-      "minecraft:status_request": {
-        "protocol_id": 0
-      },
-      "minecraft:ping_request": {
-        "protocol_id": 1
-      }
-    },
-    "clientbound": {
-      "minecraft:status_response": {
-        "protocol_id": 0
-      },
-      "minecraft:pong_response": {
-        "protocol_id": 1
-      }
-    }
-  },
-  "handshake": {
-    "serverbound": {
-      "minecraft:intention": {
-        "protocol_id": 0
       }
     }
   },
