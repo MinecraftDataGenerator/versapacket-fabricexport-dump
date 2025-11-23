@@ -366,5 +366,9 @@
   {
     "protocol_id": 91,
     "identifier": "minecraft:shriek"
+  },
+  {
+    "protocol_id": 92,
+    "identifier": "minecraft:allay_dust"
   }
 ]
