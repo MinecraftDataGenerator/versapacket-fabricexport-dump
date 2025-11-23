@@ -179,7 +179,7 @@
       "award_stats": {
         "protocol_id": 7
       },
-      "block_break_ack": {
+      "block_changed_ack": {
         "protocol_id": 8
       },
       "block_destruction": {
