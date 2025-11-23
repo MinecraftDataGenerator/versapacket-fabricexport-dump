@@ -1857,21 +1857,6 @@
       },
       "data_tracker": [
         {
-          "name": "DATA_ID_HURT",
-          "id": 8,
-          "type": 1
-        },
-        {
-          "name": "DATA_ID_HURTDIR",
-          "id": 9,
-          "type": 1
-        },
-        {
-          "name": "DATA_ID_DAMAGE",
-          "id": 10,
-          "type": 3
-        },
-        {
           "name": "DATA_ID_TYPE",
           "id": 11,
           "type": 1
@@ -1890,6 +1875,21 @@
           "name": "DATA_ID_BUBBLE_TIME",
           "id": 14,
           "type": 1
+        },
+        {
+          "name": "DATA_ID_HURT",
+          "id": 8,
+          "type": 1
+        },
+        {
+          "name": "DATA_ID_HURTDIR",
+          "id": 9,
+          "type": 1
+        },
+        {
+          "name": "DATA_ID_DAMAGE",
+          "id": 10,
+          "type": 3
         },
         {
           "name": "DATA_SHARED_FLAGS_ID",
@@ -2656,21 +2656,6 @@
       },
       "data_tracker": [
         {
-          "name": "DATA_ID_HURT",
-          "id": 8,
-          "type": 1
-        },
-        {
-          "name": "DATA_ID_HURTDIR",
-          "id": 9,
-          "type": 1
-        },
-        {
-          "name": "DATA_ID_DAMAGE",
-          "id": 10,
-          "type": 3
-        },
-        {
           "name": "DATA_ID_TYPE",
           "id": 11,
           "type": 1
@@ -2689,6 +2674,21 @@
           "name": "DATA_ID_BUBBLE_TIME",
           "id": 14,
           "type": 1
+        },
+        {
+          "name": "DATA_ID_HURT",
+          "id": 8,
+          "type": 1
+        },
+        {
+          "name": "DATA_ID_HURTDIR",
+          "id": 9,
+          "type": 1
+        },
+        {
+          "name": "DATA_ID_DAMAGE",
+          "id": 10,
+          "type": 3
         },
         {
           "name": "DATA_SHARED_FLAGS_ID",
@@ -2837,21 +2837,6 @@
       },
       "data_tracker": [
         {
-          "name": "DATA_ID_HURT",
-          "id": 8,
-          "type": 1
-        },
-        {
-          "name": "DATA_ID_HURTDIR",
-          "id": 9,
-          "type": 1
-        },
-        {
-          "name": "DATA_ID_DAMAGE",
-          "id": 10,
-          "type": 3
-        },
-        {
           "name": "DATA_ID_DISPLAY_BLOCK",
           "id": 11,
           "type": 1
@@ -2865,6 +2850,21 @@
           "name": "DATA_ID_CUSTOM_DISPLAY",
           "id": 13,
           "type": 10
+        },
+        {
+          "name": "DATA_ID_HURT",
+          "id": 8,
+          "type": 1
+        },
+        {
+          "name": "DATA_ID_HURTDIR",
+          "id": 9,
+          "type": 1
+        },
+        {
+          "name": "DATA_ID_DAMAGE",
+          "id": 10,
+          "type": 3
         },
         {
           "name": "DATA_SHARED_FLAGS_ID",
@@ -3405,21 +3405,6 @@
           "type": 5
         },
         {
-          "name": "DATA_ID_HURT",
-          "id": 8,
-          "type": 1
-        },
-        {
-          "name": "DATA_ID_HURTDIR",
-          "id": 9,
-          "type": 1
-        },
-        {
-          "name": "DATA_ID_DAMAGE",
-          "id": 10,
-          "type": 3
-        },
-        {
           "name": "DATA_ID_DISPLAY_BLOCK",
           "id": 11,
           "type": 1
@@ -3433,6 +3418,21 @@
           "name": "DATA_ID_CUSTOM_DISPLAY",
           "id": 13,
           "type": 10
+        },
+        {
+          "name": "DATA_ID_HURT",
+          "id": 8,
+          "type": 1
+        },
+        {
+          "name": "DATA_ID_HURTDIR",
+          "id": 9,
+          "type": 1
+        },
+        {
+          "name": "DATA_ID_DAMAGE",
+          "id": 10,
+          "type": 3
         },
         {
           "name": "DATA_SHARED_FLAGS_ID",
@@ -7473,21 +7473,6 @@
           "type": 10
         },
         {
-          "name": "DATA_ID_HURT",
-          "id": 8,
-          "type": 1
-        },
-        {
-          "name": "DATA_ID_HURTDIR",
-          "id": 9,
-          "type": 1
-        },
-        {
-          "name": "DATA_ID_DAMAGE",
-          "id": 10,
-          "type": 3
-        },
-        {
           "name": "DATA_ID_DISPLAY_BLOCK",
           "id": 11,
           "type": 1
@@ -7501,6 +7486,21 @@
           "name": "DATA_ID_CUSTOM_DISPLAY",
           "id": 13,
           "type": 10
+        },
+        {
+          "name": "DATA_ID_HURT",
+          "id": 8,
+          "type": 1
+        },
+        {
+          "name": "DATA_ID_HURTDIR",
+          "id": 9,
+          "type": 1
+        },
+        {
+          "name": "DATA_ID_DAMAGE",
+          "id": 10,
+          "type": 3
         },
         {
           "name": "DATA_SHARED_FLAGS_ID",
@@ -8971,21 +8971,6 @@
       },
       "data_tracker": [
         {
-          "name": "DATA_ID_HURT",
-          "id": 8,
-          "type": 1
-        },
-        {
-          "name": "DATA_ID_HURTDIR",
-          "id": 9,
-          "type": 1
-        },
-        {
-          "name": "DATA_ID_DAMAGE",
-          "id": 10,
-          "type": 3
-        },
-        {
           "name": "DATA_ID_DISPLAY_BLOCK",
           "id": 11,
           "type": 1
@@ -8999,6 +8984,21 @@
           "name": "DATA_ID_CUSTOM_DISPLAY",
           "id": 13,
           "type": 10
+        },
+        {
+          "name": "DATA_ID_HURT",
+          "id": 8,
+          "type": 1
+        },
+        {
+          "name": "DATA_ID_HURTDIR",
+          "id": 9,
+          "type": 1
+        },
+        {
+          "name": "DATA_ID_DAMAGE",
+          "id": 10,
+          "type": 3
         },
         {
           "name": "DATA_SHARED_FLAGS_ID",
@@ -11777,21 +11777,6 @@
       },
       "data_tracker": [
         {
-          "name": "DATA_ID_HURT",
-          "id": 8,
-          "type": 1
-        },
-        {
-          "name": "DATA_ID_HURTDIR",
-          "id": 9,
-          "type": 1
-        },
-        {
-          "name": "DATA_ID_DAMAGE",
-          "id": 10,
-          "type": 3
-        },
-        {
           "name": "DATA_ID_DISPLAY_BLOCK",
           "id": 11,
           "type": 1
@@ -11805,6 +11790,21 @@
           "name": "DATA_ID_CUSTOM_DISPLAY",
           "id": 13,
           "type": 10
+        },
+        {
+          "name": "DATA_ID_HURT",
+          "id": 8,
+          "type": 1
+        },
+        {
+          "name": "DATA_ID_HURTDIR",
+          "id": 9,
+          "type": 1
+        },
+        {
+          "name": "DATA_ID_DAMAGE",
+          "id": 10,
+          "type": 3
         },
         {
           "name": "DATA_SHARED_FLAGS_ID",
@@ -17231,21 +17231,6 @@
       },
       "data_tracker": [
         {
-          "name": "DATA_ID_HURT",
-          "id": 8,
-          "type": 1
-        },
-        {
-          "name": "DATA_ID_HURTDIR",
-          "id": 9,
-          "type": 1
-        },
-        {
-          "name": "DATA_ID_DAMAGE",
-          "id": 10,
-          "type": 3
-        },
-        {
           "name": "DATA_ID_DISPLAY_BLOCK",
           "id": 11,
           "type": 1
@@ -17259,6 +17244,21 @@
           "name": "DATA_ID_CUSTOM_DISPLAY",
           "id": 13,
           "type": 10
+        },
+        {
+          "name": "DATA_ID_HURT",
+          "id": 8,
+          "type": 1
+        },
+        {
+          "name": "DATA_ID_HURTDIR",
+          "id": 9,
+          "type": 1
+        },
+        {
+          "name": "DATA_ID_DAMAGE",
+          "id": 10,
+          "type": 3
         },
         {
           "name": "DATA_SHARED_FLAGS_ID",
@@ -18920,21 +18920,6 @@
       },
       "data_tracker": [
         {
-          "name": "DATA_ID_HURT",
-          "id": 8,
-          "type": 1
-        },
-        {
-          "name": "DATA_ID_HURTDIR",
-          "id": 9,
-          "type": 1
-        },
-        {
-          "name": "DATA_ID_DAMAGE",
-          "id": 10,
-          "type": 3
-        },
-        {
           "name": "DATA_ID_DISPLAY_BLOCK",
           "id": 11,
           "type": 1
@@ -18948,6 +18933,21 @@
           "name": "DATA_ID_CUSTOM_DISPLAY",
           "id": 13,
           "type": 10
+        },
+        {
+          "name": "DATA_ID_HURT",
+          "id": 8,
+          "type": 1
+        },
+        {
+          "name": "DATA_ID_HURTDIR",
+          "id": 9,
+          "type": 1
+        },
+        {
+          "name": "DATA_ID_DAMAGE",
+          "id": 10,
+          "type": 3
         },
         {
           "name": "DATA_SHARED_FLAGS_ID",
