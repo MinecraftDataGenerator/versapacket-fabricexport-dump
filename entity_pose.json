@@ -8,5 +8,9 @@
   "long_jumping",
   "dying",
   "croaking",
-  "using_tongue"
+  "using_tongue",
+  "roaring",
+  "sniffing",
+  "emerging",
+  "digging"
 ]

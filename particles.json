@@ -362,5 +362,9 @@
   {
     "protocol_id": 90,
     "identifier": "minecraft:scrape"
+  },
+  {
+    "protocol_id": 91,
+    "identifier": "minecraft:shriek"
   }
 ]
