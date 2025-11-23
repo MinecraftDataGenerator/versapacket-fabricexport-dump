@@ -282,5 +282,9 @@
   {
     "protocol_id": 70,
     "identifier": "minecraft:reverse_portal"
+  },
+  {
+    "protocol_id": 71,
+    "identifier": "minecraft:white_ash"
   }
 ]
