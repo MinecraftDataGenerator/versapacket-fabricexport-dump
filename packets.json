@@ -17,6 +17,13 @@
       }
     }
   },
+  "handshake": {
+    "serverbound": {
+      "minecraft:intention": {
+        "protocol_id": 0
+      }
+    }
+  },
   "play": {
     "clientbound": {
       "minecraft:bundle_delimiter": {
@@ -653,13 +660,6 @@
       },
       "minecraft:resource_pack": {
         "protocol_id": 6
-      }
-    }
-  },
-  "handshake": {
-    "serverbound": {
-      "minecraft:intention": {
-        "protocol_id": 0
       }
     }
   }
