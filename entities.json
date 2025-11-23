@@ -289,43 +289,43 @@
         "standing": {
           "width": 0.5,
           "height": 0.5,
-          "eye_height": 0.0,
+          "eye_height": 0.13,
           "fixed": false
         },
         "fall_flying": {
           "width": 0.5,
           "height": 0.5,
-          "eye_height": 0.0,
+          "eye_height": 0.13,
           "fixed": false
         },
         "sleeping": {
           "width": 0.5,
           "height": 0.5,
-          "eye_height": 0.0,
+          "eye_height": 0.13,
           "fixed": false
         },
         "swimming": {
           "width": 0.5,
           "height": 0.5,
-          "eye_height": 0.0,
+          "eye_height": 0.13,
           "fixed": false
         },
         "spin_attack": {
           "width": 0.5,
           "height": 0.5,
-          "eye_height": 0.0,
+          "eye_height": 0.13,
           "fixed": false
         },
         "crouching": {
           "width": 0.5,
           "height": 0.5,
-          "eye_height": 0.0,
+          "eye_height": 0.13,
           "fixed": false
         },
         "dying": {
           "width": 0.5,
           "height": 0.5,
-          "eye_height": 0.0,
+          "eye_height": 0.13,
           "fixed": false
         }
       },
@@ -2896,13 +2896,13 @@
         "standing": {
           "width": 0.4,
           "height": 0.3,
-          "eye_height": 0.1,
+          "eye_height": 0.13,
           "fixed": false
         },
         "fall_flying": {
           "width": 0.4,
           "height": 0.3,
-          "eye_height": 0.1,
+          "eye_height": 0.13,
           "fixed": false
         },
         "sleeping": {
@@ -2914,25 +2914,25 @@
         "swimming": {
           "width": 0.4,
           "height": 0.3,
-          "eye_height": 0.1,
+          "eye_height": 0.13,
           "fixed": false
         },
         "spin_attack": {
           "width": 0.4,
           "height": 0.3,
-          "eye_height": 0.1,
+          "eye_height": 0.13,
           "fixed": false
         },
         "crouching": {
           "width": 0.4,
           "height": 0.3,
-          "eye_height": 0.1,
+          "eye_height": 0.13,
           "fixed": false
         },
         "dying": {
           "width": 0.4,
           "height": 0.3,
-          "eye_height": 0.1,
+          "eye_height": 0.13,
           "fixed": false
         }
       },
@@ -7780,43 +7780,43 @@
         "standing": {
           "width": 0.98,
           "height": 0.98,
-          "eye_height": 0.0,
+          "eye_height": 0.15,
           "fixed": false
         },
         "fall_flying": {
           "width": 0.98,
           "height": 0.98,
-          "eye_height": 0.0,
+          "eye_height": 0.15,
           "fixed": false
         },
         "sleeping": {
           "width": 0.98,
           "height": 0.98,
-          "eye_height": 0.0,
+          "eye_height": 0.15,
           "fixed": false
         },
         "swimming": {
           "width": 0.98,
           "height": 0.98,
-          "eye_height": 0.0,
+          "eye_height": 0.15,
           "fixed": false
         },
         "spin_attack": {
           "width": 0.98,
           "height": 0.98,
-          "eye_height": 0.0,
+          "eye_height": 0.15,
           "fixed": false
         },
         "crouching": {
           "width": 0.98,
           "height": 0.98,
-          "eye_height": 0.0,
+          "eye_height": 0.15,
           "fixed": false
         },
         "dying": {
           "width": 0.98,
           "height": 0.98,
-          "eye_height": 0.0,
+          "eye_height": 0.15,
           "fixed": false
         }
       },
@@ -8548,13 +8548,13 @@
         "standing": {
           "width": 0.4,
           "height": 0.3,
-          "eye_height": 0.1,
+          "eye_height": 0.13,
           "fixed": false
         },
         "fall_flying": {
           "width": 0.4,
           "height": 0.3,
-          "eye_height": 0.1,
+          "eye_height": 0.13,
           "fixed": false
         },
         "sleeping": {
@@ -8566,25 +8566,25 @@
         "swimming": {
           "width": 0.4,
           "height": 0.3,
-          "eye_height": 0.1,
+          "eye_height": 0.13,
           "fixed": false
         },
         "spin_attack": {
           "width": 0.4,
           "height": 0.3,
-          "eye_height": 0.1,
+          "eye_height": 0.13,
           "fixed": false
         },
         "crouching": {
           "width": 0.4,
           "height": 0.3,
-          "eye_height": 0.1,
+          "eye_height": 0.13,
           "fixed": false
         },
         "dying": {
           "width": 0.4,
           "height": 0.3,
-          "eye_height": 0.1,
+          "eye_height": 0.13,
           "fixed": false
         }
       },
@@ -9434,43 +9434,43 @@
         "standing": {
           "width": 0.5,
           "height": 0.5,
-          "eye_height": 0.0,
+          "eye_height": 0.13,
           "fixed": false
         },
         "fall_flying": {
           "width": 0.5,
           "height": 0.5,
-          "eye_height": 0.0,
+          "eye_height": 0.13,
           "fixed": false
         },
         "sleeping": {
           "width": 0.5,
           "height": 0.5,
-          "eye_height": 0.0,
+          "eye_height": 0.13,
           "fixed": false
         },
         "swimming": {
           "width": 0.5,
           "height": 0.5,
-          "eye_height": 0.0,
+          "eye_height": 0.13,
           "fixed": false
         },
         "spin_attack": {
           "width": 0.5,
           "height": 0.5,
-          "eye_height": 0.0,
+          "eye_height": 0.13,
           "fixed": false
         },
         "crouching": {
           "width": 0.5,
           "height": 0.5,
-          "eye_height": 0.0,
+          "eye_height": 0.13,
           "fixed": false
         },
         "dying": {
           "width": 0.5,
           "height": 0.5,
-          "eye_height": 0.0,
+          "eye_height": 0.13,
           "fixed": false
         }
       },
@@ -10817,43 +10817,43 @@
         "standing": {
           "width": 0.5,
           "height": 0.5,
-          "eye_height": 0.0,
+          "eye_height": 0.13,
           "fixed": false
         },
         "fall_flying": {
           "width": 0.5,
           "height": 0.5,
-          "eye_height": 0.0,
+          "eye_height": 0.13,
           "fixed": false
         },
         "sleeping": {
           "width": 0.5,
           "height": 0.5,
-          "eye_height": 0.0,
+          "eye_height": 0.13,
           "fixed": false
         },
         "swimming": {
           "width": 0.5,
           "height": 0.5,
-          "eye_height": 0.0,
+          "eye_height": 0.13,
           "fixed": false
         },
         "spin_attack": {
           "width": 0.5,
           "height": 0.5,
-          "eye_height": 0.0,
+          "eye_height": 0.13,
           "fixed": false
         },
         "crouching": {
           "width": 0.5,
           "height": 0.5,
-          "eye_height": 0.0,
+          "eye_height": 0.13,
           "fixed": false
         },
         "dying": {
           "width": 0.5,
           "height": 0.5,
-          "eye_height": 0.0,
+          "eye_height": 0.13,
           "fixed": false
         }
       },
@@ -13186,6 +13186,139 @@
   },
   {
     "protocol_id": 100,
+    "identifier": "minecraft:hoglin",
+    "dimensions": {
+      "width": 0.9,
+      "height": 0.9,
+      "eye_height": 0.765,
+      "fixed": false
+    },
+    "attributes": {
+      "poses": {
+        "standing": {
+          "width": 0.9,
+          "height": 0.9,
+          "eye_height": 0.765,
+          "fixed": false
+        },
+        "fall_flying": {
+          "width": 0.9,
+          "height": 0.9,
+          "eye_height": 0.765,
+          "fixed": false
+        },
+        "sleeping": {
+          "width": 0.2,
+          "height": 0.2,
+          "eye_height": 0.2,
+          "fixed": true
+        },
+        "swimming": {
+          "width": 0.9,
+          "height": 0.9,
+          "eye_height": 0.765,
+          "fixed": false
+        },
+        "spin_attack": {
+          "width": 0.9,
+          "height": 0.9,
+          "eye_height": 0.765,
+          "fixed": false
+        },
+        "crouching": {
+          "width": 0.9,
+          "height": 0.9,
+          "eye_height": 0.765,
+          "fixed": false
+        },
+        "dying": {
+          "width": 0.9,
+          "height": 0.9,
+          "eye_height": 0.765,
+          "fixed": false
+        }
+      },
+      "data_tracker": [
+        {
+          "name": "DATA_MOB_FLAGS_ID",
+          "id": 14,
+          "type": 0
+        },
+        {
+          "name": "DATA_LIVING_ENTITY_FLAGS",
+          "id": 7,
+          "type": 0
+        },
+        {
+          "name": "DATA_HEALTH_ID",
+          "id": 8,
+          "type": 2
+        },
+        {
+          "name": "DATA_EFFECT_COLOR_ID",
+          "id": 9,
+          "type": 1
+        },
+        {
+          "name": "DATA_EFFECT_AMBIENCE_ID",
+          "id": 10,
+          "type": 8
+        },
+        {
+          "name": "DATA_ARROW_COUNT_ID",
+          "id": 11,
+          "type": 1
+        },
+        {
+          "name": "DATA_STINGER_COUNT_ID",
+          "id": 12,
+          "type": 1
+        },
+        {
+          "name": "SLEEPING_POS_ID",
+          "id": 13,
+          "type": 12
+        },
+        {
+          "name": "DATA_SHARED_FLAGS_ID",
+          "id": 0,
+          "type": 0
+        },
+        {
+          "name": "DATA_AIR_SUPPLY_ID",
+          "id": 1,
+          "type": 1
+        },
+        {
+          "name": "DATA_CUSTOM_NAME",
+          "id": 2,
+          "type": 5
+        },
+        {
+          "name": "DATA_CUSTOM_NAME_VISIBLE",
+          "id": 3,
+          "type": 8
+        },
+        {
+          "name": "DATA_SILENT",
+          "id": 4,
+          "type": 8
+        },
+        {
+          "name": "DATA_NO_GRAVITY",
+          "id": 5,
+          "type": 8
+        },
+        {
+          "name": "DATA_POSE",
+          "id": 6,
+          "type": 18
+        }
+      ]
+    }
+  },
+  {
+    "protocol_id": 101,
     "identifier": "minecraft:lightning_bolt",
     "dimensions": {
       "width": 0.0,
@@ -13195,7 +13328,7 @@
     }
   },
   {
-    "protocol_id": 101,
+    "protocol_id": 102,
     "identifier": "minecraft:player",
     "dimensions": {
       "width": 0.6,
@@ -13205,7 +13338,7 @@
     }
   },
   {
-    "protocol_id": 102,
+    "protocol_id": 103,
     "identifier": "minecraft:fishing_bobber",
     "dimensions": {
       "width": 0.25,
