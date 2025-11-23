@@ -54,122 +54,125 @@
       "container_close": {
         "protocol_id": 14
       },
-      "custom_payload": {
+      "container_slot_state_changed": {
         "protocol_id": 15
       },
-      "edit_book": {
+      "custom_payload": {
         "protocol_id": 16
       },
-      "entity_tag_query": {
+      "edit_book": {
         "protocol_id": 17
       },
-      "interact": {
+      "entity_tag_query": {
         "protocol_id": 18
       },
-      "jigsaw_generate": {
+      "interact": {
         "protocol_id": 19
       },
-      "keep_alive": {
+      "jigsaw_generate": {
         "protocol_id": 20
       },
-      "lock_difficulty": {
+      "keep_alive": {
         "protocol_id": 21
       },
-      "move_player_pos": {
+      "lock_difficulty": {
         "protocol_id": 22
       },
-      "move_player_pos_rot": {
+      "move_player_pos": {
         "protocol_id": 23
       },
-      "move_player_rot": {
+      "move_player_pos_rot": {
         "protocol_id": 24
       },
-      "move_player_status_only": {
+      "move_player_rot": {
         "protocol_id": 25
       },
-      "move_vehicle": {
+      "move_player_status_only": {
         "protocol_id": 26
       },
-      "paddle_boat": {
+      "move_vehicle": {
         "protocol_id": 27
       },
-      "pick_item": {
+      "paddle_boat": {
         "protocol_id": 28
       },
-      "ping_request": {
+      "pick_item": {
         "protocol_id": 29
       },
-      "place_recipe": {
+      "ping_request": {
         "protocol_id": 30
       },
-      "player_abilities": {
+      "place_recipe": {
         "protocol_id": 31
       },
-      "player_action": {
+      "player_abilities": {
         "protocol_id": 32
       },
-      "player_command": {
+      "player_action": {
         "protocol_id": 33
       },
-      "player_input": {
+      "player_command": {
         "protocol_id": 34
       },
-      "pong": {
+      "player_input": {
         "protocol_id": 35
       },
-      "recipe_book_change_settings": {
+      "pong": {
         "protocol_id": 36
       },
-      "recipe_book_seen_recipe": {
+      "recipe_book_change_settings": {
         "protocol_id": 37
       },
-      "rename_item": {
+      "recipe_book_seen_recipe": {
         "protocol_id": 38
       },
-      "resource_pack": {
+      "rename_item": {
         "protocol_id": 39
       },
-      "seen_advancements": {
+      "resource_pack": {
         "protocol_id": 40
       },
-      "select_trade": {
+      "seen_advancements": {
         "protocol_id": 41
       },
-      "set_beacon": {
+      "select_trade": {
         "protocol_id": 42
       },
-      "set_carried_item": {
+      "set_beacon": {
         "protocol_id": 43
       },
-      "set_command_block": {
+      "set_carried_item": {
         "protocol_id": 44
       },
-      "set_command_minecart": {
+      "set_command_block": {
         "protocol_id": 45
       },
-      "set_creative_mode_slot": {
+      "set_command_minecart": {
         "protocol_id": 46
       },
-      "set_jigsaw_block": {
+      "set_creative_mode_slot": {
         "protocol_id": 47
       },
-      "set_structure_block": {
+      "set_jigsaw_block": {
         "protocol_id": 48
       },
-      "sign_update": {
+      "set_structure_block": {
         "protocol_id": 49
       },
-      "swing": {
+      "sign_update": {
         "protocol_id": 50
       },
-      "teleport_to_entity": {
+      "swing": {
         "protocol_id": 51
       },
-      "use_item_on": {
+      "teleport_to_entity": {
         "protocol_id": 52
       },
-      "use_item": {
+      "use_item_on": {
         "protocol_id": 53
+      },
+      "use_item": {
+        "protocol_id": 54
       }
     },
     "clientbound": {

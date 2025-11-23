@@ -18774,6 +18774,11 @@
           "type": 1
         },
         {
+          "name": "DATA_BLOCK_STATE_ID",
+          "id": 9,
+          "type": 8
+        },
+        {
           "name": "DATA_SHARED_FLAGS_ID",
           "id": 0,
           "type": 0
