@@ -2,7 +2,6 @@
   {
     "name": "generic.maxHealth",
     "type": "RANGED",
-    "legacy_name": "Max Health",
     "default_value": 20.0,
     "min_value": 0.0,
     "max_value": 1024.0,
@@ -11,7 +10,6 @@
   {
     "name": "horse.jumpStrength",
     "type": "RANGED",
-    "legacy_name": "Jump Strength",
     "default_value": 0.7,
     "min_value": 0.0,
     "max_value": 2.0,
@@ -28,7 +26,6 @@
   {
     "name": "generic.knockbackResistance",
     "type": "RANGED",
-    "legacy_name": "Knockback Resistance",
     "default_value": 0.0,
     "min_value": 0.0,
     "max_value": 1.0,
@@ -37,7 +34,6 @@
   {
     "name": "zombie.spawnReinforcements",
     "type": "RANGED",
-    "legacy_name": "Spawn Reinforcements Chance",
     "default_value": 0.0,
     "min_value": 0.0,
     "max_value": 1.0,
@@ -46,7 +42,6 @@
   {
     "name": "generic.movementSpeed",
     "type": "RANGED",
-    "legacy_name": "Movement Speed",
     "default_value": 0.699999988079071,
     "min_value": 0.0,
     "max_value": 1024.0,
@@ -55,7 +50,6 @@
   {
     "name": "generic.flyingSpeed",
     "type": "RANGED",
-    "legacy_name": "Flying Speed",
     "default_value": 0.4000000059604645,
     "min_value": 0.0,
     "max_value": 1024.0,
@@ -72,7 +66,6 @@
   {
     "name": "generic.followRange",
     "type": "RANGED",
-    "legacy_name": "Follow Range",
     "default_value": 32.0,
     "min_value": 0.0,
     "max_value": 2048.0,
