@@ -606,24 +606,6 @@
       }
     }
   },
-  "status": {
-    "serverbound": {
-      "minecraft:status_request": {
-        "protocol_id": 0
-      },
-      "minecraft:ping_request": {
-        "protocol_id": 1
-      }
-    },
-    "clientbound": {
-      "minecraft:status_response": {
-        "protocol_id": 0
-      },
-      "minecraft:pong_response": {
-        "protocol_id": 1
-      }
-    }
-  },
   "login": {
     "serverbound": {
       "minecraft:hello": {
@@ -660,6 +642,24 @@
       },
       "minecraft:cookie_request": {
         "protocol_id": 5
+      }
+    }
+  },
+  "status": {
+    "serverbound": {
+      "minecraft:status_request": {
+        "protocol_id": 0
+      },
+      "minecraft:ping_request": {
+        "protocol_id": 1
+      }
+    },
+    "clientbound": {
+      "minecraft:status_response": {
+        "protocol_id": 0
+      },
+      "minecraft:pong_response": {
+        "protocol_id": 1
       }
     }
   }
