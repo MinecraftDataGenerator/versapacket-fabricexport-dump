@@ -1,4 +1,11 @@
 {
+  "handshake": {
+    "serverbound": {
+      "minecraft:intention": {
+        "protocol_id": 0
+      }
+    }
+  },
   "play": {
     "clientbound": {
       "minecraft:bundle_delimiter": {
@@ -545,6 +552,24 @@
       }
     }
   },
+  "status": {
+    "clientbound": {
+      "minecraft:status_response": {
+        "protocol_id": 0
+      },
+      "minecraft:pong_response": {
+        "protocol_id": 1
+      }
+    },
+    "serverbound": {
+      "minecraft:status_request": {
+        "protocol_id": 0
+      },
+      "minecraft:ping_request": {
+        "protocol_id": 1
+      }
+    }
+  },
   "configuration": {
     "clientbound": {
       "minecraft:cookie_request": {
@@ -620,13 +645,6 @@
       }
     }
   },
-  "handshake": {
-    "serverbound": {
-      "minecraft:intention": {
-        "protocol_id": 0
-      }
-    }
-  },
   "login": {
     "clientbound": {
       "minecraft:login_disconnect": {
@@ -663,24 +681,6 @@
       },
       "minecraft:cookie_response": {
         "protocol_id": 4
-      }
-    }
-  },
-  "status": {
-    "clientbound": {
-      "minecraft:status_response": {
-        "protocol_id": 0
-      },
-      "minecraft:pong_response": {
-        "protocol_id": 1
-      }
-    },
-    "serverbound": {
-      "minecraft:status_request": {
-        "protocol_id": 0
-      },
-      "minecraft:ping_request": {
-        "protocol_id": 1
       }
     }
   }
