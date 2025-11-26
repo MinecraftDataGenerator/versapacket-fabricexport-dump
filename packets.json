@@ -18,146 +18,149 @@
       "change_difficulty": {
         "protocol_id": 2
       },
-      "chat_command": {
+      "chat_ack": {
         "protocol_id": 3
       },
-      "chat": {
+      "chat_command": {
         "protocol_id": 4
       },
-      "chat_preview": {
+      "chat": {
         "protocol_id": 5
       },
-      "client_command": {
+      "chat_preview": {
         "protocol_id": 6
       },
-      "client_information": {
+      "client_command": {
         "protocol_id": 7
       },
-      "command_suggestion": {
+      "client_information": {
         "protocol_id": 8
       },
-      "container_button_click": {
+      "command_suggestion": {
         "protocol_id": 9
       },
-      "container_click": {
+      "container_button_click": {
         "protocol_id": 10
       },
-      "container_close": {
+      "container_click": {
         "protocol_id": 11
       },
-      "custom_payload": {
+      "container_close": {
         "protocol_id": 12
       },
-      "edit_book": {
+      "custom_payload": {
         "protocol_id": 13
       },
-      "entity_tag_query": {
+      "edit_book": {
         "protocol_id": 14
       },
-      "interact": {
+      "entity_tag_query": {
         "protocol_id": 15
       },
-      "jigsaw_generate": {
+      "interact": {
         "protocol_id": 16
       },
-      "keep_alive": {
+      "jigsaw_generate": {
         "protocol_id": 17
       },
-      "lock_difficulty": {
+      "keep_alive": {
         "protocol_id": 18
       },
-      "move_player_pos": {
+      "lock_difficulty": {
         "protocol_id": 19
       },
-      "move_player_pos_rot": {
+      "move_player_pos": {
         "protocol_id": 20
       },
-      "move_player_rot": {
+      "move_player_pos_rot": {
         "protocol_id": 21
       },
-      "move_player_status_only": {
+      "move_player_rot": {
         "protocol_id": 22
       },
-      "move_vehicle": {
+      "move_player_status_only": {
         "protocol_id": 23
       },
-      "paddle_boat": {
+      "move_vehicle": {
         "protocol_id": 24
       },
-      "pick_item": {
+      "paddle_boat": {
         "protocol_id": 25
       },
-      "place_recipe": {
+      "pick_item": {
         "protocol_id": 26
       },
-      "player_abilities": {
+      "place_recipe": {
         "protocol_id": 27
       },
-      "player_action": {
+      "player_abilities": {
         "protocol_id": 28
       },
-      "player_command": {
+      "player_action": {
         "protocol_id": 29
       },
-      "player_input": {
+      "player_command": {
         "protocol_id": 30
       },
-      "pong": {
+      "player_input": {
         "protocol_id": 31
       },
-      "recipe_book_change_settings": {
+      "pong": {
         "protocol_id": 32
       },
-      "recipe_book_seen_recipe": {
+      "recipe_book_change_settings": {
         "protocol_id": 33
       },
-      "rename_item": {
+      "recipe_book_seen_recipe": {
         "protocol_id": 34
       },
-      "resource_pack": {
+      "rename_item": {
         "protocol_id": 35
       },
-      "seen_advancements": {
+      "resource_pack": {
         "protocol_id": 36
       },
-      "select_trade": {
+      "seen_advancements": {
         "protocol_id": 37
       },
-      "set_beacon": {
+      "select_trade": {
         "protocol_id": 38
       },
-      "set_carried_item": {
+      "set_beacon": {
         "protocol_id": 39
       },
-      "set_command_block": {
+      "set_carried_item": {
         "protocol_id": 40
       },
-      "set_command_minecart": {
+      "set_command_block": {
         "protocol_id": 41
       },
-      "set_creative_mode_slot": {
+      "set_command_minecart": {
         "protocol_id": 42
       },
-      "set_jigsaw_block": {
+      "set_creative_mode_slot": {
         "protocol_id": 43
       },
-      "set_structure_block": {
+      "set_jigsaw_block": {
         "protocol_id": 44
       },
-      "sign_update": {
+      "set_structure_block": {
         "protocol_id": 45
       },
-      "swing": {
+      "sign_update": {
         "protocol_id": 46
       },
-      "teleport_to_entity": {
+      "swing": {
         "protocol_id": 47
       },
-      "use_item_on": {
+      "teleport_to_entity": {
         "protocol_id": 48
       },
-      "use_item": {
+      "use_item_on": {
         "protocol_id": 49
+      },
+      "use_item": {
+        "protocol_id": 50
       }
     },
     "clientbound": {
@@ -311,10 +314,10 @@
       "player_abilities": {
         "protocol_id": 49
       },
-      "player_chat": {
+      "player_chat_header": {
         "protocol_id": 50
       },
-      "player_chat_header": {
+      "player_chat": {
         "protocol_id": 51
       },
       "player_combat_end": {
