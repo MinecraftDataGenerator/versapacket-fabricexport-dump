@@ -184,7 +184,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -379,7 +379,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -618,7 +618,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -798,7 +798,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -956,7 +956,7 @@
         {
           "name": "ARMADILLO_STATE",
           "id": 17,
-          "type": 31
+          "type": 30
         },
         {
           "name": "DATA_BABY_ID",
@@ -1036,7 +1036,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -1292,7 +1292,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -1477,7 +1477,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -1726,7 +1726,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -1921,7 +1921,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -2116,7 +2116,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -2348,7 +2348,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -2593,7 +2593,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -2788,7 +2788,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -2983,7 +2983,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -3216,7 +3216,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -3371,22 +3371,22 @@
         {
           "name": "DATA_TRANSLATION_ID",
           "id": 11,
-          "type": 35
+          "type": 34
         },
         {
           "name": "DATA_SCALE_ID",
           "id": 12,
-          "type": 35
+          "type": 34
         },
         {
           "name": "DATA_LEFT_ROTATION_ID",
           "id": 13,
-          "type": 36
+          "type": 35
         },
         {
           "name": "DATA_RIGHT_ROTATION_ID",
           "id": 14,
-          "type": 36
+          "type": 35
         },
         {
           "name": "DATA_BILLBOARD_RENDER_CONSTRAINTS_ID",
@@ -3461,7 +3461,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -3694,7 +3694,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -3922,7 +3922,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -4087,7 +4087,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -4335,7 +4335,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -4494,7 +4494,7 @@
         {
           "name": "DATA_VARIANT_ID",
           "id": 19,
-          "type": 23
+          "type": 22
         },
         {
           "name": "IS_LYING",
@@ -4599,7 +4599,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -4832,7 +4832,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -5027,7 +5027,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -5222,7 +5222,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -5412,7 +5412,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -5570,7 +5570,7 @@
         {
           "name": "DATA_VARIANT_ID",
           "id": 17,
-          "type": 24
+          "type": 23
         },
         {
           "name": "DATA_BABY_ID",
@@ -5650,7 +5650,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -5882,7 +5882,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -6039,12 +6039,12 @@
         {
           "name": "DATA_WEATHER_STATE",
           "id": 16,
-          "type": 33
+          "type": 32
         },
         {
           "name": "COPPER_GOLEM_STATE",
           "id": 17,
-          "type": 34
+          "type": 33
         },
         {
           "name": "DATA_MOB_FLAGS_ID",
@@ -6119,7 +6119,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -6319,7 +6319,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -6477,7 +6477,7 @@
         {
           "name": "DATA_VARIANT_ID",
           "id": 17,
-          "type": 25
+          "type": 24
         },
         {
           "name": "DATA_BABY_ID",
@@ -6557,7 +6557,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -6805,7 +6805,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -7048,7 +7048,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -7243,7 +7243,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -7438,7 +7438,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -7681,7 +7681,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -7924,7 +7924,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -8089,7 +8089,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -8333,7 +8333,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -8503,7 +8503,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -8741,7 +8741,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -8984,7 +8984,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -9212,7 +9212,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -9444,7 +9444,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -9614,7 +9614,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -9789,7 +9789,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -10027,7 +10027,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -10192,7 +10192,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -10362,7 +10362,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -10532,7 +10532,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -10702,7 +10702,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -10872,7 +10872,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -11042,7 +11042,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -11182,7 +11182,7 @@
         {
           "name": "DATA_ATTACHED_TO_TARGET",
           "id": 9,
-          "type": 21
+          "type": 20
         },
         {
           "name": "DATA_SHOT_AT_ANGLE",
@@ -11222,7 +11222,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -11476,7 +11476,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -11635,12 +11635,12 @@
         {
           "name": "DATA_VARIANT_ID",
           "id": 17,
-          "type": 28
+          "type": 27
         },
         {
           "name": "DATA_TONGUE_TARGET_ID",
           "id": 18,
-          "type": 21
+          "type": 20
         },
         {
           "name": "DATA_BABY_ID",
@@ -11720,7 +11720,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -11915,7 +11915,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -12148,7 +12148,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -12392,7 +12392,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -12620,7 +12620,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -12800,7 +12800,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -13037,7 +13037,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -13286,7 +13286,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -13524,7 +13524,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -13762,7 +13762,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -13952,7 +13952,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -14195,7 +14195,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -14439,7 +14439,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -14677,7 +14677,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -14857,7 +14857,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -15090,7 +15090,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -15260,7 +15260,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -15420,22 +15420,22 @@
         {
           "name": "DATA_TRANSLATION_ID",
           "id": 11,
-          "type": 35
+          "type": 34
         },
         {
           "name": "DATA_SCALE_ID",
           "id": 12,
-          "type": 35
+          "type": 34
         },
         {
           "name": "DATA_LEFT_ROTATION_ID",
           "id": 13,
-          "type": 36
+          "type": 35
         },
         {
           "name": "DATA_RIGHT_ROTATION_ID",
           "id": 14,
-          "type": 36
+          "type": 35
         },
         {
           "name": "DATA_BILLBOARD_RENDER_CONSTRAINTS_ID",
@@ -15510,7 +15510,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -15690,7 +15690,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -15885,7 +15885,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -16080,7 +16080,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -16245,7 +16245,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -16410,7 +16410,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -16663,7 +16663,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -16828,7 +16828,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -17061,7 +17061,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -17256,7 +17256,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -17451,7 +17451,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -17463,6 +17463,242 @@
   },
   {
     "protocol_id": 82,
+    "identifier": "minecraft:mannequin",
+    "dimensions": {
+      "width": 0.6,
+      "height": 1.8,
+      "eye_height": 1.53,
+      "fixed": false
+    },
+    "attributes": {
+      "attributes": [
+        "minecraft:max_health",
+        "minecraft:knockback_resistance",
+        "minecraft:movement_speed",
+        "minecraft:armor",
+        "minecraft:armor_toughness",
+        "minecraft:max_absorption",
+        "minecraft:step_height",
+        "minecraft:scale",
+        "minecraft:gravity",
+        "minecraft:safe_fall_distance",
+        "minecraft:fall_damage_multiplier",
+        "minecraft:jump_strength",
+        "minecraft:oxygen_bonus",
+        "minecraft:burning_time",
+        "minecraft:explosion_knockback_resistance",
+        "minecraft:water_movement_efficiency",
+        "minecraft:movement_efficiency",
+        "minecraft:attack_knockback",
+        "minecraft:camera_distance",
+        "minecraft:waypoint_transmit_range"
+      ],
+      "poses": {
+        "standing": {
+          "width": 0.6,
+          "height": 1.8,
+          "eye_height": 1.62,
+          "fixed": false
+        },
+        "fall_flying": {
+          "width": 0.6,
+          "height": 1.8,
+          "eye_height": 1.62,
+          "fixed": false
+        },
+        "sleeping": {
+          "width": 0.2,
+          "height": 0.2,
+          "eye_height": 0.2,
+          "fixed": true
+        },
+        "swimming": {
+          "width": 0.6,
+          "height": 1.8,
+          "eye_height": 1.62,
+          "fixed": false
+        },
+        "spin_attack": {
+          "width": 0.6,
+          "height": 1.8,
+          "eye_height": 1.62,
+          "fixed": false
+        },
+        "crouching": {
+          "width": 0.6,
+          "height": 1.8,
+          "eye_height": 1.62,
+          "fixed": false
+        },
+        "long_jumping": {
+          "width": 0.6,
+          "height": 1.8,
+          "eye_height": 1.62,
+          "fixed": false
+        },
+        "dying": {
+          "width": 0.6,
+          "height": 1.8,
+          "eye_height": 1.62,
+          "fixed": false
+        },
+        "croaking": {
+          "width": 0.6,
+          "height": 1.8,
+          "eye_height": 1.62,
+          "fixed": false
+        },
+        "using_tongue": {
+          "width": 0.6,
+          "height": 1.8,
+          "eye_height": 1.62,
+          "fixed": false
+        },
+        "sitting": {
+          "width": 0.6,
+          "height": 1.8,
+          "eye_height": 1.62,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.6,
+          "height": 1.8,
+          "eye_height": 1.62,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.6,
+          "height": 1.8,
+          "eye_height": 1.62,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.6,
+          "height": 1.8,
+          "eye_height": 1.62,
+          "fixed": false
+        },
+        "digging": {
+          "width": 0.6,
+          "height": 1.8,
+          "eye_height": 1.62,
+          "fixed": false
+        },
+        "sliding": {
+          "width": 0.6,
+          "height": 1.8,
+          "eye_height": 1.62,
+          "fixed": false
+        },
+        "shooting": {
+          "width": 0.6,
+          "height": 1.8,
+          "eye_height": 1.62,
+          "fixed": false
+        },
+        "inhaling": {
+          "width": 0.6,
+          "height": 1.8,
+          "eye_height": 1.62,
+          "fixed": false
+        }
+      },
+      "data_tracker": [
+        {
+          "name": "DATA_PROFILE",
+          "id": 17,
+          "type": 36
+        },
+        {
+          "name": "DATA_PLAYER_MAIN_HAND",
+          "id": 15,
+          "type": 0
+        },
+        {
+          "name": "DATA_PLAYER_MODE_CUSTOMISATION",
+          "id": 16,
+          "type": 0
+        },
+        {
+          "name": "DATA_LIVING_ENTITY_FLAGS",
+          "id": 8,
+          "type": 0
+        },
+        {
+          "name": "DATA_HEALTH_ID",
+          "id": 9,
+          "type": 3
+        },
+        {
+          "name": "DATA_EFFECT_PARTICLES",
+          "id": 10,
+          "type": 12
+        },
+        {
+          "name": "DATA_EFFECT_AMBIENCE_ID",
+          "id": 11,
+          "type": 10
+        },
+        {
+          "name": "DATA_ARROW_COUNT_ID",
+          "id": 12,
+          "type": 1
+        },
+        {
+          "name": "DATA_STINGER_COUNT_ID",
+          "id": 13,
+          "type": 1
+        },
+        {
+          "name": "SLEEPING_POS_ID",
+          "id": 14,
+          "type": 15
+        },
+        {
+          "name": "DATA_SHARED_FLAGS_ID",
+          "id": 0,
+          "type": 0
+        },
+        {
+          "name": "DATA_AIR_SUPPLY_ID",
+          "id": 1,
+          "type": 1
+        },
+        {
+          "name": "DATA_CUSTOM_NAME",
+          "id": 2,
+          "type": 6
+        },
+        {
+          "name": "DATA_CUSTOM_NAME_VISIBLE",
+          "id": 3,
+          "type": 10
+        },
+        {
+          "name": "DATA_SILENT",
+          "id": 4,
+          "type": 10
+        },
+        {
+          "name": "DATA_NO_GRAVITY",
+          "id": 5,
+          "type": 10
+        },
+        {
+          "name": "DATA_POSE",
+          "id": 6,
+          "type": 21
+        },
+        {
+          "name": "DATA_TICKS_FROZEN",
+          "id": 7,
+          "type": 1
+        }
+      ]
+    }
+  },
+  {
+    "protocol_id": 83,
     "identifier": "minecraft:marker",
     "dimensions": {
       "width": 0.0,
@@ -17616,7 +17852,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -17627,7 +17863,7 @@
     }
   },
   {
-    "protocol_id": 83,
+    "protocol_id": 84,
     "identifier": "minecraft:minecart",
     "dimensions": {
       "width": 0.98,
@@ -17806,7 +18042,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -17817,7 +18053,7 @@
     }
   },
   {
-    "protocol_id": 84,
+    "protocol_id": 85,
     "identifier": "minecraft:mooshroom",
     "dimensions": {
       "width": 0.9,
@@ -18044,7 +18280,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -18055,7 +18291,7 @@
     }
   },
   {
-    "protocol_id": 85,
+    "protocol_id": 86,
     "identifier": "minecraft:mule",
     "dimensions": {
       "width": 1.3964844,
@@ -18287,7 +18523,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -18298,7 +18534,7 @@
     }
   },
   {
-    "protocol_id": 86,
+    "protocol_id": 87,
     "identifier": "minecraft:oak_boat",
     "dimensions": {
       "width": 1.375,
@@ -18482,7 +18718,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -18493,7 +18729,7 @@
     }
   },
   {
-    "protocol_id": 87,
+    "protocol_id": 88,
     "identifier": "minecraft:oak_chest_boat",
     "dimensions": {
       "width": 1.375,
@@ -18677,7 +18913,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -18688,7 +18924,7 @@
     }
   },
   {
-    "protocol_id": 88,
+    "protocol_id": 89,
     "identifier": "minecraft:ocelot",
     "dimensions": {
       "width": 0.6,
@@ -18916,7 +19152,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -18927,7 +19163,7 @@
     }
   },
   {
-    "protocol_id": 89,
+    "protocol_id": 90,
     "identifier": "minecraft:ominous_item_spawner",
     "dimensions": {
       "width": 0.25,
@@ -19086,7 +19322,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -19097,7 +19333,7 @@
     }
   },
   {
-    "protocol_id": 90,
+    "protocol_id": 91,
     "identifier": "minecraft:painting",
     "dimensions": {
       "width": 0.5,
@@ -19221,7 +19457,7 @@
         {
           "name": "DATA_PAINTING_VARIANT_ID",
           "id": 9,
-          "type": 30
+          "type": 29
         },
         {
           "name": "DATA_DIRECTION",
@@ -19261,7 +19497,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -19272,7 +19508,7 @@
     }
   },
   {
-    "protocol_id": 91,
+    "protocol_id": 92,
     "identifier": "minecraft:pale_oak_boat",
     "dimensions": {
       "width": 1.375,
@@ -19456,7 +19692,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -19467,7 +19703,7 @@
     }
   },
   {
-    "protocol_id": 92,
+    "protocol_id": 93,
     "identifier": "minecraft:pale_oak_chest_boat",
     "dimensions": {
       "width": 1.375,
@@ -19651,7 +19887,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -19662,7 +19898,7 @@
     }
   },
   {
-    "protocol_id": 93,
+    "protocol_id": 94,
     "identifier": "minecraft:panda",
     "dimensions": {
       "width": 1.3,
@@ -19915,7 +20151,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -19926,7 +20162,7 @@
     }
   },
   {
-    "protocol_id": 94,
+    "protocol_id": 95,
     "identifier": "minecraft:parrot",
     "dimensions": {
       "width": 0.5,
@@ -20165,7 +20401,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -20176,7 +20412,7 @@
     }
   },
   {
-    "protocol_id": 95,
+    "protocol_id": 96,
     "identifier": "minecraft:phantom",
     "dimensions": {
       "width": 0.9,
@@ -20398,7 +20634,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -20409,7 +20645,7 @@
     }
   },
   {
-    "protocol_id": 96,
+    "protocol_id": 97,
     "identifier": "minecraft:pig",
     "dimensions": {
       "width": 0.9,
@@ -20561,7 +20797,7 @@
         {
           "name": "DATA_VARIANT_ID",
           "id": 18,
-          "type": 29
+          "type": 28
         },
         {
           "name": "DATA_BABY_ID",
@@ -20641,7 +20877,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -20652,7 +20888,7 @@
     }
   },
   {
-    "protocol_id": 97,
+    "protocol_id": 98,
     "identifier": "minecraft:piglin",
     "dimensions": {
       "width": 0.6,
@@ -20889,7 +21125,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -20900,7 +21136,7 @@
     }
   },
   {
-    "protocol_id": 98,
+    "protocol_id": 99,
     "identifier": "minecraft:piglin_brute",
     "dimensions": {
       "width": 0.6,
@@ -21122,7 +21358,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -21133,7 +21369,7 @@
     }
   },
   {
-    "protocol_id": 99,
+    "protocol_id": 100,
     "identifier": "minecraft:pillager",
     "dimensions": {
       "width": 0.6,
@@ -21360,7 +21596,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -21371,7 +21607,7 @@
     }
   },
   {
-    "protocol_id": 100,
+    "protocol_id": 101,
     "identifier": "minecraft:polar_bear",
     "dimensions": {
       "width": 1.4,
@@ -21599,7 +21835,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -21610,7 +21846,7 @@
     }
   },
   {
-    "protocol_id": 101,
+    "protocol_id": 102,
     "identifier": "minecraft:splash_potion",
     "dimensions": {
       "width": 0.25,
@@ -21769,7 +22005,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -21780,7 +22016,7 @@
     }
   },
   {
-    "protocol_id": 102,
+    "protocol_id": 103,
     "identifier": "minecraft:lingering_potion",
     "dimensions": {
       "width": 0.25,
@@ -21939,7 +22175,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -21950,7 +22186,7 @@
     }
   },
   {
-    "protocol_id": 103,
+    "protocol_id": 104,
     "identifier": "minecraft:pufferfish",
     "dimensions": {
       "width": 0.7,
@@ -22176,7 +22412,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -22187,7 +22423,7 @@
     }
   },
   {
-    "protocol_id": 104,
+    "protocol_id": 105,
     "identifier": "minecraft:rabbit",
     "dimensions": {
       "width": 0.4,
@@ -22415,7 +22651,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -22426,7 +22662,7 @@
     }
   },
   {
-    "protocol_id": 105,
+    "protocol_id": 106,
     "identifier": "minecraft:ravager",
     "dimensions": {
       "width": 1.95,
@@ -22648,7 +22884,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -22659,7 +22895,7 @@
     }
   },
   {
-    "protocol_id": 106,
+    "protocol_id": 107,
     "identifier": "minecraft:salmon",
     "dimensions": {
       "width": 0.7,
@@ -22885,7 +23121,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -22896,7 +23132,7 @@
     }
   },
   {
-    "protocol_id": 107,
+    "protocol_id": 108,
     "identifier": "minecraft:sheep",
     "dimensions": {
       "width": 0.9,
@@ -23123,7 +23359,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -23134,7 +23370,7 @@
     }
   },
   {
-    "protocol_id": 108,
+    "protocol_id": 109,
     "identifier": "minecraft:shulker",
     "dimensions": {
       "width": 1.0,
@@ -23365,7 +23601,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -23376,7 +23612,7 @@
     }
   },
   {
-    "protocol_id": 109,
+    "protocol_id": 110,
     "identifier": "minecraft:shulker_bullet",
     "dimensions": {
       "width": 0.3125,
@@ -23530,7 +23766,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -23541,7 +23777,7 @@
     }
   },
   {
-    "protocol_id": 110,
+    "protocol_id": 111,
     "identifier": "minecraft:silverfish",
     "dimensions": {
       "width": 0.4,
@@ -23758,7 +23994,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -23769,7 +24005,7 @@
     }
   },
   {
-    "protocol_id": 111,
+    "protocol_id": 112,
     "identifier": "minecraft:skeleton",
     "dimensions": {
       "width": 0.6,
@@ -23991,7 +24227,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -24002,7 +24238,7 @@
     }
   },
   {
-    "protocol_id": 112,
+    "protocol_id": 113,
     "identifier": "minecraft:skeleton_horse",
     "dimensions": {
       "width": 1.3964844,
@@ -24229,7 +24465,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -24240,7 +24476,7 @@
     }
   },
   {
-    "protocol_id": 113,
+    "protocol_id": 114,
     "identifier": "minecraft:slime",
     "dimensions": {
       "width": 0.52,
@@ -24462,7 +24698,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -24473,7 +24709,7 @@
     }
   },
   {
-    "protocol_id": 114,
+    "protocol_id": 115,
     "identifier": "minecraft:small_fireball",
     "dimensions": {
       "width": 0.3125,
@@ -24632,7 +24868,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -24643,7 +24879,7 @@
     }
   },
   {
-    "protocol_id": 115,
+    "protocol_id": 116,
     "identifier": "minecraft:sniffer",
     "dimensions": {
       "width": 1.9,
@@ -24790,7 +25026,7 @@
         {
           "name": "DATA_STATE",
           "id": 17,
-          "type": 32
+          "type": 31
         },
         {
           "name": "DATA_DROP_SEED_AT_TICK",
@@ -24875,7 +25111,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -24886,7 +25122,7 @@
     }
   },
   {
-    "protocol_id": 116,
+    "protocol_id": 117,
     "identifier": "minecraft:snowball",
     "dimensions": {
       "width": 0.25,
@@ -25045,7 +25281,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -25056,7 +25292,7 @@
     }
   },
   {
-    "protocol_id": 117,
+    "protocol_id": 118,
     "identifier": "minecraft:snow_golem",
     "dimensions": {
       "width": 0.7,
@@ -25277,7 +25513,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -25288,7 +25524,7 @@
     }
   },
   {
-    "protocol_id": 118,
+    "protocol_id": 119,
     "identifier": "minecraft:spawner_minecart",
     "dimensions": {
       "width": 0.98,
@@ -25467,7 +25703,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -25478,7 +25714,7 @@
     }
   },
   {
-    "protocol_id": 119,
+    "protocol_id": 120,
     "identifier": "minecraft:spectral_arrow",
     "dimensions": {
       "width": 0.5,
@@ -25647,7 +25883,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -25658,7 +25894,7 @@
     }
   },
   {
-    "protocol_id": 120,
+    "protocol_id": 121,
     "identifier": "minecraft:spider",
     "dimensions": {
       "width": 1.4,
@@ -25880,7 +26116,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -25891,7 +26127,7 @@
     }
   },
   {
-    "protocol_id": 121,
+    "protocol_id": 122,
     "identifier": "minecraft:spruce_boat",
     "dimensions": {
       "width": 1.375,
@@ -26075,7 +26311,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -26086,7 +26322,7 @@
     }
   },
   {
-    "protocol_id": 122,
+    "protocol_id": 123,
     "identifier": "minecraft:spruce_chest_boat",
     "dimensions": {
       "width": 1.375,
@@ -26270,7 +26506,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -26281,7 +26517,7 @@
     }
   },
   {
-    "protocol_id": 123,
+    "protocol_id": 124,
     "identifier": "minecraft:squid",
     "dimensions": {
       "width": 0.8,
@@ -26502,7 +26738,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -26513,7 +26749,7 @@
     }
   },
   {
-    "protocol_id": 124,
+    "protocol_id": 125,
     "identifier": "minecraft:stray",
     "dimensions": {
       "width": 0.6,
@@ -26730,7 +26966,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -26741,7 +26977,7 @@
     }
   },
   {
-    "protocol_id": 125,
+    "protocol_id": 126,
     "identifier": "minecraft:strider",
     "dimensions": {
       "width": 0.9,
@@ -26973,7 +27209,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -26984,7 +27220,7 @@
     }
   },
   {
-    "protocol_id": 126,
+    "protocol_id": 127,
     "identifier": "minecraft:tadpole",
     "dimensions": {
       "width": 0.4,
@@ -27206,7 +27442,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -27217,7 +27453,7 @@
     }
   },
   {
-    "protocol_id": 127,
+    "protocol_id": 128,
     "identifier": "minecraft:text_display",
     "dimensions": {
       "width": 0.0,
@@ -27381,22 +27617,22 @@
         {
           "name": "DATA_TRANSLATION_ID",
           "id": 11,
-          "type": 35
+          "type": 34
         },
         {
           "name": "DATA_SCALE_ID",
           "id": 12,
-          "type": 35
+          "type": 34
         },
         {
           "name": "DATA_LEFT_ROTATION_ID",
           "id": 13,
-          "type": 36
+          "type": 35
         },
         {
           "name": "DATA_RIGHT_ROTATION_ID",
           "id": 14,
-          "type": 36
+          "type": 35
         },
         {
           "name": "DATA_BILLBOARD_RENDER_CONSTRAINTS_ID",
@@ -27471,7 +27707,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -27482,7 +27718,7 @@
     }
   },
   {
-    "protocol_id": 128,
+    "protocol_id": 129,
     "identifier": "minecraft:tnt",
     "dimensions": {
       "width": 0.98,
@@ -27646,7 +27882,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -27657,7 +27893,7 @@
     }
   },
   {
-    "protocol_id": 129,
+    "protocol_id": 130,
     "identifier": "minecraft:tnt_minecart",
     "dimensions": {
       "width": 0.98,
@@ -27836,7 +28072,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -27847,7 +28083,7 @@
     }
   },
   {
-    "protocol_id": 130,
+    "protocol_id": 131,
     "identifier": "minecraft:trader_llama",
     "dimensions": {
       "width": 0.9,
@@ -28089,7 +28325,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -28100,7 +28336,7 @@
     }
   },
   {
-    "protocol_id": 131,
+    "protocol_id": 132,
     "identifier": "minecraft:trident",
     "dimensions": {
       "width": 0.5,
@@ -28279,7 +28515,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -28290,7 +28526,7 @@
     }
   },
   {
-    "protocol_id": 132,
+    "protocol_id": 133,
     "identifier": "minecraft:tropical_fish",
     "dimensions": {
       "width": 0.5,
@@ -28516,7 +28752,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -28527,7 +28763,7 @@
     }
   },
   {
-    "protocol_id": 133,
+    "protocol_id": 134,
     "identifier": "minecraft:turtle",
     "dimensions": {
       "width": 1.2,
@@ -28759,7 +28995,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -28770,7 +29006,7 @@
     }
   },
   {
-    "protocol_id": 134,
+    "protocol_id": 135,
     "identifier": "minecraft:vex",
     "dimensions": {
       "width": 0.4,
@@ -28992,7 +29228,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -29003,7 +29239,7 @@
     }
   },
   {
-    "protocol_id": 135,
+    "protocol_id": 136,
     "identifier": "minecraft:villager",
     "dimensions": {
       "width": 0.6,
@@ -29149,7 +29385,7 @@
         {
           "name": "DATA_VILLAGER_DATA",
           "id": 18,
-          "type": 20
+          "type": 19
         },
         {
           "name": "DATA_UNHAPPY_COUNTER",
@@ -29234,7 +29470,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -29245,7 +29481,7 @@
     }
   },
   {
-    "protocol_id": 136,
+    "protocol_id": 137,
     "identifier": "minecraft:vindicator",
     "dimensions": {
       "width": 0.6,
@@ -29467,7 +29703,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -29478,7 +29714,7 @@
     }
   },
   {
-    "protocol_id": 137,
+    "protocol_id": 138,
     "identifier": "minecraft:wandering_trader",
     "dimensions": {
       "width": 0.6,
@@ -29704,7 +29940,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -29715,7 +29951,7 @@
     }
   },
   {
-    "protocol_id": 138,
+    "protocol_id": 139,
     "identifier": "minecraft:warden",
     "dimensions": {
       "width": 0.9,
@@ -29937,7 +30173,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -29948,7 +30184,7 @@
     }
   },
   {
-    "protocol_id": 139,
+    "protocol_id": 140,
     "identifier": "minecraft:wind_charge",
     "dimensions": {
       "width": 0.3125,
@@ -30102,7 +30338,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -30113,7 +30349,7 @@
     }
   },
   {
-    "protocol_id": 140,
+    "protocol_id": 141,
     "identifier": "minecraft:witch",
     "dimensions": {
       "width": 0.6,
@@ -30340,7 +30576,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -30351,7 +30587,7 @@
     }
   },
   {
-    "protocol_id": 141,
+    "protocol_id": 142,
     "identifier": "minecraft:wither",
     "dimensions": {
       "width": 0.9,
@@ -30589,7 +30825,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -30600,7 +30836,7 @@
     }
   },
   {
-    "protocol_id": 142,
+    "protocol_id": 143,
     "identifier": "minecraft:wither_skeleton",
     "dimensions": {
       "width": 0.7,
@@ -30817,7 +31053,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -30828,7 +31064,7 @@
     }
   },
   {
-    "protocol_id": 143,
+    "protocol_id": 144,
     "identifier": "minecraft:wither_skull",
     "dimensions": {
       "width": 0.3125,
@@ -30987,7 +31223,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -30998,7 +31234,7 @@
     }
   },
   {
-    "protocol_id": 144,
+    "protocol_id": 145,
     "identifier": "minecraft:wolf",
     "dimensions": {
       "width": 0.6,
@@ -31161,12 +31397,12 @@
         {
           "name": "DATA_VARIANT_ID",
           "id": 22,
-          "type": 26
+          "type": 25
         },
         {
           "name": "DATA_SOUND_VARIANT_ID",
           "id": 23,
-          "type": 27
+          "type": 26
         },
         {
           "name": "DATA_FLAGS_ID",
@@ -31256,7 +31492,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -31267,7 +31503,7 @@
     }
   },
   {
-    "protocol_id": 145,
+    "protocol_id": 146,
     "identifier": "minecraft:zoglin",
     "dimensions": {
       "width": 1.3964844,
@@ -31489,7 +31725,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -31500,7 +31736,7 @@
     }
   },
   {
-    "protocol_id": 146,
+    "protocol_id": 147,
     "identifier": "minecraft:zombie",
     "dimensions": {
       "width": 0.6,
@@ -31733,7 +31969,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -31744,7 +31980,7 @@
     }
   },
   {
-    "protocol_id": 147,
+    "protocol_id": 148,
     "identifier": "minecraft:zombie_horse",
     "dimensions": {
       "width": 1.3964844,
@@ -31971,7 +32207,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -31982,7 +32218,7 @@
     }
   },
   {
-    "protocol_id": 148,
+    "protocol_id": 149,
     "identifier": "minecraft:zombie_villager",
     "dimensions": {
       "width": 0.6,
@@ -32135,7 +32371,7 @@
         {
           "name": "DATA_VILLAGER_DATA",
           "id": 20,
-          "type": 20
+          "type": 19
         },
         {
           "name": "DATA_BABY_ID",
@@ -32225,7 +32461,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -32236,7 +32472,7 @@
     }
   },
   {
-    "protocol_id": 149,
+    "protocol_id": 150,
     "identifier": "minecraft:zombified_piglin",
     "dimensions": {
       "width": 0.6,
@@ -32469,7 +32705,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
@@ -32480,7 +32716,7 @@
     }
   },
   {
-    "protocol_id": 150,
+    "protocol_id": 151,
     "identifier": "minecraft:player",
     "dimensions": {
       "width": 0.6,
@@ -32490,7 +32726,7 @@
     }
   },
   {
-    "protocol_id": 151,
+    "protocol_id": 152,
     "identifier": "minecraft:fishing_bobber",
     "dimensions": {
       "width": 0.25,
@@ -32654,7 +32890,7 @@
         {
           "name": "DATA_POSE",
           "id": 6,
-          "type": 22
+          "type": 21
         },
         {
           "name": "DATA_TICKS_FROZEN",
