@@ -956,7 +956,7 @@
         {
           "name": "ARMADILLO_STATE",
           "id": 17,
-          "type": 30
+          "type": 31
         },
         {
           "name": "DATA_BABY_ID",
@@ -3371,22 +3371,22 @@
         {
           "name": "DATA_TRANSLATION_ID",
           "id": 11,
-          "type": 34
+          "type": 35
         },
         {
           "name": "DATA_SCALE_ID",
           "id": 12,
-          "type": 34
+          "type": 35
         },
         {
           "name": "DATA_LEFT_ROTATION_ID",
           "id": 13,
-          "type": 35
+          "type": 36
         },
         {
           "name": "DATA_RIGHT_ROTATION_ID",
           "id": 14,
-          "type": 35
+          "type": 36
         },
         {
           "name": "DATA_BILLBOARD_RENDER_CONSTRAINTS_ID",
@@ -6287,12 +6287,12 @@
         {
           "name": "DATA_WEATHER_STATE",
           "id": 16,
-          "type": 32
+          "type": 33
         },
         {
           "name": "COPPER_GOLEM_STATE",
           "id": 17,
-          "type": 33
+          "type": 34
         },
         {
           "name": "DATA_MOB_FLAGS_ID",
@@ -15668,22 +15668,22 @@
         {
           "name": "DATA_TRANSLATION_ID",
           "id": 11,
-          "type": 34
+          "type": 35
         },
         {
           "name": "DATA_SCALE_ID",
           "id": 12,
-          "type": 34
+          "type": 35
         },
         {
           "name": "DATA_LEFT_ROTATION_ID",
           "id": 13,
-          "type": 35
+          "type": 36
         },
         {
           "name": "DATA_RIGHT_ROTATION_ID",
           "id": 14,
-          "type": 35
+          "type": 36
         },
         {
           "name": "DATA_BILLBOARD_RENDER_CONSTRAINTS_ID",
@@ -17855,7 +17855,7 @@
         {
           "name": "DATA_PROFILE",
           "id": 17,
-          "type": 36
+          "type": 37
         },
         {
           "name": "DATA_IMMOVABLE",
@@ -17870,7 +17870,7 @@
         {
           "name": "DATA_PLAYER_MAIN_HAND",
           "id": 15,
-          "type": 0
+          "type": 38
         },
         {
           "name": "DATA_PLAYER_MODE_CUSTOMISATION",
@@ -19964,7 +19964,7 @@
         {
           "name": "DATA_PAINTING_VARIANT_ID",
           "id": 9,
-          "type": 29
+          "type": 30
         },
         {
           "name": "DATA_DIRECTION",
@@ -25761,7 +25761,7 @@
         {
           "name": "DATA_STATE",
           "id": 17,
-          "type": 31
+          "type": 32
         },
         {
           "name": "DATA_DROP_SEED_AT_TICK",
@@ -28352,22 +28352,22 @@
         {
           "name": "DATA_TRANSLATION_ID",
           "id": 11,
-          "type": 34
+          "type": 35
         },
         {
           "name": "DATA_SCALE_ID",
           "id": 12,
-          "type": 34
+          "type": 35
         },
         {
           "name": "DATA_LEFT_ROTATION_ID",
           "id": 13,
-          "type": 35
+          "type": 36
         },
         {
           "name": "DATA_RIGHT_ROTATION_ID",
           "id": 14,
-          "type": 35
+          "type": 36
         },
         {
           "name": "DATA_BILLBOARD_RENDER_CONSTRAINTS_ID",
@@ -33098,6 +33098,11 @@
         }
       },
       "data_tracker": [
+        {
+          "name": "DATA_VARIANT_ID",
+          "id": 20,
+          "type": 29
+        },
         {
           "name": "DASH",
           "id": 19,
