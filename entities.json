@@ -952,7 +952,7 @@
         {
           "name": "ARMADILLO_STATE",
           "id": 17,
-          "type": 30
+          "type": 31
         },
         {
           "name": "DATA_BABY_ID",
@@ -3357,22 +3357,22 @@
         {
           "name": "DATA_TRANSLATION_ID",
           "id": 11,
-          "type": 32
+          "type": 33
         },
         {
           "name": "DATA_SCALE_ID",
           "id": 12,
-          "type": 32
+          "type": 33
         },
         {
           "name": "DATA_LEFT_ROTATION_ID",
           "id": 13,
-          "type": 33
+          "type": 34
         },
         {
           "name": "DATA_RIGHT_ROTATION_ID",
           "id": 14,
-          "type": 33
+          "type": 34
         },
         {
           "name": "DATA_BILLBOARD_RENDER_CONSTRAINTS_ID",
@@ -11344,7 +11344,7 @@
         {
           "name": "DATA_VARIANT_ID",
           "id": 17,
-          "type": 27
+          "type": 28
         },
         {
           "name": "DATA_TONGUE_TARGET_ID",
@@ -14859,22 +14859,22 @@
         {
           "name": "DATA_TRANSLATION_ID",
           "id": 11,
-          "type": 32
+          "type": 33
         },
         {
           "name": "DATA_SCALE_ID",
           "id": 12,
-          "type": 32
+          "type": 33
         },
         {
           "name": "DATA_LEFT_ROTATION_ID",
           "id": 13,
-          "type": 33
+          "type": 34
         },
         {
           "name": "DATA_RIGHT_ROTATION_ID",
           "id": 14,
-          "type": 33
+          "type": 34
         },
         {
           "name": "DATA_BILLBOARD_RENDER_CONSTRAINTS_ID",
@@ -18645,7 +18645,7 @@
         {
           "name": "DATA_PAINTING_VARIANT_ID",
           "id": 8,
-          "type": 29
+          "type": 30
         },
         {
           "name": "DATA_SHARED_FLAGS_ID",
@@ -19972,7 +19972,7 @@
         {
           "name": "DATA_VARIANT_ID",
           "id": 18,
-          "type": 28
+          "type": 29
         },
         {
           "name": "DATA_BABY_ID",
@@ -24171,7 +24171,7 @@
         {
           "name": "DATA_STATE",
           "id": 17,
-          "type": 31
+          "type": 32
         },
         {
           "name": "DATA_DROP_SEED_AT_TICK",
@@ -26750,22 +26750,22 @@
         {
           "name": "DATA_TRANSLATION_ID",
           "id": 11,
-          "type": 32
+          "type": 33
         },
         {
           "name": "DATA_SCALE_ID",
           "id": 12,
-          "type": 32
+          "type": 33
         },
         {
           "name": "DATA_LEFT_ROTATION_ID",
           "id": 13,
-          "type": 33
+          "type": 34
         },
         {
           "name": "DATA_RIGHT_ROTATION_ID",
           "id": 14,
-          "type": 33
+          "type": 34
         },
         {
           "name": "DATA_BILLBOARD_RENDER_CONSTRAINTS_ID",
@@ -30507,6 +30507,11 @@
           "name": "DATA_VARIANT_ID",
           "id": 22,
           "type": 26
+        },
+        {
+          "name": "DATA_SOUND_VARIANT_ID",
+          "id": 23,
+          "type": 27
         },
         {
           "name": "DATA_FLAGS_ID",
