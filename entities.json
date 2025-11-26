@@ -12072,6 +12072,11 @@
           "type": 10
         },
         {
+          "name": "STAYS_STILL",
+          "id": 18,
+          "type": 10
+        },
+        {
           "name": "DATA_BABY_ID",
           "id": 16,
           "type": 10
