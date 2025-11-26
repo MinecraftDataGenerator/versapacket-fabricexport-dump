@@ -13,276 +13,43 @@ Fabric Loom: 1.11.8
 > Task :configureLaunch
 
 > Task :runServer
-[06:43:24] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 20w14~ with Fabric Loader 0.17.3
-[06:43:24] [main/INFO] (FabricLoader) Loading 5 mods:
+[06:57:23] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 20w14a with Fabric Loader 0.17.3
+[06:57:24] [main/INFO] (FabricLoader) Loading 5 mods:
 	- fabricloader 0.17.3
 	- java 21
-	- minecraft 1.16-alpha.20.13.inf
+	- minecraft 1.16-alpha.20.14.a
 	- mixinextras 0.5.0
 	- versapacket-fabricexport 1.0.0
-[06:43:24] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/root/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/80fc3a9f592673cea87f4cd702f87991c6c9fe4d/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[06:43:25] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
-[06:43:25] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_21
-[06:43:38] [main/ERROR] (Minecraft) Unable to bootstrap registry 'minecraft:chunk_generator_type'
-[06:43:39] [main/ERROR] (Minecraft) Registry 'minecraft:chunk_generator_type' was empty after loading
-[06:43:40] [main/INFO] (FabricLoader/MixinExtras|Service) Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
-[06:43:42] [main/WARN] (Minecraft) Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[06:43:42] [main/WARN] (Minecraft) Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[06:43:42] [main/WARN] (Minecraft) Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[06:43:42] [main/WARN] (Minecraft) Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[06:43:42] [main/WARN] (Minecraft) Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[06:43:43] [Server thread/INFO] (Minecraft) Starting minecraft server version 20w14~
-[06:43:43] [Server thread/INFO] (Minecraft) Loading properties
-[06:43:43] [Server thread/INFO] (Minecraft) Default game type: SURVIVAL
-[06:43:43] [Server thread/INFO] (Minecraft) Generating keypair
-[06:43:44] [Server thread/INFO] (Minecraft) Starting Minecraft server on *:50036
-[06:43:44] [Server thread/INFO] (Minecraft) Using epoll channel type
-[06:43:45] [Server thread/INFO] (Minecraft) Preparing level "world"
-[06:43:45] [Server thread/INFO] (Minecraft) Found new data pack vanilla, loading it automatically
-[06:43:45] [Server thread/INFO] (Minecraft) Reloading ResourceManager: Default
-[06:44:08] [Server thread/INFO] (Minecraft) Loaded 6 recipes
-[06:44:09] [Server thread/INFO] (Minecraft) Loaded 864 advancements
-[06:44:19] [Server thread/INFO] (Minecraft) Preparing start region for dimension minecraft:overworld
-[06:44:19] [Server thread/INFO] (Minecraft) Preparing spawn area: 27%
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-33, 14] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-33, 15] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-33, 16] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-33, 17] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-33, 18] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-33, 19] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-33, 20] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-33, 21] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-33, 22] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-33, 23] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-33, 24] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-33, 25] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-33, 26] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-33, 27] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-33, 28] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-33, 29] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-33, 30] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-34, 13] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-33, 13] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-34, 14] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-34, 15] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-34, 16] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-34, 17] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-34, 18] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-34, 19] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-34, 20] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-34, 21] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-34, 22] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-34, 23] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-34, 24] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-34, 25] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-34, 26] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-34, 27] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-34, 28] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-34, 29] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-34, 30] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-34, 31] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-33, 31] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-34, 12] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-33, 12] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-34, 32] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-33, 32] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-32, 32] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-31, 32] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-30, 32] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-29, 32] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-28, 32] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-27, 32] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-26, 32] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-25, 32] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-24, 32] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-23, 32] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-22, 32] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-21, 32] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-20, 32] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-19, 32] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-18, 32] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-17, 32] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-16, 32] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-15, 32] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-33, -4] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-33, -3] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-33, -2] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-33, -1] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-33, 0] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-33, 1] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-33, 2] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-33, 3] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-33, 4] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-33, 5] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-33, 6] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-33, 7] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-33, 8] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-33, 9] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-33, 10] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-33, 11] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-34, -5] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-33, -5] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-34, -4] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-34, -3] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-34, -2] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-34, -1] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-34, 0] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-34, 1] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-34, 2] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-34, 3] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-34, 4] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-34, 5] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-34, 6] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-34, 7] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-34, 8] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-34, 9] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-34, 10] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-34, 11] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-33, -6] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-14, 32] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-13, 32] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-12, 32] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-11, 32] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-10, 32] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-9, 32] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-8, 32] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-7, 32] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-6, 32] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-5, 32] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-4, 32] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-3, 32] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-2, 32] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-1, 32] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [0, 32] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [1, 32] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [2, 32] is missing level data, skipping
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [3, 32] is missing level data, skipping
-[06:44:19] [Worker-4/INFO] (Minecraft) Preparing spawn area: 27%
-[06:44:19] [Server thread/ERROR] (Minecraft) Chunk file at [-34, -6] is missing level data, skipping
-[06:44:20] [Worker-5/INFO] (Minecraft) Preparing spawn area: 27%
-[06:44:20] [Worker-4/INFO] (Minecraft) Preparing spawn area: 28%
-[06:44:21] [Worker-2/INFO] (Minecraft) Preparing spawn area: 30%
-[06:44:21] [Worker-1/INFO] (Minecraft) Preparing spawn area: 31%
-[06:44:22] [Worker-5/INFO] (Minecraft) Preparing spawn area: 31%
-[06:44:22] [Worker-2/INFO] (Minecraft) Preparing spawn area: 33%
-[06:44:23] [Worker-1/INFO] (Minecraft) Preparing spawn area: 33%
-[06:44:23] [Worker-1/INFO] (Minecraft) Preparing spawn area: 33%
-[06:44:24] [Worker-4/INFO] (Minecraft) Preparing spawn area: 37%
-[06:44:24] [Worker-4/INFO] (Minecraft) Preparing spawn area: 37%
-[06:44:25] [Worker-4/INFO] (Minecraft) Preparing spawn area: 37%
-[06:44:25] [Worker-1/INFO] (Minecraft) Preparing spawn area: 37%
-[06:44:26] [Worker-1/INFO] (Minecraft) Preparing spawn area: 47%
-[06:44:26] [Worker-1/INFO] (Minecraft) Preparing spawn area: 47%
-[06:44:26] [Server thread/ERROR] (Minecraft) Chunk file at [-34, 33] is missing level data, skipping
-[06:44:26] [Server thread/ERROR] (Minecraft) Chunk file at [-33, 33] is missing level data, skipping
-[06:44:26] [Server thread/ERROR] (Minecraft) Chunk file at [-32, 33] is missing level data, skipping
-[06:44:26] [Server thread/ERROR] (Minecraft) Chunk file at [-31, 33] is missing level data, skipping
-[06:44:26] [Server thread/ERROR] (Minecraft) Chunk file at [-30, 33] is missing level data, skipping
-[06:44:26] [Server thread/ERROR] (Minecraft) Chunk file at [-29, 33] is missing level data, skipping
-[06:44:26] [Server thread/ERROR] (Minecraft) Chunk file at [-28, 33] is missing level data, skipping
-[06:44:26] [Server thread/ERROR] (Minecraft) Chunk file at [-27, 33] is missing level data, skipping
-[06:44:26] [Server thread/ERROR] (Minecraft) Chunk file at [-26, 33] is missing level data, skipping
-[06:44:26] [Server thread/ERROR] (Minecraft) Chunk file at [-25, 33] is missing level data, skipping
-[06:44:26] [Server thread/ERROR] (Minecraft) Chunk file at [-24, 33] is missing level data, skipping
-[06:44:26] [Server thread/ERROR] (Minecraft) Chunk file at [-23, 33] is missing level data, skipping
-[06:44:26] [Server thread/ERROR] (Minecraft) Chunk file at [-22, 33] is missing level data, skipping
-[06:44:26] [Server thread/ERROR] (Minecraft) Chunk file at [-21, 33] is missing level data, skipping
-[06:44:26] [Server thread/ERROR] (Minecraft) Chunk file at [-20, 33] is missing level data, skipping
-[06:44:26] [Server thread/ERROR] (Minecraft) Chunk file at [-19, 33] is missing level data, skipping
-[06:44:26] [Server thread/ERROR] (Minecraft) Chunk file at [-18, 33] is missing level data, skipping
-[06:44:26] [Server thread/ERROR] (Minecraft) Chunk file at [-17, 33] is missing level data, skipping
-[06:44:26] [Server thread/ERROR] (Minecraft) Chunk file at [-16, 33] is missing level data, skipping
-[06:44:27] [Server thread/ERROR] (Minecraft) Chunk file at [-15, 33] is missing level data, skipping
-[06:44:27] [Server thread/ERROR] (Minecraft) Chunk file at [-14, 33] is missing level data, skipping
-[06:44:27] [Server thread/ERROR] (Minecraft) Chunk file at [-34, -7] is missing level data, skipping
-[06:44:27] [Server thread/ERROR] (Minecraft) Chunk file at [-33, -7] is missing level data, skipping
-[06:44:27] [Worker-4/INFO] (Minecraft) Preparing spawn area: 47%
-[06:44:27] [Server thread/ERROR] (Minecraft) Chunk file at [-13, 33] is missing level data, skipping
-[06:44:27] [Server thread/ERROR] (Minecraft) Chunk file at [-12, 33] is missing level data, skipping
-[06:44:27] [Server thread/ERROR] (Minecraft) Chunk file at [-11, 33] is missing level data, skipping
-[06:44:27] [Server thread/ERROR] (Minecraft) Chunk file at [-10, 33] is missing level data, skipping
-[06:44:27] [Server thread/ERROR] (Minecraft) Chunk file at [-9, 33] is missing level data, skipping
-[06:44:27] [Server thread/ERROR] (Minecraft) Chunk file at [4, 32] is missing level data, skipping
-[06:44:27] [Server thread/ERROR] (Minecraft) Chunk file at [-8, 33] is missing level data, skipping
-[06:44:27] [Server thread/ERROR] (Minecraft) Chunk file at [-7, 33] is missing level data, skipping
-[06:44:27] [Server thread/ERROR] (Minecraft) Chunk file at [-6, 33] is missing level data, skipping
-[06:44:27] [Server thread/ERROR] (Minecraft) Chunk file at [-5, 33] is missing level data, skipping
-[06:44:27] [Server thread/ERROR] (Minecraft) Chunk file at [-4, 33] is missing level data, skipping
-[06:44:27] [Server thread/ERROR] (Minecraft) Chunk file at [-3, 33] is missing level data, skipping
-[06:44:27] [Server thread/ERROR] (Minecraft) Chunk file at [-2, 33] is missing level data, skipping
-[06:44:27] [Server thread/ERROR] (Minecraft) Chunk file at [-1, 33] is missing level data, skipping
-[06:44:27] [Server thread/ERROR] (Minecraft) Chunk file at [0, 33] is missing level data, skipping
-[06:44:27] [Server thread/ERROR] (Minecraft) Chunk file at [1, 33] is missing level data, skipping
-[06:44:27] [Server thread/ERROR] (Minecraft) Chunk file at [2, 33] is missing level data, skipping
-[06:44:27] [Server thread/ERROR] (Minecraft) Chunk file at [3, 33] is missing level data, skipping
-[06:44:27] [Server thread/ERROR] (Minecraft) Chunk file at [4, 33] is missing level data, skipping
-[06:44:27] [Worker-4/INFO] (Minecraft) Preparing spawn area: 51%
-[06:44:28] [Worker-4/INFO] (Minecraft) Preparing spawn area: 53%
-[06:44:28] [Server thread/ERROR] (Minecraft) Chunk file at [5, 32] is missing level data, skipping
-[06:44:28] [Server thread/ERROR] (Minecraft) Chunk file at [-34, 34] is missing level data, skipping
-[06:44:28] [Server thread/ERROR] (Minecraft) Chunk file at [-33, 34] is missing level data, skipping
-[06:44:28] [Server thread/ERROR] (Minecraft) Chunk file at [-32, 34] is missing level data, skipping
-[06:44:28] [Server thread/ERROR] (Minecraft) Chunk file at [-31, 34] is missing level data, skipping
-[06:44:28] [Server thread/ERROR] (Minecraft) Chunk file at [-30, 34] is missing level data, skipping
-[06:44:28] [Server thread/ERROR] (Minecraft) Chunk file at [-29, 34] is missing level data, skipping
-[06:44:28] [Server thread/ERROR] (Minecraft) Chunk file at [-28, 34] is missing level data, skipping
-[06:44:28] [Server thread/ERROR] (Minecraft) Chunk file at [-27, 34] is missing level data, skipping
-[06:44:28] [Server thread/ERROR] (Minecraft) Chunk file at [-26, 34] is missing level data, skipping
-[06:44:28] [Server thread/ERROR] (Minecraft) Chunk file at [-25, 34] is missing level data, skipping
-[06:44:28] [Server thread/ERROR] (Minecraft) Chunk file at [-24, 34] is missing level data, skipping
-[06:44:28] [Server thread/ERROR] (Minecraft) Chunk file at [-23, 34] is missing level data, skipping
-[06:44:28] [Server thread/ERROR] (Minecraft) Chunk file at [-22, 34] is missing level data, skipping
-[06:44:28] [Server thread/ERROR] (Minecraft) Chunk file at [-21, 34] is missing level data, skipping
-[06:44:28] [Server thread/ERROR] (Minecraft) Chunk file at [-20, 34] is missing level data, skipping
-[06:44:28] [Server thread/ERROR] (Minecraft) Chunk file at [-19, 34] is missing level data, skipping
-[06:44:28] [Server thread/ERROR] (Minecraft) Chunk file at [-18, 34] is missing level data, skipping
-[06:44:28] [Server thread/ERROR] (Minecraft) Chunk file at [-17, 34] is missing level data, skipping
-[06:44:28] [Server thread/ERROR] (Minecraft) Chunk file at [-16, 34] is missing level data, skipping
-[06:44:28] [Worker-2/INFO] (Minecraft) Preparing spawn area: 53%
-[06:44:29] [Worker-4/INFO] (Minecraft) Preparing spawn area: 56%
-[06:44:29] [Server thread/ERROR] (Minecraft) Chunk file at [-15, 34] is missing level data, skipping
-[06:44:29] [Server thread/ERROR] (Minecraft) Chunk file at [-14, 34] is missing level data, skipping
-[06:44:29] [Server thread/ERROR] (Minecraft) Chunk file at [-13, 34] is missing level data, skipping
-[06:44:29] [Server thread/ERROR] (Minecraft) Chunk file at [-34, -8] is missing level data, skipping
-[06:44:29] [Server thread/ERROR] (Minecraft) Chunk file at [-33, -8] is missing level data, skipping
-[06:44:29] [Worker-4/INFO] (Minecraft) Preparing spawn area: 58%
-[06:44:29] [Server thread/ERROR] (Minecraft) Chunk file at [-12, 34] is missing level data, skipping
-[06:44:29] [Server thread/ERROR] (Minecraft) Chunk file at [-11, 34] is missing level data, skipping
-[06:44:29] [Server thread/ERROR] (Minecraft) Chunk file at [-10, 34] is missing level data, skipping
-[06:44:29] [Server thread/ERROR] (Minecraft) Chunk file at [-9, 34] is missing level data, skipping
-[06:44:29] [Server thread/ERROR] (Minecraft) Chunk file at [-8, 34] is missing level data, skipping
-[06:44:29] [Server thread/ERROR] (Minecraft) Chunk file at [5, 33] is missing level data, skipping
-[06:44:29] [Server thread/ERROR] (Minecraft) Chunk file at [-7, 34] is missing level data, skipping
-[06:44:29] [Server thread/ERROR] (Minecraft) Chunk file at [-6, 34] is missing level data, skipping
-[06:44:29] [Server thread/ERROR] (Minecraft) Chunk file at [-5, 34] is missing level data, skipping
-[06:44:29] [Server thread/ERROR] (Minecraft) Chunk file at [-4, 34] is missing level data, skipping
-[06:44:29] [Server thread/ERROR] (Minecraft) Chunk file at [-3, 34] is missing level data, skipping
-[06:44:29] [Server thread/ERROR] (Minecraft) Chunk file at [-2, 34] is missing level data, skipping
-[06:44:29] [Server thread/ERROR] (Minecraft) Chunk file at [-1, 34] is missing level data, skipping
-[06:44:29] [Server thread/ERROR] (Minecraft) Chunk file at [0, 34] is missing level data, skipping
-[06:44:29] [Server thread/ERROR] (Minecraft) Chunk file at [1, 34] is missing level data, skipping
-[06:44:29] [Server thread/ERROR] (Minecraft) Chunk file at [2, 34] is missing level data, skipping
-[06:44:29] [Server thread/ERROR] (Minecraft) Chunk file at [3, 34] is missing level data, skipping
-[06:44:29] [Server thread/ERROR] (Minecraft) Chunk file at [4, 34] is missing level data, skipping
-[06:44:29] [Server thread/ERROR] (Minecraft) Chunk file at [5, 34] is missing level data, skipping
-[06:44:30] [Worker-3/INFO] (Minecraft) Preparing spawn area: 63%
-[06:44:30] [Worker-4/INFO] (Minecraft) Preparing spawn area: 63%
-[06:44:31] [Worker-5/INFO] (Minecraft) Preparing spawn area: 63%
-[06:44:31] [Worker-5/INFO] (Minecraft) Preparing spawn area: 63%
-[06:44:32] [Worker-5/INFO] (Minecraft) Preparing spawn area: 70%
-[06:44:33] [Worker-1/INFO] (Minecraft) Preparing spawn area: 73%
-[06:44:33] [Worker-1/INFO] (Minecraft) Preparing spawn area: 73%
-[06:44:34] [Server thread/INFO] (Minecraft) Preparing spawn area: 79%
-[06:44:34] [Worker-1/INFO] (Minecraft) Preparing spawn area: 83%
-[06:44:35] [Worker-2/INFO] (Minecraft) Preparing spawn area: 83%
-[06:44:35] [Worker-5/INFO] (Minecraft) Preparing spawn area: 89%
-[06:44:36] [Worker-4/INFO] (Minecraft) Preparing spawn area: 92%
-[06:44:36] [Worker-4/INFO] (Minecraft) Preparing spawn area: 95%
-[06:44:36] [Worker-4/INFO] (Minecraft) Preparing spawn area: 95%
-[06:44:36] [Server thread/INFO] (Minecraft) Time elapsed: 17625 ms
-[06:44:36] [Server thread/INFO] (Minecraft) Done (51.601s)! For help, type "help"
-[06:44:39] [Server thread/INFO] (Minecraft) [STDOUT]: EXPORT Done!
+[06:57:24] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/root/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/80fc3a9f592673cea87f4cd702f87991c6c9fe4d/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[06:57:25] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
+[06:57:25] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_21
+[06:57:33] [main/ERROR] (Minecraft) Unable to bootstrap registry 'minecraft:chunk_generator_type'
+[06:57:34] [main/ERROR] (Minecraft) Registry 'minecraft:chunk_generator_type' was empty after loading
+[06:57:35] [main/INFO] (FabricLoader/MixinExtras|Service) Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[06:57:38] [main/WARN] (Minecraft) Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[06:57:38] [main/WARN] (Minecraft) Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06:57:38] [main/WARN] (Minecraft) Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06:57:38] [main/WARN] (Minecraft) Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[06:57:38] [main/WARN] (Minecraft) Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06:57:38] [Server thread/INFO] (Minecraft) Starting minecraft server version 20w14a
+[06:57:38] [Server thread/INFO] (Minecraft) Loading properties
+[06:57:38] [Server thread/INFO] (Minecraft) Default game type: SURVIVAL
+[06:57:38] [Server thread/INFO] (Minecraft) Generating keypair
+[06:57:39] [Server thread/INFO] (Minecraft) Starting Minecraft server on *:50037
+[06:57:39] [Server thread/INFO] (Minecraft) Using epoll channel type
+[06:57:41] [Server thread/INFO] (Minecraft) Preparing level "world"
+[06:57:41] [Server thread/INFO] (Minecraft) Reloading ResourceManager: Default
+[06:58:07] [Server thread/INFO] (Minecraft) Loaded 6 recipes
+[06:58:08] [Server thread/INFO] (Minecraft) Loaded 863 advancements
+[06:58:10] [Server thread/INFO] (Minecraft) Preparing start region for dimension minecraft:overworld
+[06:58:11] [Server thread/INFO] (Minecraft) Preparing spawn area: 0%
+[06:58:11] [Server thread/INFO] (Minecraft) Preparing spawn area: 0%
+[06:58:11] [Server thread/INFO] (Minecraft) Preparing spawn area: 0%
+[06:58:11] [Server thread/INFO] (Minecraft) Preparing spawn area: 0%
+[06:58:12] [Server thread/INFO] (Minecraft) Time elapsed: 2616 ms
+[06:58:12] [Server thread/INFO] (Minecraft) Done (31.575s)! For help, type "help"
+[06:58:14] [Server thread/INFO] (Minecraft) [STDOUT]: EXPORT Done!
 
-BUILD SUCCESSFUL in 1m 46s
+BUILD SUCCESSFUL in 1m 24s
 6 actionable tasks: 5 executed, 1 from cache
 Consider enabling configuration cache to speed up this build: https://docs.gradle.org/9.1.0/userguide/configuration_cache_enabling.html
