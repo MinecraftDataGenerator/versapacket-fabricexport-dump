@@ -13,20 +13,20 @@ Fabric Loom: 1.11.8
 > Task :configureLaunch
 
 > Task :runServer
-2025-11-26 06:48:05,766 main ERROR Error processing element Queue ([Appenders: null]): CLASS_NOT_FOUND
-2025-11-26 06:48:06,130 main ERROR Unable to locate appender "ServerGuiConsole" for logger config "root"
-[06:48:06] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 21w06a with Fabric Loader 0.17.3
-[06:48:07] [main/INFO] (FabricLoader) Loading 5 mods:
+2025-11-26 07:11:50,151 main ERROR Error processing element Queue ([Appenders: null]): CLASS_NOT_FOUND
+2025-11-26 07:11:50,479 main ERROR Unable to locate appender "ServerGuiConsole" for logger config "root"
+[07:11:50] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 21w07a with Fabric Loader 0.17.3
+[07:11:51] [main/INFO] (FabricLoader) Loading 5 mods:
 	- fabricloader 0.17.3
 	- java 21
-	- minecraft 1.17-alpha.21.6.a
+	- minecraft 1.17-alpha.21.7.a
 	- mixinextras 0.5.0
 	- versapacket-fabricexport 1.0.0
-[06:48:07] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/root/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/80fc3a9f592673cea87f4cd702f87991c6c9fe4d/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[06:48:07] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
-[06:48:07] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_21
-[06:48:24] [main/INFO] (Minecraft) Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[06:48:25] [main/INFO] (Minecraft) Loading of old worlds is temporarily disabled.
+[07:11:51] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/root/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/80fc3a9f592673cea87f4cd702f87991c6c9fe4d/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[07:11:52] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
+[07:11:52] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_21
+[07:12:10] [main/INFO] (Minecraft) Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[07:12:10] [main/INFO] (Minecraft) Loading of old worlds is temporarily disabled.
 
 BUILD SUCCESSFUL in 50s
 6 actionable tasks: 5 executed, 1 from cache
