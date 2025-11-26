@@ -8,31 +8,7 @@
     "syncable": true
   },
   {
-    "name": "generic.scale",
-    "type": "RANGED",
-    "default_value": 1.0,
-    "min_value": 0.0625,
-    "max_value": 16.0,
-    "syncable": true
-  },
-  {
-    "name": "generic.gravity",
-    "type": "RANGED",
-    "default_value": 0.08,
-    "min_value": -1.0,
-    "max_value": 1.0,
-    "syncable": true
-  },
-  {
-    "name": "generic.follow_range",
-    "type": "RANGED",
-    "default_value": 32.0,
-    "min_value": 0.0,
-    "max_value": 2048.0,
-    "syncable": false
-  },
-  {
-    "name": "generic.movement_efficiency",
+    "name": "player.sweeping_damage_ratio",
     "type": "RANGED",
     "default_value": 0.0,
     "min_value": 0.0,
@@ -48,51 +24,27 @@
     "syncable": false
   },
   {
-    "name": "generic.knockback_resistance",
+    "name": "generic.explosion_knockback_resistance",
     "type": "RANGED",
     "default_value": 0.0,
     "min_value": 0.0,
     "max_value": 1.0,
-    "syncable": false
-  },
-  {
-    "name": "generic.armor_toughness",
-    "type": "RANGED",
-    "default_value": 0.0,
-    "min_value": 0.0,
-    "max_value": 20.0,
     "syncable": true
   },
   {
-    "name": "generic.armor",
+    "name": "generic.attack_speed",
     "type": "RANGED",
-    "default_value": 0.0,
-    "min_value": 0.0,
-    "max_value": 30.0,
-    "syncable": true
-  },
-  {
-    "name": "player.sneaking_speed",
-    "type": "RANGED",
-    "default_value": 0.3,
-    "min_value": 0.0,
-    "max_value": 1.0,
-    "syncable": true
-  },
-  {
-    "name": "player.block_break_speed",
-    "type": "RANGED",
-    "default_value": 1.0,
+    "default_value": 4.0,
     "min_value": 0.0,
     "max_value": 1024.0,
     "syncable": true
   },
   {
-    "name": "generic.step_height",
+    "name": "generic.safe_fall_distance",
     "type": "RANGED",
-    "default_value": 0.6,
-    "min_value": 0.0,
-    "max_value": 10.0,
+    "default_value": 3.0,
+    "min_value": -1024.0,
+    "max_value": 1024.0,
     "syncable": true
   },
   {
@@ -104,11 +56,27 @@
     "syncable": true
   },
   {
-    "name": "player.sweeping_damage_ratio",
+    "name": "zombie.spawn_reinforcements",
     "type": "RANGED",
     "default_value": 0.0,
     "min_value": 0.0,
     "max_value": 1.0,
+    "syncable": false
+  },
+  {
+    "name": "generic.movement_efficiency",
+    "type": "RANGED",
+    "default_value": 0.0,
+    "min_value": 0.0,
+    "max_value": 1.0,
+    "syncable": true
+  },
+  {
+    "name": "player.entity_interaction_range",
+    "type": "RANGED",
+    "default_value": 3.0,
+    "min_value": 0.0,
+    "max_value": 64.0,
     "syncable": true
   },
   {
@@ -128,51 +96,43 @@
     "syncable": true
   },
   {
-    "name": "generic.safe_fall_distance",
+    "name": "player.block_break_speed",
     "type": "RANGED",
-    "default_value": 3.0,
-    "min_value": -1024.0,
+    "default_value": 1.0,
+    "min_value": 0.0,
     "max_value": 1024.0,
     "syncable": true
   },
   {
-    "name": "generic.fall_damage_multiplier",
+    "name": "generic.step_height",
     "type": "RANGED",
-    "default_value": 1.0,
+    "default_value": 0.6,
     "min_value": 0.0,
-    "max_value": 100.0,
+    "max_value": 10.0,
     "syncable": true
   },
   {
-    "name": "player.submerged_mining_speed",
+    "name": "generic.gravity",
     "type": "RANGED",
-    "default_value": 0.2,
-    "min_value": 0.0,
-    "max_value": 20.0,
+    "default_value": 0.08,
+    "min_value": -1.0,
+    "max_value": 1.0,
     "syncable": true
   },
   {
-    "name": "zombie.spawn_reinforcements",
+    "name": "generic.armor",
     "type": "RANGED",
     "default_value": 0.0,
     "min_value": 0.0,
-    "max_value": 1.0,
-    "syncable": false
-  },
-  {
-    "name": "player.entity_interaction_range",
-    "type": "RANGED",
-    "default_value": 3.0,
-    "min_value": 0.0,
-    "max_value": 64.0,
+    "max_value": 30.0,
     "syncable": true
   },
   {
-    "name": "player.block_interaction_range",
+    "name": "generic.scale",
     "type": "RANGED",
-    "default_value": 4.5,
-    "min_value": 0.0,
-    "max_value": 64.0,
+    "default_value": 1.0,
+    "min_value": 0.0625,
+    "max_value": 16.0,
     "syncable": true
   },
   {
@@ -184,11 +144,19 @@
     "syncable": true
   },
   {
-    "name": "generic.oxygen_bonus",
+    "name": "generic.follow_range",
     "type": "RANGED",
-    "default_value": 0.0,
+    "default_value": 32.0,
     "min_value": 0.0,
-    "max_value": 1024.0,
+    "max_value": 2048.0,
+    "syncable": false
+  },
+  {
+    "name": "generic.fall_damage_multiplier",
+    "type": "RANGED",
+    "default_value": 1.0,
+    "min_value": 0.0,
+    "max_value": 100.0,
     "syncable": true
   },
   {
@@ -200,6 +168,14 @@
     "syncable": true
   },
   {
+    "name": "generic.knockback_resistance",
+    "type": "RANGED",
+    "default_value": 0.0,
+    "min_value": 0.0,
+    "max_value": 1.0,
+    "syncable": false
+  },
+  {
     "name": "generic.max_absorption",
     "type": "RANGED",
     "default_value": 0.0,
@@ -208,19 +184,43 @@
     "syncable": true
   },
   {
-    "name": "generic.attack_speed",
+    "name": "generic.oxygen_bonus",
     "type": "RANGED",
-    "default_value": 4.0,
+    "default_value": 0.0,
     "min_value": 0.0,
     "max_value": 1024.0,
     "syncable": true
   },
   {
-    "name": "generic.explosion_knockback_resistance",
+    "name": "player.block_interaction_range",
+    "type": "RANGED",
+    "default_value": 4.5,
+    "min_value": 0.0,
+    "max_value": 64.0,
+    "syncable": true
+  },
+  {
+    "name": "generic.jump_strength",
+    "type": "RANGED",
+    "default_value": 0.41999998688697815,
+    "min_value": 0.0,
+    "max_value": 32.0,
+    "syncable": true
+  },
+  {
+    "name": "player.sneaking_speed",
+    "type": "RANGED",
+    "default_value": 0.3,
+    "min_value": 0.0,
+    "max_value": 1.0,
+    "syncable": true
+  },
+  {
+    "name": "generic.armor_toughness",
     "type": "RANGED",
     "default_value": 0.0,
     "min_value": 0.0,
-    "max_value": 1.0,
+    "max_value": 20.0,
     "syncable": true
   },
   {
@@ -240,11 +240,11 @@
     "syncable": false
   },
   {
-    "name": "generic.jump_strength",
+    "name": "player.submerged_mining_speed",
     "type": "RANGED",
-    "default_value": 0.41999998688697815,
+    "default_value": 0.2,
     "min_value": 0.0,
-    "max_value": 32.0,
+    "max_value": 20.0,
     "syncable": true
   }
 ]
