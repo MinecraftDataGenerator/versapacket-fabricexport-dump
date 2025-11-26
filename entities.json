@@ -556,7 +556,7 @@
         {
           "name": "ARMADILLO_STATE",
           "id": 17,
-          "type": 25
+          "type": 26
         },
         {
           "name": "DATA_BABY_ID",
@@ -2148,22 +2148,22 @@
         {
           "name": "DATA_TRANSLATION_ID",
           "id": 11,
-          "type": 27
+          "type": 28
         },
         {
           "name": "DATA_SCALE_ID",
           "id": 12,
-          "type": 27
+          "type": 28
         },
         {
           "name": "DATA_LEFT_ROTATION_ID",
           "id": 13,
-          "type": 28
+          "type": 29
         },
         {
           "name": "DATA_RIGHT_ROTATION_ID",
           "id": 14,
-          "type": 28
+          "type": 29
         },
         {
           "name": "DATA_BILLBOARD_RENDER_CONSTRAINTS_ID",
@@ -8650,7 +8650,7 @@
         {
           "name": "DATA_VARIANT_ID",
           "id": 17,
-          "type": 23
+          "type": 24
         },
         {
           "name": "DATA_TONGUE_TARGET_ID",
@@ -12118,22 +12118,22 @@
         {
           "name": "DATA_TRANSLATION_ID",
           "id": 11,
-          "type": 27
+          "type": 28
         },
         {
           "name": "DATA_SCALE_ID",
           "id": 12,
-          "type": 27
+          "type": 28
         },
         {
           "name": "DATA_LEFT_ROTATION_ID",
           "id": 13,
-          "type": 28
+          "type": 29
         },
         {
           "name": "DATA_RIGHT_ROTATION_ID",
           "id": 14,
-          "type": 28
+          "type": 29
         },
         {
           "name": "DATA_BILLBOARD_RENDER_CONSTRAINTS_ID",
@@ -14710,7 +14710,7 @@
         {
           "name": "DATA_PAINTING_VARIANT_ID",
           "id": 8,
-          "type": 24
+          "type": 25
         },
         {
           "name": "DATA_SHARED_FLAGS_ID",
@@ -19566,7 +19566,7 @@
         {
           "name": "DATA_STATE",
           "id": 17,
-          "type": 26
+          "type": 27
         },
         {
           "name": "DATA_DROP_SEED_AT_TICK",
@@ -21723,22 +21723,22 @@
         {
           "name": "DATA_TRANSLATION_ID",
           "id": 11,
-          "type": 27
+          "type": 28
         },
         {
           "name": "DATA_SCALE_ID",
           "id": 12,
-          "type": 27
+          "type": 28
         },
         {
           "name": "DATA_LEFT_ROTATION_ID",
           "id": 13,
-          "type": 28
+          "type": 29
         },
         {
           "name": "DATA_RIGHT_ROTATION_ID",
           "id": 14,
-          "type": 28
+          "type": 29
         },
         {
           "name": "DATA_BILLBOARD_RENDER_CONSTRAINTS_ID",
@@ -25277,6 +25277,11 @@
           "name": "DATA_REMAINING_ANGER_TIME",
           "id": 21,
           "type": 1
+        },
+        {
+          "name": "DATA_VARIANT_ID",
+          "id": 22,
+          "type": 23
         },
         {
           "name": "DATA_FLAGS_ID",
