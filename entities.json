@@ -12880,13 +12880,8 @@
           "type": 1
         },
         {
-          "name": "DATA_SWAG_ID",
-          "id": 20,
-          "type": 1
-        },
-        {
           "name": "DATA_VARIANT_ID",
-          "id": 21,
+          "id": 20,
           "type": 1
         },
         {
@@ -22068,13 +22063,8 @@
           "type": 1
         },
         {
-          "name": "DATA_SWAG_ID",
-          "id": 20,
-          "type": 1
-        },
-        {
           "name": "DATA_VARIANT_ID",
-          "id": 21,
+          "id": 20,
           "type": 1
         },
         {
@@ -24967,13 +24957,8 @@
           "type": 1
         },
         {
-          "name": "DATA_HAS_ARMOR",
-          "id": 21,
-          "type": 10
-        },
-        {
           "name": "DATA_REMAINING_ANGER_TIME",
-          "id": 22,
+          "id": 21,
           "type": 1
         },
         {
