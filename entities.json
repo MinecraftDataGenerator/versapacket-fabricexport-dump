@@ -548,7 +548,7 @@
         {
           "name": "ARMADILLO_STATE",
           "id": 17,
-          "type": 26
+          "type": 25
         },
         {
           "name": "DATA_BABY_ID",
@@ -2425,8 +2425,8 @@
     "identifier": "minecraft:breeze",
     "dimensions": {
       "width": 0.6,
-      "height": 1.7,
-      "eye_height": 1.445,
+      "height": 1.77,
+      "eye_height": 1.5045,
       "fixed": false
     }
   },
@@ -11660,109 +11660,109 @@
         "standing": {
           "width": 0.25,
           "height": 0.25,
-          "eye_height": 0.2125,
+          "eye_height": 0.1,
           "fixed": false
         },
         "fall_flying": {
           "width": 0.25,
           "height": 0.25,
-          "eye_height": 0.2125,
+          "eye_height": 0.1,
           "fixed": false
         },
         "sleeping": {
           "width": 0.25,
           "height": 0.25,
-          "eye_height": 0.2125,
+          "eye_height": 0.1,
           "fixed": false
         },
         "swimming": {
           "width": 0.25,
           "height": 0.25,
-          "eye_height": 0.2125,
+          "eye_height": 0.1,
           "fixed": false
         },
         "spin_attack": {
           "width": 0.25,
           "height": 0.25,
-          "eye_height": 0.2125,
+          "eye_height": 0.1,
           "fixed": false
         },
         "crouching": {
           "width": 0.25,
           "height": 0.25,
-          "eye_height": 0.2125,
+          "eye_height": 0.1,
           "fixed": false
         },
         "long_jumping": {
           "width": 0.25,
           "height": 0.25,
-          "eye_height": 0.2125,
+          "eye_height": 0.1,
           "fixed": false
         },
         "dying": {
           "width": 0.25,
           "height": 0.25,
-          "eye_height": 0.2125,
+          "eye_height": 0.1,
           "fixed": false
         },
         "croaking": {
           "width": 0.25,
           "height": 0.25,
-          "eye_height": 0.2125,
+          "eye_height": 0.1,
           "fixed": false
         },
         "using_tongue": {
           "width": 0.25,
           "height": 0.25,
-          "eye_height": 0.2125,
+          "eye_height": 0.1,
           "fixed": false
         },
         "sitting": {
           "width": 0.25,
           "height": 0.25,
-          "eye_height": 0.2125,
+          "eye_height": 0.1,
           "fixed": false
         },
         "roaring": {
           "width": 0.25,
           "height": 0.25,
-          "eye_height": 0.2125,
+          "eye_height": 0.1,
           "fixed": false
         },
         "sniffing": {
           "width": 0.25,
           "height": 0.25,
-          "eye_height": 0.2125,
+          "eye_height": 0.1,
           "fixed": false
         },
         "emerging": {
           "width": 0.25,
           "height": 0.25,
-          "eye_height": 0.2125,
+          "eye_height": 0.1,
           "fixed": false
         },
         "digging": {
           "width": 0.25,
           "height": 0.25,
-          "eye_height": 0.2125,
+          "eye_height": 0.1,
           "fixed": false
         },
         "sliding": {
           "width": 0.25,
           "height": 0.25,
-          "eye_height": 0.2125,
+          "eye_height": 0.1,
           "fixed": false
         },
         "shooting": {
           "width": 0.25,
           "height": 0.25,
-          "eye_height": 0.2125,
+          "eye_height": 0.1,
           "fixed": false
         },
         "inhaling": {
           "width": 0.25,
           "height": 0.25,
-          "eye_height": 0.2125,
+          "eye_height": 0.1,
           "fixed": false
         }
       },
@@ -13177,15 +13177,15 @@
       ],
       "poses": {
         "standing": {
-          "width": 0.52019995,
-          "height": 0.52019995,
-          "eye_height": 0.32512498,
+          "width": 2.04,
+          "height": 2.04,
+          "eye_height": 1.275,
           "fixed": false
         },
         "fall_flying": {
-          "width": 0.52019995,
-          "height": 0.52019995,
-          "eye_height": 0.32512498,
+          "width": 2.04,
+          "height": 2.04,
+          "eye_height": 1.275,
           "fixed": false
         },
         "sleeping": {
@@ -13195,93 +13195,93 @@
           "fixed": true
         },
         "swimming": {
-          "width": 0.52019995,
-          "height": 0.52019995,
-          "eye_height": 0.32512498,
+          "width": 2.04,
+          "height": 2.04,
+          "eye_height": 1.275,
           "fixed": false
         },
         "spin_attack": {
-          "width": 0.52019995,
-          "height": 0.52019995,
-          "eye_height": 0.32512498,
+          "width": 2.04,
+          "height": 2.04,
+          "eye_height": 1.275,
           "fixed": false
         },
         "crouching": {
-          "width": 0.52019995,
-          "height": 0.52019995,
-          "eye_height": 0.32512498,
+          "width": 2.04,
+          "height": 2.04,
+          "eye_height": 1.275,
           "fixed": false
         },
         "long_jumping": {
-          "width": 0.52019995,
-          "height": 0.52019995,
-          "eye_height": 0.32512498,
+          "width": 2.04,
+          "height": 2.04,
+          "eye_height": 1.275,
           "fixed": false
         },
         "dying": {
-          "width": 0.52019995,
-          "height": 0.52019995,
-          "eye_height": 0.32512498,
+          "width": 2.04,
+          "height": 2.04,
+          "eye_height": 1.275,
           "fixed": false
         },
         "croaking": {
-          "width": 0.52019995,
-          "height": 0.52019995,
-          "eye_height": 0.32512498,
+          "width": 2.04,
+          "height": 2.04,
+          "eye_height": 1.275,
           "fixed": false
         },
         "using_tongue": {
-          "width": 0.52019995,
-          "height": 0.52019995,
-          "eye_height": 0.32512498,
+          "width": 2.04,
+          "height": 2.04,
+          "eye_height": 1.275,
           "fixed": false
         },
         "sitting": {
-          "width": 0.52019995,
-          "height": 0.52019995,
-          "eye_height": 0.32512498,
+          "width": 2.04,
+          "height": 2.04,
+          "eye_height": 1.275,
           "fixed": false
         },
         "roaring": {
-          "width": 0.52019995,
-          "height": 0.52019995,
-          "eye_height": 0.32512498,
+          "width": 2.04,
+          "height": 2.04,
+          "eye_height": 1.275,
           "fixed": false
         },
         "sniffing": {
-          "width": 0.52019995,
-          "height": 0.52019995,
-          "eye_height": 0.32512498,
+          "width": 2.04,
+          "height": 2.04,
+          "eye_height": 1.275,
           "fixed": false
         },
         "emerging": {
-          "width": 0.52019995,
-          "height": 0.52019995,
-          "eye_height": 0.32512498,
+          "width": 2.04,
+          "height": 2.04,
+          "eye_height": 1.275,
           "fixed": false
         },
         "digging": {
-          "width": 0.52019995,
-          "height": 0.52019995,
-          "eye_height": 0.32512498,
+          "width": 2.04,
+          "height": 2.04,
+          "eye_height": 1.275,
           "fixed": false
         },
         "sliding": {
-          "width": 0.52019995,
-          "height": 0.52019995,
-          "eye_height": 0.32512498,
+          "width": 2.04,
+          "height": 2.04,
+          "eye_height": 1.275,
           "fixed": false
         },
         "shooting": {
-          "width": 0.52019995,
-          "height": 0.52019995,
-          "eye_height": 0.32512498,
+          "width": 2.04,
+          "height": 2.04,
+          "eye_height": 1.275,
           "fixed": false
         },
         "inhaling": {
-          "width": 0.52019995,
-          "height": 0.52019995,
-          "eye_height": 0.32512498,
+          "width": 2.04,
+          "height": 2.04,
+          "eye_height": 1.275,
           "fixed": false
         }
       },
@@ -18801,9 +18801,9 @@
     "protocol_id": 90,
     "identifier": "minecraft:slime",
     "dimensions": {
-      "width": 2.04,
-      "height": 2.04,
-      "eye_height": 1.734,
+      "width": 0.52,
+      "height": 0.52,
+      "eye_height": 0.442,
       "fixed": false
     },
     "attributes": {
@@ -18822,15 +18822,15 @@
       ],
       "poses": {
         "standing": {
-          "width": 0.52019995,
-          "height": 0.52019995,
-          "eye_height": 0.32512498,
+          "width": 0.52,
+          "height": 0.52,
+          "eye_height": 0.325,
           "fixed": false
         },
         "fall_flying": {
-          "width": 0.52019995,
-          "height": 0.52019995,
-          "eye_height": 0.32512498,
+          "width": 0.52,
+          "height": 0.52,
+          "eye_height": 0.325,
           "fixed": false
         },
         "sleeping": {
@@ -18840,93 +18840,93 @@
           "fixed": true
         },
         "swimming": {
-          "width": 0.52019995,
-          "height": 0.52019995,
-          "eye_height": 0.32512498,
+          "width": 0.52,
+          "height": 0.52,
+          "eye_height": 0.325,
           "fixed": false
         },
         "spin_attack": {
-          "width": 0.52019995,
-          "height": 0.52019995,
-          "eye_height": 0.32512498,
+          "width": 0.52,
+          "height": 0.52,
+          "eye_height": 0.325,
           "fixed": false
         },
         "crouching": {
-          "width": 0.52019995,
-          "height": 0.52019995,
-          "eye_height": 0.32512498,
+          "width": 0.52,
+          "height": 0.52,
+          "eye_height": 0.325,
           "fixed": false
         },
         "long_jumping": {
-          "width": 0.52019995,
-          "height": 0.52019995,
-          "eye_height": 0.32512498,
+          "width": 0.52,
+          "height": 0.52,
+          "eye_height": 0.325,
           "fixed": false
         },
         "dying": {
-          "width": 0.52019995,
-          "height": 0.52019995,
-          "eye_height": 0.32512498,
+          "width": 0.52,
+          "height": 0.52,
+          "eye_height": 0.325,
           "fixed": false
         },
         "croaking": {
-          "width": 0.52019995,
-          "height": 0.52019995,
-          "eye_height": 0.32512498,
+          "width": 0.52,
+          "height": 0.52,
+          "eye_height": 0.325,
           "fixed": false
         },
         "using_tongue": {
-          "width": 0.52019995,
-          "height": 0.52019995,
-          "eye_height": 0.32512498,
+          "width": 0.52,
+          "height": 0.52,
+          "eye_height": 0.325,
           "fixed": false
         },
         "sitting": {
-          "width": 0.52019995,
-          "height": 0.52019995,
-          "eye_height": 0.32512498,
+          "width": 0.52,
+          "height": 0.52,
+          "eye_height": 0.325,
           "fixed": false
         },
         "roaring": {
-          "width": 0.52019995,
-          "height": 0.52019995,
-          "eye_height": 0.32512498,
+          "width": 0.52,
+          "height": 0.52,
+          "eye_height": 0.325,
           "fixed": false
         },
         "sniffing": {
-          "width": 0.52019995,
-          "height": 0.52019995,
-          "eye_height": 0.32512498,
+          "width": 0.52,
+          "height": 0.52,
+          "eye_height": 0.325,
           "fixed": false
         },
         "emerging": {
-          "width": 0.52019995,
-          "height": 0.52019995,
-          "eye_height": 0.32512498,
+          "width": 0.52,
+          "height": 0.52,
+          "eye_height": 0.325,
           "fixed": false
         },
         "digging": {
-          "width": 0.52019995,
-          "height": 0.52019995,
-          "eye_height": 0.32512498,
+          "width": 0.52,
+          "height": 0.52,
+          "eye_height": 0.325,
           "fixed": false
         },
         "sliding": {
-          "width": 0.52019995,
-          "height": 0.52019995,
-          "eye_height": 0.32512498,
+          "width": 0.52,
+          "height": 0.52,
+          "eye_height": 0.325,
           "fixed": false
         },
         "shooting": {
-          "width": 0.52019995,
-          "height": 0.52019995,
-          "eye_height": 0.32512498,
+          "width": 0.52,
+          "height": 0.52,
+          "eye_height": 0.325,
           "fixed": false
         },
         "inhaling": {
-          "width": 0.52019995,
-          "height": 0.52019995,
-          "eye_height": 0.32512498,
+          "width": 0.52,
+          "height": 0.52,
+          "eye_height": 0.325,
           "fixed": false
         }
       },
@@ -19325,7 +19325,7 @@
         {
           "name": "DATA_STATE",
           "id": 17,
-          "type": 25
+          "type": 26
         },
         {
           "name": "DATA_DROP_SEED_AT_TICK",
