@@ -1,24 +1,8 @@
 [
   {
-    "name": "attribute.name.generic.movement_speed",
+    "name": "attribute.name.generic.attack_speed",
     "type": "RANGED",
-    "default_value": 0.699999988079071,
-    "min_value": 0.0,
-    "max_value": 1024.0,
-    "syncable": true
-  },
-  {
-    "name": "attribute.name.zombie.spawn_reinforcements",
-    "type": "RANGED",
-    "default_value": 0.0,
-    "min_value": 0.0,
-    "max_value": 1.0,
-    "syncable": false
-  },
-  {
-    "name": "attribute.name.generic.flying_speed",
-    "type": "RANGED",
-    "default_value": 0.4000000059604645,
+    "default_value": 4.0,
     "min_value": 0.0,
     "max_value": 1024.0,
     "syncable": true
@@ -32,11 +16,35 @@
     "syncable": false
   },
   {
-    "name": "attribute.name.generic.armor_toughness",
+    "name": "attribute.name.generic.luck",
     "type": "RANGED",
     "default_value": 0.0,
+    "min_value": -1024.0,
+    "max_value": 1024.0,
+    "syncable": true
+  },
+  {
+    "name": "attribute.name.generic.follow_range",
+    "type": "RANGED",
+    "default_value": 32.0,
     "min_value": 0.0,
-    "max_value": 20.0,
+    "max_value": 2048.0,
+    "syncable": false
+  },
+  {
+    "name": "attribute.name.horse.jump_strength",
+    "type": "RANGED",
+    "default_value": 0.7,
+    "min_value": 0.0,
+    "max_value": 2.0,
+    "syncable": true
+  },
+  {
+    "name": "attribute.name.generic.flying_speed",
+    "type": "RANGED",
+    "default_value": 0.4000000059604645,
+    "min_value": 0.0,
+    "max_value": 1024.0,
     "syncable": true
   },
   {
@@ -48,12 +56,12 @@
     "syncable": true
   },
   {
-    "name": "attribute.name.horse.jump_strength",
+    "name": "attribute.name.zombie.spawn_reinforcements",
     "type": "RANGED",
-    "default_value": 0.7,
+    "default_value": 0.0,
     "min_value": 0.0,
-    "max_value": 2.0,
-    "syncable": true
+    "max_value": 1.0,
+    "syncable": false
   },
   {
     "name": "attribute.name.generic.max_health",
@@ -64,20 +72,12 @@
     "syncable": true
   },
   {
-    "name": "attribute.name.generic.attack_speed",
-    "type": "RANGED",
-    "default_value": 4.0,
-    "min_value": 0.0,
-    "max_value": 1024.0,
-    "syncable": true
-  },
-  {
-    "name": "attribute.name.generic.luck",
+    "name": "attribute.name.generic.knockback_resistance",
     "type": "RANGED",
     "default_value": 0.0,
-    "min_value": -1024.0,
-    "max_value": 1024.0,
-    "syncable": true
+    "min_value": 0.0,
+    "max_value": 1.0,
+    "syncable": false
   },
   {
     "name": "attribute.name.generic.attack_damage",
@@ -88,19 +88,19 @@
     "syncable": false
   },
   {
-    "name": "attribute.name.generic.follow_range",
-    "type": "RANGED",
-    "default_value": 32.0,
-    "min_value": 0.0,
-    "max_value": 2048.0,
-    "syncable": false
-  },
-  {
-    "name": "attribute.name.generic.knockback_resistance",
+    "name": "attribute.name.generic.armor_toughness",
     "type": "RANGED",
     "default_value": 0.0,
     "min_value": 0.0,
-    "max_value": 1.0,
-    "syncable": false
+    "max_value": 20.0,
+    "syncable": true
+  },
+  {
+    "name": "attribute.name.generic.movement_speed",
+    "type": "RANGED",
+    "default_value": 0.699999988079071,
+    "min_value": 0.0,
+    "max_value": 1024.0,
+    "syncable": true
   }
 ]
