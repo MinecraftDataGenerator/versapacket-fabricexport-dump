@@ -1,18 +1,10 @@
 [
   {
-    "name": "attribute.name.generic.max_health",
-    "type": "RANGED",
-    "default_value": 20.0,
-    "min_value": 1.0,
-    "max_value": 1024.0,
-    "syncable": true
-  },
-  {
-    "name": "attribute.name.generic.armor_toughness",
+    "name": "attribute.name.generic.luck",
     "type": "RANGED",
     "default_value": 0.0,
-    "min_value": 0.0,
-    "max_value": 20.0,
+    "min_value": -1024.0,
+    "max_value": 1024.0,
     "syncable": true
   },
   {
@@ -24,12 +16,12 @@
     "syncable": false
   },
   {
-    "name": "attribute.name.generic.luck",
+    "name": "attribute.name.zombie.spawn_reinforcements",
     "type": "RANGED",
     "default_value": 0.0,
-    "min_value": -1024.0,
-    "max_value": 1024.0,
-    "syncable": true
+    "min_value": 0.0,
+    "max_value": 1.0,
+    "syncable": false
   },
   {
     "name": "attribute.name.generic.armor",
@@ -56,17 +48,17 @@
     "syncable": false
   },
   {
-    "name": "attribute.name.generic.movement_speed",
+    "name": "attribute.name.horse.jump_strength",
     "type": "RANGED",
-    "default_value": 0.699999988079071,
+    "default_value": 0.7,
     "min_value": 0.0,
-    "max_value": 1024.0,
+    "max_value": 2.0,
     "syncable": true
   },
   {
-    "name": "attribute.name.generic.attack_speed",
+    "name": "attribute.name.generic.movement_speed",
     "type": "RANGED",
-    "default_value": 4.0,
+    "default_value": 0.699999988079071,
     "min_value": 0.0,
     "max_value": 1024.0,
     "syncable": true
@@ -80,19 +72,27 @@
     "syncable": false
   },
   {
-    "name": "attribute.name.zombie.spawn_reinforcements",
+    "name": "attribute.name.generic.max_health",
+    "type": "RANGED",
+    "default_value": 20.0,
+    "min_value": 1.0,
+    "max_value": 1024.0,
+    "syncable": true
+  },
+  {
+    "name": "attribute.name.generic.attack_speed",
+    "type": "RANGED",
+    "default_value": 4.0,
+    "min_value": 0.0,
+    "max_value": 1024.0,
+    "syncable": true
+  },
+  {
+    "name": "attribute.name.generic.armor_toughness",
     "type": "RANGED",
     "default_value": 0.0,
     "min_value": 0.0,
-    "max_value": 1.0,
-    "syncable": false
-  },
-  {
-    "name": "attribute.name.horse.jump_strength",
-    "type": "RANGED",
-    "default_value": 0.7,
-    "min_value": 0.0,
-    "max_value": 2.0,
+    "max_value": 20.0,
     "syncable": true
   },
   {
