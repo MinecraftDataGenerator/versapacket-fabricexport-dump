@@ -3,9 +3,15 @@ Daemon will be stopped at the end of the build
 
 > Configure project :
 Fabric Loom: 1.11.8
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Using of the official minecraft mappings is at your own risk!
+Please make sure to read and understand the following license:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# (c) 2020 Microsoft Corporation. These mappings are provided "as-is" and you bear the risk of using them. You may copy and use the mappings for development purposes, but you may not redistribute the mappings complete and unmodified. Microsoft makes no warranties, express or implied, with respect to the mappings provided here.  Use and modification of this document or the source code (in any form) of Minecraft: Java Edition is governed by the Minecraft End User License Agreement available at https://account.mojang.com/documents/minecraft_eula.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 > Task :compileJava
-/home/paul/actions-runner/_work/versapacket-fabricexport/versapacket-fabricexport/parallel/1.21.11-pre2/src/main/java/de/dietrichpaul/versapacket/fabricexport/impl/EntityExporter.java:17: error: cannot find symbol
+/home/paul/actions-runner/_work/versapacket-fabricexport/versapacket-fabricexport/parallel/1.21.11-pre3/src/main/java/de/dietrichpaul/versapacket/fabricexport/impl/EntityExporter.java:17: error: cannot find symbol
 import net.minecraft.world.entity.animal.IronGolem;
                                         ^
   symbol:   class IronGolem
@@ -14,14 +20,14 @@ import net.minecraft.world.entity.animal.IronGolem;
 
 > Task :compileJava FAILED
 
-[Incubating] Problems report is available at: file:///home/paul/actions-runner/_work/versapacket-fabricexport/versapacket-fabricexport/parallel/1.21.11-pre2/build/reports/problems/problems-report.html
+[Incubating] Problems report is available at: file:///home/paul/actions-runner/_work/versapacket-fabricexport/versapacket-fabricexport/parallel/1.21.11-pre3/build/reports/problems/problems-report.html
 
 FAILURE: Build failed with an exception.
 
 * What went wrong:
 Execution failed for task ':compileJava'.
 > Compilation failed; see the compiler output below.
-  /home/paul/actions-runner/_work/versapacket-fabricexport/versapacket-fabricexport/parallel/1.21.11-pre2/src/main/java/de/dietrichpaul/versapacket/fabricexport/impl/EntityExporter.java:17: error: cannot find symbol
+  /home/paul/actions-runner/_work/versapacket-fabricexport/versapacket-fabricexport/parallel/1.21.11-pre3/src/main/java/de/dietrichpaul/versapacket/fabricexport/impl/EntityExporter.java:17: error: cannot find symbol
   import net.minecraft.world.entity.animal.IronGolem;
                                           ^
     symbol:   class IronGolem
@@ -32,5 +38,5 @@ Execution failed for task ':compileJava'.
 > Check your code and dependencies to fix the compilation error(s)
 > Run with --scan to generate a Build Scan (Powered by Develocity).
 
-BUILD FAILED in 30s
+BUILD FAILED in 1m 33s
 1 actionable task: 1 executed
