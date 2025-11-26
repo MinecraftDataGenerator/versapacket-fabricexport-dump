@@ -199,4 +199,8 @@
 [BLOCK] Cannot serialize voxel shapes for block: Block{minecraft:pointed_dripstone}
 [BLOCK] Cannot serialize voxel shapes for block: Block{minecraft:pointed_dripstone}
 [BLOCK] Cannot serialize voxel shapes for block: Block{minecraft:pointed_dripstone}
+[ENTITY] Cannot dump internal attributes of entity.minecraft.creaking
+[ENTITY] Cannot dump internal attributes of entity.minecraft.creaking_transient
+[ENTITY] Cannot dump internal attributes of entity.minecraft.pale_oak_boat
+[ENTITY] Cannot dump internal attributes of entity.minecraft.pale_oak_chest_boat
 [ENTITY] Cannot dump internal attributes of entity.minecraft.player
