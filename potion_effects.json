@@ -6,7 +6,7 @@
     "color": 3402751,
     "modifiers": [
       {
-        "attribute": "minecraft:generic.movement_speed",
+        "attribute": "minecraft:movement_speed",
         "identifier": "minecraft:effect.speed",
         "base_value": 0.20000000298023224,
         "operation": "add_multiplied_total"
@@ -20,7 +20,7 @@
     "color": 9154528,
     "modifiers": [
       {
-        "attribute": "minecraft:generic.movement_speed",
+        "attribute": "minecraft:movement_speed",
         "identifier": "minecraft:effect.slowness",
         "base_value": -0.15000000596046448,
         "operation": "add_multiplied_total"
@@ -34,7 +34,7 @@
     "color": 14270531,
     "modifiers": [
       {
-        "attribute": "minecraft:generic.attack_speed",
+        "attribute": "minecraft:attack_speed",
         "identifier": "minecraft:effect.haste",
         "base_value": 0.10000000149011612,
         "operation": "add_multiplied_total"
@@ -48,7 +48,7 @@
     "color": 4866583,
     "modifiers": [
       {
-        "attribute": "minecraft:generic.attack_speed",
+        "attribute": "minecraft:attack_speed",
         "identifier": "minecraft:effect.mining_fatigue",
         "base_value": -0.10000000149011612,
         "operation": "add_multiplied_total"
@@ -62,7 +62,7 @@
     "color": 16762624,
     "modifiers": [
       {
-        "attribute": "minecraft:generic.attack_damage",
+        "attribute": "minecraft:attack_damage",
         "identifier": "minecraft:effect.strength",
         "base_value": 3.0,
         "operation": "add_value"
@@ -90,7 +90,7 @@
     "color": 16646020,
     "modifiers": [
       {
-        "attribute": "minecraft:generic.safe_fall_distance",
+        "attribute": "minecraft:safe_fall_distance",
         "identifier": "minecraft:effect.jump_boost",
         "base_value": 1.0,
         "operation": "add_value"
@@ -167,7 +167,7 @@
     "color": 4738376,
     "modifiers": [
       {
-        "attribute": "minecraft:generic.attack_damage",
+        "attribute": "minecraft:attack_damage",
         "identifier": "minecraft:effect.weakness",
         "base_value": -4.0,
         "operation": "add_value"
@@ -195,7 +195,7 @@
     "color": 16284963,
     "modifiers": [
       {
-        "attribute": "minecraft:generic.max_health",
+        "attribute": "minecraft:max_health",
         "identifier": "minecraft:effect.health_boost",
         "base_value": 4.0,
         "operation": "add_value"
@@ -209,7 +209,7 @@
     "color": 2445989,
     "modifiers": [
       {
-        "attribute": "minecraft:generic.max_absorption",
+        "attribute": "minecraft:max_absorption",
         "identifier": "minecraft:effect.absorption",
         "base_value": 4.0,
         "operation": "add_value"
@@ -244,7 +244,7 @@
     "color": 5882118,
     "modifiers": [
       {
-        "attribute": "minecraft:generic.luck",
+        "attribute": "minecraft:luck",
         "identifier": "minecraft:effect.luck",
         "base_value": 1.0,
         "operation": "add_value"
@@ -258,7 +258,7 @@
     "color": 12624973,
     "modifiers": [
       {
-        "attribute": "minecraft:generic.luck",
+        "attribute": "minecraft:luck",
         "identifier": "minecraft:effect.unluck",
         "base_value": -1.0,
         "operation": "add_value"
