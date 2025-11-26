@@ -416,53 +416,56 @@
       "set_score": {
         "protocol_id": 86
       },
-      "set_subtitle_text": {
+      "set_simulation_distance": {
         "protocol_id": 87
       },
-      "set_time": {
+      "set_subtitle_text": {
         "protocol_id": 88
       },
-      "set_title_text": {
+      "set_time": {
         "protocol_id": 89
       },
-      "set_titles_animation": {
+      "set_title_text": {
         "protocol_id": 90
       },
-      "sound_entity": {
+      "set_titles_animation": {
         "protocol_id": 91
       },
-      "sound": {
+      "sound_entity": {
         "protocol_id": 92
       },
-      "stop_sound": {
+      "sound": {
         "protocol_id": 93
       },
-      "tab_list": {
+      "stop_sound": {
         "protocol_id": 94
       },
-      "tag_query": {
+      "tab_list": {
         "protocol_id": 95
       },
-      "take_item_entity": {
+      "tag_query": {
         "protocol_id": 96
       },
-      "teleport_entity": {
+      "take_item_entity": {
         "protocol_id": 97
       },
-      "update_advancements": {
+      "teleport_entity": {
         "protocol_id": 98
       },
-      "update_attributes": {
+      "update_advancements": {
         "protocol_id": 99
       },
-      "update_mob_effect": {
+      "update_attributes": {
         "protocol_id": 100
       },
-      "update_recipes": {
+      "update_mob_effect": {
         "protocol_id": 101
       },
-      "update_tags": {
+      "update_recipes": {
         "protocol_id": 102
+      },
+      "update_tags": {
+        "protocol_id": 103
       }
     }
   },
