@@ -14155,6 +14155,168 @@
   },
   {
     "protocol_id": 102,
+    "identifier": "minecraft:strider",
+    "dimensions": {
+      "width": 0.9,
+      "height": 1.7,
+      "eye_height": 1.445,
+      "fixed": false
+    },
+    "attributes": {
+      "attributes": [
+        "generic.maxHealth",
+        "generic.knockbackResistance",
+        "generic.movementSpeed",
+        "generic.armor",
+        "generic.armorToughness",
+        "generic.followRange",
+        "generic.attackKnockback"
+      ],
+      "poses": {
+        "standing": {
+          "width": 0.9,
+          "height": 1.7,
+          "eye_height": 1.445,
+          "fixed": false
+        },
+        "fall_flying": {
+          "width": 0.9,
+          "height": 1.7,
+          "eye_height": 1.445,
+          "fixed": false
+        },
+        "sleeping": {
+          "width": 0.2,
+          "height": 0.2,
+          "eye_height": 0.2,
+          "fixed": true
+        },
+        "swimming": {
+          "width": 0.9,
+          "height": 1.7,
+          "eye_height": 1.445,
+          "fixed": false
+        },
+        "spin_attack": {
+          "width": 0.9,
+          "height": 1.7,
+          "eye_height": 1.445,
+          "fixed": false
+        },
+        "crouching": {
+          "width": 0.9,
+          "height": 1.7,
+          "eye_height": 1.445,
+          "fixed": false
+        },
+        "dying": {
+          "width": 0.9,
+          "height": 1.7,
+          "eye_height": 1.445,
+          "fixed": false
+        }
+      },
+      "data_tracker": [
+        {
+          "name": "DATA_BOOST_TIME",
+          "id": 16,
+          "type": 1
+        },
+        {
+          "name": "DATA_SUFFOCATING",
+          "id": 17,
+          "type": 8
+        },
+        {
+          "name": "DATA_SADDLE_ID",
+          "id": 18,
+          "type": 8
+        },
+        {
+          "name": "DATA_BABY_ID",
+          "id": 15,
+          "type": 8
+        },
+        {
+          "name": "DATA_MOB_FLAGS_ID",
+          "id": 14,
+          "type": 0
+        },
+        {
+          "name": "DATA_LIVING_ENTITY_FLAGS",
+          "id": 7,
+          "type": 0
+        },
+        {
+          "name": "DATA_HEALTH_ID",
+          "id": 8,
+          "type": 2
+        },
+        {
+          "name": "DATA_EFFECT_COLOR_ID",
+          "id": 9,
+          "type": 1
+        },
+        {
+          "name": "DATA_EFFECT_AMBIENCE_ID",
+          "id": 10,
+          "type": 8
+        },
+        {
+          "name": "DATA_ARROW_COUNT_ID",
+          "id": 11,
+          "type": 1
+        },
+        {
+          "name": "DATA_STINGER_COUNT_ID",
+          "id": 12,
+          "type": 1
+        },
+        {
+          "name": "SLEEPING_POS_ID",
+          "id": 13,
+          "type": 12
+        },
+        {
+          "name": "DATA_SHARED_FLAGS_ID",
+          "id": 0,
+          "type": 0
+        },
+        {
+          "name": "DATA_AIR_SUPPLY_ID",
+          "id": 1,
+          "type": 1
+        },
+        {
+          "name": "DATA_CUSTOM_NAME",
+          "id": 2,
+          "type": 5
+        },
+        {
+          "name": "DATA_CUSTOM_NAME_VISIBLE",
+          "id": 3,
+          "type": 8
+        },
+        {
+          "name": "DATA_SILENT",
+          "id": 4,
+          "type": 8
+        },
+        {
+          "name": "DATA_NO_GRAVITY",
+          "id": 5,
+          "type": 8
+        },
+        {
+          "name": "DATA_POSE",
+          "id": 6,
+          "type": 18
+        }
+      ]
+    }
+  },
+  {
+    "protocol_id": 103,
     "identifier": "minecraft:lightning_bolt",
     "dimensions": {
       "width": 0.0,
@@ -14164,7 +14326,7 @@
     }
   },
   {
-    "protocol_id": 103,
+    "protocol_id": 104,
     "identifier": "minecraft:player",
     "dimensions": {
       "width": 0.6,
@@ -14174,7 +14336,7 @@
     }
   },
   {
-    "protocol_id": 104,
+    "protocol_id": 105,
     "identifier": "minecraft:fishing_bobber",
     "dimensions": {
       "width": 0.25,
