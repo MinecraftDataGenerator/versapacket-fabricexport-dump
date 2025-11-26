@@ -10213,6 +10213,11 @@
       },
       "data_tracker": [
         {
+          "name": "DATA_VALUE",
+          "id": 8,
+          "type": 1
+        },
+        {
           "name": "DATA_SHARED_FLAGS_ID",
           "id": 0,
           "type": 0
@@ -17407,7 +17412,7 @@
         {
           "name": "DATA_TYPE",
           "id": 17,
-          "type": 4
+          "type": 1
         },
         {
           "name": "DATA_BABY_ID",
@@ -19980,18 +19985,13 @@
       },
       "data_tracker": [
         {
-          "name": "DATA_SADDLE_ID",
-          "id": 17,
-          "type": 10
-        },
-        {
           "name": "DATA_BOOST_TIME",
-          "id": 18,
+          "id": 17,
           "type": 1
         },
         {
           "name": "DATA_VARIANT_ID",
-          "id": 19,
+          "id": 18,
           "type": 26
         },
         {
@@ -26119,11 +26119,6 @@
         {
           "name": "DATA_SUFFOCATING",
           "id": 18,
-          "type": 10
-        },
-        {
-          "name": "DATA_SADDLE_ID",
-          "id": 19,
           "type": 10
         },
         {
