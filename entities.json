@@ -6459,6 +6459,11 @@
           "type": 10
         },
         {
+          "name": "HOME_POS",
+          "id": 19,
+          "type": 15
+        },
+        {
           "name": "DATA_MOB_FLAGS_ID",
           "id": 15,
           "type": 0
