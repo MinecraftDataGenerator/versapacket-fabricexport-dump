@@ -17610,6 +17610,16 @@
           "type": 36
         },
         {
+          "name": "DATA_IMMOVABLE",
+          "id": 18,
+          "type": 10
+        },
+        {
+          "name": "DATA_DESCRIPTION",
+          "id": 19,
+          "type": 6
+        },
+        {
           "name": "DATA_PLAYER_MAIN_HAND",
           "id": 15,
           "type": 0
