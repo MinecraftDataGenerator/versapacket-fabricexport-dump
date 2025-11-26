@@ -1,11 +1,11 @@
 [
   {
-    "name": "attribute.name.generic.max_health",
+    "name": "attribute.name.generic.knockback_resistance",
     "type": "RANGED",
-    "default_value": 20.0,
-    "min_value": 1.0,
-    "max_value": 1024.0,
-    "syncable": true
+    "default_value": 0.0,
+    "min_value": 0.0,
+    "max_value": 1.0,
+    "syncable": false
   },
   {
     "name": "attribute.name.generic.luck",
@@ -16,57 +16,9 @@
     "syncable": true
   },
   {
-    "name": "attribute.name.generic.armor_toughness",
+    "name": "attribute.name.generic.movement_speed",
     "type": "RANGED",
-    "default_value": 0.0,
-    "min_value": 0.0,
-    "max_value": 20.0,
-    "syncable": true
-  },
-  {
-    "name": "attribute.name.generic.armor",
-    "type": "RANGED",
-    "default_value": 0.0,
-    "min_value": 0.0,
-    "max_value": 30.0,
-    "syncable": true
-  },
-  {
-    "name": "attribute.name.zombie.spawn_reinforcements",
-    "type": "RANGED",
-    "default_value": 0.0,
-    "min_value": 0.0,
-    "max_value": 1.0,
-    "syncable": false
-  },
-  {
-    "name": "attribute.name.generic.attack_knockback",
-    "type": "RANGED",
-    "default_value": 0.0,
-    "min_value": 0.0,
-    "max_value": 5.0,
-    "syncable": false
-  },
-  {
-    "name": "attribute.name.generic.knockback_resistance",
-    "type": "RANGED",
-    "default_value": 0.0,
-    "min_value": 0.0,
-    "max_value": 1.0,
-    "syncable": false
-  },
-  {
-    "name": "attribute.name.generic.follow_range",
-    "type": "RANGED",
-    "default_value": 32.0,
-    "min_value": 0.0,
-    "max_value": 2048.0,
-    "syncable": false
-  },
-  {
-    "name": "attribute.name.generic.flying_speed",
-    "type": "RANGED",
-    "default_value": 0.4000000059604645,
+    "default_value": 0.699999988079071,
     "min_value": 0.0,
     "max_value": 1024.0,
     "syncable": true
@@ -80,6 +32,14 @@
     "syncable": false
   },
   {
+    "name": "attribute.name.generic.armor_toughness",
+    "type": "RANGED",
+    "default_value": 0.0,
+    "min_value": 0.0,
+    "max_value": 20.0,
+    "syncable": true
+  },
+  {
     "name": "attribute.name.generic.attack_speed",
     "type": "RANGED",
     "default_value": 4.0,
@@ -88,9 +48,33 @@
     "syncable": true
   },
   {
-    "name": "attribute.name.generic.movement_speed",
+    "name": "attribute.name.generic.max_health",
     "type": "RANGED",
-    "default_value": 0.699999988079071,
+    "default_value": 20.0,
+    "min_value": 1.0,
+    "max_value": 1024.0,
+    "syncable": true
+  },
+  {
+    "name": "attribute.name.generic.follow_range",
+    "type": "RANGED",
+    "default_value": 32.0,
+    "min_value": 0.0,
+    "max_value": 2048.0,
+    "syncable": false
+  },
+  {
+    "name": "attribute.name.generic.armor",
+    "type": "RANGED",
+    "default_value": 0.0,
+    "min_value": 0.0,
+    "max_value": 30.0,
+    "syncable": true
+  },
+  {
+    "name": "attribute.name.generic.flying_speed",
+    "type": "RANGED",
+    "default_value": 0.4000000059604645,
     "min_value": 0.0,
     "max_value": 1024.0,
     "syncable": true
@@ -102,5 +86,21 @@
     "min_value": 0.0,
     "max_value": 2.0,
     "syncable": true
+  },
+  {
+    "name": "attribute.name.generic.attack_knockback",
+    "type": "RANGED",
+    "default_value": 0.0,
+    "min_value": 0.0,
+    "max_value": 5.0,
+    "syncable": false
+  },
+  {
+    "name": "attribute.name.zombie.spawn_reinforcements",
+    "type": "RANGED",
+    "default_value": 0.0,
+    "min_value": 0.0,
+    "max_value": 1.0,
+    "syncable": false
   }
 ]
