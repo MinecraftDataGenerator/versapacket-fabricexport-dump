@@ -378,5 +378,9 @@
   {
     "protocol_id": 94,
     "identifier": "minecraft:egg_crack"
+  },
+  {
+    "protocol_id": 95,
+    "identifier": "minecraft:dust_plume"
   }
 ]
