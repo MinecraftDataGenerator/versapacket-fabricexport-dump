@@ -4,7 +4,10 @@ Daemon will be stopped at the end of the build
 > Configure project :
 Fabric Loom: 1.11.8
 
-> Task :compileJava FROM-CACHE
+> Task :compileJava
+Note: Some input files use unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+
 > Task :processResources
 > Task :classes
 > Task :generateLog4jConfig
@@ -13,55 +16,57 @@ Fabric Loom: 1.11.8
 > Task :configureLaunch
 
 > Task :runServer
-2025-11-26 07:12:54,532 main ERROR Error processing element Queue ([Appenders: null]): CLASS_NOT_FOUND
-2025-11-26 07:12:54,903 main ERROR Unable to locate appender "ServerGuiConsole" for logger config "root"
-[07:12:55] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 20w45a with Fabric Loader 0.17.3
-[07:12:55] [main/INFO] (FabricLoader) Loading 5 mods:
+2025-11-26 07:41:20,354 main ERROR Error processing element Queue ([Appenders: null]): CLASS_NOT_FOUND
+2025-11-26 07:41:20,658 main ERROR Unable to locate appender "ServerGuiConsole" for logger config "root"
+[07:41:21] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 20w46a with Fabric Loader 0.17.3
+[07:41:21] [main/INFO] (FabricLoader) Loading 5 mods:
 	- fabricloader 0.17.3
 	- java 21
-	- minecraft 1.17-alpha.20.45.a
+	- minecraft 1.17-alpha.20.46.a
 	- mixinextras 0.5.0
 	- versapacket-fabricexport 1.0.0
-[07:12:55] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/root/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/80fc3a9f592673cea87f4cd702f87991c6c9fe4d/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[07:12:56] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
-[07:12:56] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_21
-[07:13:11] [main/INFO] (Minecraft) Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[07:13:14] [main/WARN] (Minecraft) Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[07:13:14] [main/WARN] (Minecraft) Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[07:13:14] [main/WARN] (Minecraft) Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[07:13:15] [main/WARN] (Minecraft) Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[07:13:15] [main/WARN] (Minecraft) Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[07:13:15] [main/INFO] (Minecraft) Reloading ResourceManager: Default
-[07:13:17] [Worker-Main-9/INFO] (Minecraft) Loaded 7 recipes
-[07:13:19] [Worker-Main-9/INFO] (Minecraft) Loaded 987 advancements
-[07:13:24] [main/INFO] (FabricLoader/MixinExtras|Service) Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
-[07:13:24] [Server thread/INFO] (Minecraft) Starting minecraft server version 20w45a
-[07:13:24] [Server thread/INFO] (Minecraft) Loading properties
-[07:13:24] [Server thread/INFO] (Minecraft) Default game type: SURVIVAL
-[07:13:24] [Server thread/INFO] (Minecraft) Generating keypair
-[07:13:25] [Server thread/INFO] (Minecraft) Starting Minecraft server on *:50073
-[07:13:26] [Server thread/INFO] (Minecraft) Using epoll channel type
-[07:13:27] [Server thread/INFO] (Minecraft) Preparing level "world"
-[07:13:27] [Server thread/INFO] (Minecraft) Preparing start region for dimension minecraft:overworld
-[07:13:34] [Server thread/INFO] (Minecraft) Preparing spawn area: 0%
-[07:13:34] [Server thread/INFO] (Minecraft) Preparing spawn area: 0%
-[07:13:34] [Server thread/INFO] (Minecraft) Preparing spawn area: 0%
-[07:13:34] [Server thread/INFO] (Minecraft) Preparing spawn area: 0%
-[07:13:34] [Server thread/INFO] (Minecraft) Preparing spawn area: 0%
-[07:13:34] [Server thread/INFO] (Minecraft) Preparing spawn area: 0%
-[07:13:34] [Server thread/INFO] (Minecraft) Preparing spawn area: 0%
-[07:13:34] [Server thread/INFO] (Minecraft) Preparing spawn area: 0%
-[07:13:34] [Server thread/INFO] (Minecraft) Preparing spawn area: 0%
-[07:13:34] [Server thread/INFO] (Minecraft) Preparing spawn area: 0%
-[07:13:34] [Server thread/INFO] (Minecraft) Preparing spawn area: 0%
-[07:13:34] [Server thread/INFO] (Minecraft) Preparing spawn area: 0%
-[07:13:34] [Server thread/INFO] (Minecraft) Preparing spawn area: 0%
-[07:13:34] [Server thread/INFO] (Minecraft) Preparing spawn area: 0%
-[07:13:34] [Server thread/INFO] (Minecraft) Preparing spawn area: 0%
-[07:13:35] [Server thread/INFO] (Minecraft) Time elapsed: 8039 ms
-[07:13:35] [Server thread/INFO] (Minecraft) Done (8.754s)! For help, type "help"
-[07:13:42] [Server thread/INFO] (Minecraft) [STDOUT]: EXPORT Done!
+[07:41:21] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/root/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/80fc3a9f592673cea87f4cd702f87991c6c9fe4d/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[07:41:22] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
+[07:41:22] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_21
+[07:41:38] [main/INFO] (Minecraft) Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[07:41:41] [main/WARN] (Minecraft) Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[07:41:41] [main/WARN] (Minecraft) Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07:41:41] [main/WARN] (Minecraft) Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07:41:41] [main/WARN] (Minecraft) Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[07:41:41] [main/WARN] (Minecraft) Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07:41:41] [main/INFO] (Minecraft) Reloading ResourceManager: Default
+[07:41:44] [Worker-Main-9/INFO] (Minecraft) Loaded 7 recipes
+[07:41:45] [Worker-Main-9/INFO] (Minecraft) Loaded 987 advancements
+[07:41:50] [main/INFO] (FabricLoader/MixinExtras|Service) Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[07:41:51] [Server thread/INFO] (Minecraft) Starting minecraft server version 20w46a
+[07:41:51] [Server thread/INFO] (Minecraft) Loading properties
+[07:41:51] [Server thread/INFO] (Minecraft) Default game type: SURVIVAL
+[07:41:51] [Server thread/INFO] (Minecraft) Generating keypair
+[07:41:52] [Server thread/INFO] (Minecraft) Starting Minecraft server on *:50074
+[07:41:52] [Server thread/INFO] (Minecraft) Using epoll channel type
+[07:41:54] [Server thread/INFO] (Minecraft) Preparing level "world"
+[07:41:54] [Server thread/INFO] (Minecraft) Preparing start region for dimension minecraft:overworld
+[07:42:01] [Server thread/INFO] (Minecraft) Preparing spawn area: 0%
+[07:42:01] [Server thread/INFO] (Minecraft) Preparing spawn area: 0%
+[07:42:01] [Server thread/INFO] (Minecraft) Preparing spawn area: 0%
+[07:42:01] [Server thread/INFO] (Minecraft) Preparing spawn area: 0%
+[07:42:01] [Server thread/INFO] (Minecraft) Preparing spawn area: 0%
+[07:42:01] [Server thread/INFO] (Minecraft) Preparing spawn area: 0%
+[07:42:01] [Server thread/INFO] (Minecraft) Preparing spawn area: 0%
+[07:42:01] [Server thread/INFO] (Minecraft) Preparing spawn area: 0%
+[07:42:01] [Server thread/INFO] (Minecraft) Preparing spawn area: 0%
+[07:42:01] [Server thread/INFO] (Minecraft) Preparing spawn area: 0%
+[07:42:01] [Server thread/INFO] (Minecraft) Preparing spawn area: 0%
+[07:42:01] [Server thread/INFO] (Minecraft) Preparing spawn area: 0%
+[07:42:01] [Server thread/INFO] (Minecraft) Preparing spawn area: 0%
+[07:42:01] [Server thread/INFO] (Minecraft) Preparing spawn area: 0%
+[07:42:01] [Server thread/INFO] (Minecraft) Preparing spawn area: 0%
+[07:42:02] [Server thread/INFO] (Minecraft) Time elapsed: 8144 ms
+[07:42:02] [Server thread/INFO] (Minecraft) Done (8.800s)! For help, type "help"
+[07:42:08] [Server thread/INFO] (Minecraft) [STDOUT]: EXPORT Done!
 
-BUILD SUCCESSFUL in 1m 13s
-6 actionable tasks: 5 executed, 1 from cache
+[Incubating] Problems report is available at: file:///home/paul/actions-runner/_work/versapacket-fabricexport/versapacket-fabricexport/parallel/20w46a/build/reports/problems/problems-report.html
+
+BUILD SUCCESSFUL in 1m 27s
+6 actionable tasks: 6 executed
 Consider enabling configuration cache to speed up this build: https://docs.gradle.org/9.1.0/userguide/configuration_cache_enabling.html
