@@ -17502,8 +17502,8 @@
         },
         "fall_flying": {
           "width": 0.6,
-          "height": 1.8,
-          "eye_height": 1.62,
+          "height": 0.6,
+          "eye_height": 0.4,
           "fixed": false
         },
         "sleeping": {
@@ -17514,20 +17514,20 @@
         },
         "swimming": {
           "width": 0.6,
-          "height": 1.8,
-          "eye_height": 1.62,
+          "height": 0.6,
+          "eye_height": 0.4,
           "fixed": false
         },
         "spin_attack": {
           "width": 0.6,
-          "height": 1.8,
-          "eye_height": 1.62,
+          "height": 0.6,
+          "eye_height": 0.4,
           "fixed": false
         },
         "crouching": {
           "width": 0.6,
-          "height": 1.8,
-          "eye_height": 1.62,
+          "height": 1.5,
+          "eye_height": 1.27,
           "fixed": false
         },
         "long_jumping": {
@@ -17537,10 +17537,10 @@
           "fixed": false
         },
         "dying": {
-          "width": 0.6,
-          "height": 1.8,
+          "width": 0.2,
+          "height": 0.2,
           "eye_height": 1.62,
-          "fixed": false
+          "fixed": true
         },
         "croaking": {
           "width": 0.6,
