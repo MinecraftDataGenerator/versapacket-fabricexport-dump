@@ -3,7 +3,7 @@
     "protocol_id": 1,
     "identifier": "minecraft:speed",
     "category": "beneficial",
-    "color": 8171462,
+    "color": 3402751,
     "modifiers": [
       {
         "attribute": "attribute.name.generic.movement_speed",
@@ -17,7 +17,7 @@
     "protocol_id": 2,
     "identifier": "minecraft:slowness",
     "category": "harmful",
-    "color": 5926017,
+    "color": 9154528,
     "modifiers": [
       {
         "attribute": "attribute.name.generic.movement_speed",
@@ -59,7 +59,7 @@
     "protocol_id": 5,
     "identifier": "minecraft:strength",
     "category": "beneficial",
-    "color": 9643043,
+    "color": 16762624,
     "modifiers": [
       {
         "attribute": "attribute.name.generic.attack_damage",
@@ -80,14 +80,14 @@
     "protocol_id": 7,
     "identifier": "minecraft:instant_damage",
     "category": "harmful",
-    "color": 4393481,
+    "color": 11101546,
     "modifiers": []
   },
   {
     "protocol_id": 8,
     "identifier": "minecraft:jump_boost",
     "category": "beneficial",
-    "color": 2293580,
+    "color": 16646020,
     "modifiers": []
   },
   {
@@ -108,28 +108,28 @@
     "protocol_id": 11,
     "identifier": "minecraft:resistance",
     "category": "beneficial",
-    "color": 10044730,
+    "color": 9520880,
     "modifiers": []
   },
   {
     "protocol_id": 12,
     "identifier": "minecraft:fire_resistance",
     "category": "beneficial",
-    "color": 14981690,
+    "color": 16750848,
     "modifiers": []
   },
   {
     "protocol_id": 13,
     "identifier": "minecraft:water_breathing",
     "category": "beneficial",
-    "color": 3035801,
+    "color": 10017472,
     "modifiers": []
   },
   {
     "protocol_id": 14,
     "identifier": "minecraft:invisibility",
     "category": "beneficial",
-    "color": 8356754,
+    "color": 16185078,
     "modifiers": []
   },
   {
@@ -143,7 +143,7 @@
     "protocol_id": 16,
     "identifier": "minecraft:night_vision",
     "category": "beneficial",
-    "color": 2039713,
+    "color": 12779366,
     "modifiers": []
   },
   {
@@ -171,7 +171,7 @@
     "protocol_id": 19,
     "identifier": "minecraft:poison",
     "category": "harmful",
-    "color": 5149489,
+    "color": 8889187,
     "modifiers": []
   },
   {
@@ -227,7 +227,7 @@
     "protocol_id": 26,
     "identifier": "minecraft:luck",
     "category": "beneficial",
-    "color": 3381504,
+    "color": 5882118,
     "modifiers": [
       {
         "attribute": "attribute.name.generic.luck",
