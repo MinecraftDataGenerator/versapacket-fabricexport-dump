@@ -500,20 +500,26 @@
       "teleport_entity": {
         "protocol_id": 107
       },
-      "update_advancements": {
+      "ticking_state": {
         "protocol_id": 108
       },
-      "update_attributes": {
+      "ticking_step": {
         "protocol_id": 109
       },
-      "update_mob_effect": {
+      "update_advancements": {
         "protocol_id": 110
       },
-      "update_recipes": {
+      "update_attributes": {
         "protocol_id": 111
       },
-      "update_tags": {
+      "update_mob_effect": {
         "protocol_id": 112
+      },
+      "update_recipes": {
+        "protocol_id": 113
+      },
+      "update_tags": {
+        "protocol_id": 114
       }
     }
   },
