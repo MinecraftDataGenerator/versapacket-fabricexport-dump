@@ -355,5 +355,12 @@
     "category": "harmful",
     "color": 9214860,
     "modifiers": []
+  },
+  {
+    "protocol_id": 39,
+    "identifier": "minecraft:breath_of_the_nautilus",
+    "category": "beneficial",
+    "color": 65518,
+    "modifiers": []
   }
 ]
