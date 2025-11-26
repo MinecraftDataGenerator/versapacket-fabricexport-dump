@@ -191,112 +191,112 @@
       "change_difficulty": {
         "protocol_id": 11
       },
-      "chat": {
+      "clear_titles": {
         "protocol_id": 12
       },
-      "clear_titles": {
+      "command_suggestions": {
         "protocol_id": 13
       },
-      "command_suggestions": {
+      "commands": {
         "protocol_id": 14
       },
-      "commands": {
+      "container_close": {
         "protocol_id": 15
       },
-      "container_close": {
+      "container_set_content": {
         "protocol_id": 16
       },
-      "container_set_content": {
+      "container_set_data": {
         "protocol_id": 17
       },
-      "container_set_data": {
+      "container_set_slot": {
         "protocol_id": 18
       },
-      "container_set_slot": {
+      "cooldown": {
         "protocol_id": 19
       },
-      "cooldown": {
+      "custom_payload": {
         "protocol_id": 20
       },
-      "custom_payload": {
+      "custom_sound": {
         "protocol_id": 21
       },
-      "custom_sound": {
+      "disconnect": {
         "protocol_id": 22
       },
-      "disconnect": {
+      "entity_event": {
         "protocol_id": 23
       },
-      "entity_event": {
+      "explode": {
         "protocol_id": 24
       },
-      "explode": {
+      "forget_level_chunk": {
         "protocol_id": 25
       },
-      "forget_level_chunk": {
+      "game_event": {
         "protocol_id": 26
       },
-      "game_event": {
+      "horse_screen_open": {
         "protocol_id": 27
       },
-      "horse_screen_open": {
+      "initialize_border": {
         "protocol_id": 28
       },
-      "initialize_border": {
+      "keep_alive": {
         "protocol_id": 29
       },
-      "keep_alive": {
+      "level_chunk_with_light": {
         "protocol_id": 30
       },
-      "level_chunk_with_light": {
+      "level_event": {
         "protocol_id": 31
       },
-      "level_event": {
+      "level_particles": {
         "protocol_id": 32
       },
-      "level_particles": {
+      "light_update": {
         "protocol_id": 33
       },
-      "light_update": {
+      "login": {
         "protocol_id": 34
       },
-      "login": {
+      "map_item_data": {
         "protocol_id": 35
       },
-      "map_item_data": {
+      "merchant_offers": {
         "protocol_id": 36
       },
-      "merchant_offers": {
+      "move_entity_pos": {
         "protocol_id": 37
       },
-      "move_entity_pos": {
+      "move_entity_pos_rot": {
         "protocol_id": 38
       },
-      "move_entity_pos_rot": {
+      "move_entity_rot": {
         "protocol_id": 39
       },
-      "move_entity_rot": {
+      "move_vehicle": {
         "protocol_id": 40
       },
-      "move_vehicle": {
+      "open_book": {
         "protocol_id": 41
       },
-      "open_book": {
+      "open_screen": {
         "protocol_id": 42
       },
-      "open_screen": {
+      "open_sign_editor": {
         "protocol_id": 43
       },
-      "open_sign_editor": {
+      "ping": {
         "protocol_id": 44
       },
-      "ping": {
+      "place_ghost_recipe": {
         "protocol_id": 45
       },
-      "place_ghost_recipe": {
+      "player_abilities": {
         "protocol_id": 46
       },
-      "player_abilities": {
+      "player_chat": {
         "protocol_id": 47
       },
       "player_combat_end": {
@@ -431,32 +431,35 @@
       "stop_sound": {
         "protocol_id": 91
       },
-      "tab_list": {
+      "system_chat": {
         "protocol_id": 92
       },
-      "tag_query": {
+      "tab_list": {
         "protocol_id": 93
       },
-      "take_item_entity": {
+      "tag_query": {
         "protocol_id": 94
       },
-      "teleport_entity": {
+      "take_item_entity": {
         "protocol_id": 95
       },
-      "update_advancements": {
+      "teleport_entity": {
         "protocol_id": 96
       },
-      "update_attributes": {
+      "update_advancements": {
         "protocol_id": 97
       },
-      "update_mob_effect": {
+      "update_attributes": {
         "protocol_id": 98
       },
-      "update_recipes": {
+      "update_mob_effect": {
         "protocol_id": 99
       },
-      "update_tags": {
+      "update_recipes": {
         "protocol_id": 100
+      },
+      "update_tags": {
+        "protocol_id": 101
       }
     }
   },
