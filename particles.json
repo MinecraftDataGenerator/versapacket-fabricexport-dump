@@ -397,10 +397,6 @@
   },
   {
     "protocol_id": 99,
-    "identifier": "minecraft:gust_dust"
-  },
-  {
-    "protocol_id": 100,
     "identifier": "minecraft:trial_spawner_detection"
   }
 ]
