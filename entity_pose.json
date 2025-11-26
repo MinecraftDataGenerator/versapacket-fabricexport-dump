@@ -6,5 +6,7 @@
   "spin_attack",
   "crouching",
   "long_jumping",
-  "dying"
+  "dying",
+  "croaking",
+  "using_tongue"
 ]
