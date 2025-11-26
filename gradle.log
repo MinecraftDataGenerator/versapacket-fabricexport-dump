@@ -13,33 +13,33 @@ Fabric Loom: 1.11.8
 > Task :configureLaunch
 
 > Task :runServer
-[07:25:48] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 1.21.10-rc1 with Fabric Loader 0.17.3
-[07:25:48] [main/INFO] (FabricLoader) Loading 5 mods:
+[07:04:41] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 1.21.10 with Fabric Loader 0.17.3
+[07:04:41] [main/INFO] (FabricLoader) Loading 5 mods:
 	- fabricloader 0.17.3
 	- java 21
-	- minecraft 1.21.10-rc.1
+	- minecraft 1.21.10
 	- mixinextras 0.5.0
 	- versapacket-fabricexport 1.0.0
-[07:25:49] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/root/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/80fc3a9f592673cea87f4cd702f87991c6c9fe4d/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[07:25:49] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
-[07:25:49] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_21
-[07:26:06] [main/INFO] (FabricLoader/MixinExtras|Service) Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
-[07:26:07] [main/INFO] (Minecraft) Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[07:26:17] [main/INFO] (Minecraft) Loaded 1461 recipes
-[07:26:17] [main/INFO] (Minecraft) Loaded 1574 advancements
-[07:26:18] [Server thread/INFO] (Minecraft) Starting minecraft server version 1.21.10 Release Candidate 1
-[07:26:18] [Server thread/INFO] (Minecraft) Loading properties
-[07:26:18] [Server thread/INFO] (Minecraft) Default game type: SURVIVAL
-[07:26:18] [Server thread/INFO] (Minecraft) Generating keypair
-[07:26:18] [Server thread/INFO] (Minecraft) Starting Minecraft server on *:50366
-[07:26:18] [Server thread/INFO] (Minecraft) Using epoll channel type
-[07:26:19] [Server thread/INFO] (Minecraft) Preparing level "world"
-[07:26:19] [Server thread/INFO] (Minecraft) Loading 0 persistent chunks...
-[07:26:19] [Server thread/INFO] (Minecraft) Preparing spawn area: 100%
-[07:26:19] [Server thread/INFO] (Minecraft) Time elapsed: 12 ms
-[07:26:19] [Server thread/INFO] (Minecraft) Done (0.620s)! For help, type "help"
-[07:26:22] [Server thread/INFO] (Minecraft) [STDOUT]: EXPORT Done!
+[07:04:42] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/root/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/80fc3a9f592673cea87f4cd702f87991c6c9fe4d/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[07:04:43] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
+[07:04:43] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_21
+[07:04:58] [main/INFO] (FabricLoader/MixinExtras|Service) Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[07:04:59] [main/INFO] (Minecraft) Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[07:05:08] [main/INFO] (Minecraft) Loaded 1461 recipes
+[07:05:08] [main/INFO] (Minecraft) Loaded 1574 advancements
+[07:05:09] [Server thread/INFO] (Minecraft) Starting minecraft server version 1.21.10
+[07:05:09] [Server thread/INFO] (Minecraft) Loading properties
+[07:05:09] [Server thread/INFO] (Minecraft) Default game type: SURVIVAL
+[07:05:09] [Server thread/INFO] (Minecraft) Generating keypair
+[07:05:09] [Server thread/INFO] (Minecraft) Starting Minecraft server on *:50367
+[07:05:09] [Server thread/INFO] (Minecraft) Using epoll channel type
+[07:05:10] [Server thread/INFO] (Minecraft) Preparing level "world"
+[07:05:10] [Server thread/INFO] (Minecraft) Loading 0 persistent chunks...
+[07:05:10] [Server thread/INFO] (Minecraft) Preparing spawn area: 100%
+[07:05:10] [Server thread/INFO] (Minecraft) Time elapsed: 15 ms
+[07:05:10] [Server thread/INFO] (Minecraft) Done (0.454s)! For help, type "help"
+[07:05:14] [Server thread/INFO] (Minecraft) [STDOUT]: EXPORT Done!
 
-BUILD SUCCESSFUL in 1m 10s
+BUILD SUCCESSFUL in 1m 6s
 6 actionable tasks: 5 executed, 1 from cache
 Consider enabling configuration cache to speed up this build: https://docs.gradle.org/9.1.0/userguide/configuration_cache_enabling.html
