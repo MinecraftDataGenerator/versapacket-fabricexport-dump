@@ -22,8 +22,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
         "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range",
         "minecraft:generic.flying_speed",
         "minecraft:generic.attack_damage"
       ],
@@ -434,8 +439,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
-        "minecraft:generic.attack_knockback"
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
+        "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -663,7 +673,13 @@
         "minecraft:generic.gravity",
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
-        "minecraft:generic.jump_strength"
+        "minecraft:generic.jump_strength",
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
+        "minecraft:generic.attack_knockback"
       ],
       "poses": {
         "standing": {
@@ -1092,8 +1108,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
         "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range",
         "minecraft:generic.attack_damage"
       ],
       "poses": {
@@ -1333,8 +1354,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
-        "minecraft:generic.attack_knockback"
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
+        "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -1558,8 +1584,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
         "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range",
         "minecraft:generic.flying_speed",
         "minecraft:generic.attack_damage"
       ],
@@ -1795,8 +1826,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
         "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range",
         "minecraft:generic.attack_damage"
       ],
       "poses": {
@@ -2451,6 +2487,227 @@
       "height": 1.99,
       "eye_height": 1.6915001,
       "fixed": false
+    },
+    "attributes": {
+      "attributes": [
+        "minecraft:generic.max_health",
+        "minecraft:generic.knockback_resistance",
+        "minecraft:generic.movement_speed",
+        "minecraft:generic.armor",
+        "minecraft:generic.armor_toughness",
+        "minecraft:generic.max_absorption",
+        "minecraft:generic.step_height",
+        "minecraft:generic.scale",
+        "minecraft:generic.gravity",
+        "minecraft:generic.safe_fall_distance",
+        "minecraft:generic.fall_damage_multiplier",
+        "minecraft:generic.jump_strength",
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
+        "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range",
+        "minecraft:generic.attack_damage"
+      ],
+      "poses": {
+        "standing": {
+          "width": 0.6,
+          "height": 1.99,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "fall_flying": {
+          "width": 0.6,
+          "height": 1.99,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "sleeping": {
+          "width": 0.2,
+          "height": 0.2,
+          "eye_height": 0.2,
+          "fixed": true
+        },
+        "swimming": {
+          "width": 0.6,
+          "height": 1.99,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "spin_attack": {
+          "width": 0.6,
+          "height": 1.99,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "crouching": {
+          "width": 0.6,
+          "height": 1.99,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "long_jumping": {
+          "width": 0.6,
+          "height": 1.99,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "dying": {
+          "width": 0.6,
+          "height": 1.99,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "croaking": {
+          "width": 0.6,
+          "height": 1.99,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "using_tongue": {
+          "width": 0.6,
+          "height": 1.99,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "sitting": {
+          "width": 0.6,
+          "height": 1.99,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.6,
+          "height": 1.99,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.6,
+          "height": 1.99,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.6,
+          "height": 1.99,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "digging": {
+          "width": 0.6,
+          "height": 1.99,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "sliding": {
+          "width": 0.6,
+          "height": 1.99,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "shooting": {
+          "width": 0.6,
+          "height": 1.99,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "inhaling": {
+          "width": 0.6,
+          "height": 1.99,
+          "eye_height": 1.74,
+          "fixed": false
+        }
+      },
+      "data_tracker": [
+        {
+          "name": "DATA_SHEARED",
+          "id": 16,
+          "type": 10
+        },
+        {
+          "name": "DATA_MOB_FLAGS_ID",
+          "id": 15,
+          "type": 0
+        },
+        {
+          "name": "DATA_LIVING_ENTITY_FLAGS",
+          "id": 8,
+          "type": 0
+        },
+        {
+          "name": "DATA_HEALTH_ID",
+          "id": 9,
+          "type": 3
+        },
+        {
+          "name": "DATA_EFFECT_PARTICLES",
+          "id": 10,
+          "type": 12
+        },
+        {
+          "name": "DATA_EFFECT_AMBIENCE_ID",
+          "id": 11,
+          "type": 10
+        },
+        {
+          "name": "DATA_ARROW_COUNT_ID",
+          "id": 12,
+          "type": 1
+        },
+        {
+          "name": "DATA_STINGER_COUNT_ID",
+          "id": 13,
+          "type": 1
+        },
+        {
+          "name": "SLEEPING_POS_ID",
+          "id": 14,
+          "type": 15
+        },
+        {
+          "name": "DATA_SHARED_FLAGS_ID",
+          "id": 0,
+          "type": 0
+        },
+        {
+          "name": "DATA_AIR_SUPPLY_ID",
+          "id": 1,
+          "type": 1
+        },
+        {
+          "name": "DATA_CUSTOM_NAME",
+          "id": 2,
+          "type": 6
+        },
+        {
+          "name": "DATA_CUSTOM_NAME_VISIBLE",
+          "id": 3,
+          "type": 10
+        },
+        {
+          "name": "DATA_SILENT",
+          "id": 4,
+          "type": 10
+        },
+        {
+          "name": "DATA_NO_GRAVITY",
+          "id": 5,
+          "type": 10
+        },
+        {
+          "name": "DATA_POSE",
+          "id": 6,
+          "type": 22
+        },
+        {
+          "name": "DATA_TICKS_FROZEN",
+          "id": 7,
+          "type": 1
+        }
+      ]
     }
   },
   {
@@ -2461,6 +2718,222 @@
       "height": 1.77,
       "eye_height": 1.5045,
       "fixed": false
+    },
+    "attributes": {
+      "attributes": [
+        "minecraft:generic.max_health",
+        "minecraft:generic.knockback_resistance",
+        "minecraft:generic.movement_speed",
+        "minecraft:generic.armor",
+        "minecraft:generic.armor_toughness",
+        "minecraft:generic.max_absorption",
+        "minecraft:generic.step_height",
+        "minecraft:generic.scale",
+        "minecraft:generic.gravity",
+        "minecraft:generic.safe_fall_distance",
+        "minecraft:generic.fall_damage_multiplier",
+        "minecraft:generic.jump_strength",
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
+        "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range",
+        "minecraft:generic.attack_damage"
+      ],
+      "poses": {
+        "standing": {
+          "width": 0.6,
+          "height": 1.77,
+          "eye_height": 1.3452,
+          "fixed": false
+        },
+        "fall_flying": {
+          "width": 0.6,
+          "height": 1.77,
+          "eye_height": 1.3452,
+          "fixed": false
+        },
+        "sleeping": {
+          "width": 0.2,
+          "height": 0.2,
+          "eye_height": 0.2,
+          "fixed": true
+        },
+        "swimming": {
+          "width": 0.6,
+          "height": 1.77,
+          "eye_height": 1.3452,
+          "fixed": false
+        },
+        "spin_attack": {
+          "width": 0.6,
+          "height": 1.77,
+          "eye_height": 1.3452,
+          "fixed": false
+        },
+        "crouching": {
+          "width": 0.6,
+          "height": 1.77,
+          "eye_height": 1.3452,
+          "fixed": false
+        },
+        "long_jumping": {
+          "width": 0.6,
+          "height": 1.77,
+          "eye_height": 1.3452,
+          "fixed": false
+        },
+        "dying": {
+          "width": 0.6,
+          "height": 1.77,
+          "eye_height": 1.3452,
+          "fixed": false
+        },
+        "croaking": {
+          "width": 0.6,
+          "height": 1.77,
+          "eye_height": 1.3452,
+          "fixed": false
+        },
+        "using_tongue": {
+          "width": 0.6,
+          "height": 1.77,
+          "eye_height": 1.3452,
+          "fixed": false
+        },
+        "sitting": {
+          "width": 0.6,
+          "height": 1.77,
+          "eye_height": 1.3452,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.6,
+          "height": 1.77,
+          "eye_height": 1.3452,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.6,
+          "height": 1.77,
+          "eye_height": 1.3452,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.6,
+          "height": 1.77,
+          "eye_height": 1.3452,
+          "fixed": false
+        },
+        "digging": {
+          "width": 0.6,
+          "height": 1.77,
+          "eye_height": 1.3452,
+          "fixed": false
+        },
+        "sliding": {
+          "width": 0.6,
+          "height": 1.77,
+          "eye_height": 1.3452,
+          "fixed": false
+        },
+        "shooting": {
+          "width": 0.6,
+          "height": 1.77,
+          "eye_height": 1.3452,
+          "fixed": false
+        },
+        "inhaling": {
+          "width": 0.6,
+          "height": 1.77,
+          "eye_height": 1.3452,
+          "fixed": false
+        }
+      },
+      "data_tracker": [
+        {
+          "name": "DATA_MOB_FLAGS_ID",
+          "id": 15,
+          "type": 0
+        },
+        {
+          "name": "DATA_LIVING_ENTITY_FLAGS",
+          "id": 8,
+          "type": 0
+        },
+        {
+          "name": "DATA_HEALTH_ID",
+          "id": 9,
+          "type": 3
+        },
+        {
+          "name": "DATA_EFFECT_PARTICLES",
+          "id": 10,
+          "type": 12
+        },
+        {
+          "name": "DATA_EFFECT_AMBIENCE_ID",
+          "id": 11,
+          "type": 10
+        },
+        {
+          "name": "DATA_ARROW_COUNT_ID",
+          "id": 12,
+          "type": 1
+        },
+        {
+          "name": "DATA_STINGER_COUNT_ID",
+          "id": 13,
+          "type": 1
+        },
+        {
+          "name": "SLEEPING_POS_ID",
+          "id": 14,
+          "type": 15
+        },
+        {
+          "name": "DATA_SHARED_FLAGS_ID",
+          "id": 0,
+          "type": 0
+        },
+        {
+          "name": "DATA_AIR_SUPPLY_ID",
+          "id": 1,
+          "type": 1
+        },
+        {
+          "name": "DATA_CUSTOM_NAME",
+          "id": 2,
+          "type": 6
+        },
+        {
+          "name": "DATA_CUSTOM_NAME_VISIBLE",
+          "id": 3,
+          "type": 10
+        },
+        {
+          "name": "DATA_SILENT",
+          "id": 4,
+          "type": 10
+        },
+        {
+          "name": "DATA_NO_GRAVITY",
+          "id": 5,
+          "type": 10
+        },
+        {
+          "name": "DATA_POSE",
+          "id": 6,
+          "type": 22
+        },
+        {
+          "name": "DATA_TICKS_FROZEN",
+          "id": 7,
+          "type": 1
+        }
+      ]
     }
   },
   {
@@ -2471,6 +2944,161 @@
       "height": 0.3125,
       "eye_height": 0.265625,
       "fixed": false
+    },
+    "attributes": {
+      "attributes": [],
+      "poses": {
+        "standing": {
+          "width": 0.3125,
+          "height": 0.3125,
+          "eye_height": 0.0,
+          "fixed": false
+        },
+        "fall_flying": {
+          "width": 0.3125,
+          "height": 0.3125,
+          "eye_height": 0.0,
+          "fixed": false
+        },
+        "sleeping": {
+          "width": 0.3125,
+          "height": 0.3125,
+          "eye_height": 0.0,
+          "fixed": false
+        },
+        "swimming": {
+          "width": 0.3125,
+          "height": 0.3125,
+          "eye_height": 0.0,
+          "fixed": false
+        },
+        "spin_attack": {
+          "width": 0.3125,
+          "height": 0.3125,
+          "eye_height": 0.0,
+          "fixed": false
+        },
+        "crouching": {
+          "width": 0.3125,
+          "height": 0.3125,
+          "eye_height": 0.0,
+          "fixed": false
+        },
+        "long_jumping": {
+          "width": 0.3125,
+          "height": 0.3125,
+          "eye_height": 0.0,
+          "fixed": false
+        },
+        "dying": {
+          "width": 0.3125,
+          "height": 0.3125,
+          "eye_height": 0.0,
+          "fixed": false
+        },
+        "croaking": {
+          "width": 0.3125,
+          "height": 0.3125,
+          "eye_height": 0.0,
+          "fixed": false
+        },
+        "using_tongue": {
+          "width": 0.3125,
+          "height": 0.3125,
+          "eye_height": 0.0,
+          "fixed": false
+        },
+        "sitting": {
+          "width": 0.3125,
+          "height": 0.3125,
+          "eye_height": 0.0,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.3125,
+          "height": 0.3125,
+          "eye_height": 0.0,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.3125,
+          "height": 0.3125,
+          "eye_height": 0.0,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.3125,
+          "height": 0.3125,
+          "eye_height": 0.0,
+          "fixed": false
+        },
+        "digging": {
+          "width": 0.3125,
+          "height": 0.3125,
+          "eye_height": 0.0,
+          "fixed": false
+        },
+        "sliding": {
+          "width": 0.3125,
+          "height": 0.3125,
+          "eye_height": 0.0,
+          "fixed": false
+        },
+        "shooting": {
+          "width": 0.3125,
+          "height": 0.3125,
+          "eye_height": 0.0,
+          "fixed": false
+        },
+        "inhaling": {
+          "width": 0.3125,
+          "height": 0.3125,
+          "eye_height": 0.0,
+          "fixed": false
+        }
+      },
+      "data_tracker": [
+        {
+          "name": "DATA_SHARED_FLAGS_ID",
+          "id": 0,
+          "type": 0
+        },
+        {
+          "name": "DATA_AIR_SUPPLY_ID",
+          "id": 1,
+          "type": 1
+        },
+        {
+          "name": "DATA_CUSTOM_NAME",
+          "id": 2,
+          "type": 6
+        },
+        {
+          "name": "DATA_CUSTOM_NAME_VISIBLE",
+          "id": 3,
+          "type": 10
+        },
+        {
+          "name": "DATA_SILENT",
+          "id": 4,
+          "type": 10
+        },
+        {
+          "name": "DATA_NO_GRAVITY",
+          "id": 5,
+          "type": 10
+        },
+        {
+          "name": "DATA_POSE",
+          "id": 6,
+          "type": 22
+        },
+        {
+          "name": "DATA_TICKS_FROZEN",
+          "id": 7,
+          "type": 1
+        }
+      ]
     }
   },
   {
@@ -2496,8 +3124,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
-        "minecraft:generic.attack_knockback"
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
+        "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -2736,8 +3369,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
         "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range",
         "minecraft:generic.attack_damage"
       ],
       "poses": {
@@ -2992,8 +3630,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
         "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range",
         "minecraft:generic.attack_damage"
       ],
       "poses": {
@@ -3613,8 +4256,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
-        "minecraft:generic.attack_knockback"
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
+        "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -3838,8 +4486,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
-        "minecraft:generic.attack_knockback"
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
+        "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -4268,8 +4921,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
-        "minecraft:generic.attack_knockback"
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
+        "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -4493,8 +5151,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
         "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range",
         "minecraft:generic.attack_damage"
       ],
       "poses": {
@@ -4729,8 +5392,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
         "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range",
         "minecraft:generic.attack_damage"
       ],
       "poses": {
@@ -4965,8 +5633,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
-        "minecraft:generic.attack_knockback"
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
+        "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -5365,8 +6038,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
         "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range",
         "minecraft:generic.attack_damage",
         "minecraft:zombie.spawn_reinforcements"
       ],
@@ -5772,8 +6450,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
         "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range",
         "minecraft:generic.attack_damage"
       ],
       "poses": {
@@ -6178,8 +6861,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
-        "minecraft:generic.attack_knockback"
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
+        "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -6573,8 +7261,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
         "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range",
         "minecraft:generic.attack_damage"
       ],
       "poses": {
@@ -6809,8 +7502,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
         "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range",
         "minecraft:generic.attack_damage"
       ],
       "poses": {
@@ -7030,8 +7728,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
         "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range",
         "minecraft:generic.attack_damage"
       ],
       "poses": {
@@ -8281,8 +8984,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
         "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range",
         "minecraft:generic.attack_damage"
       ],
       "poses": {
@@ -8527,8 +9235,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
         "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range",
         "minecraft:generic.attack_damage"
       ],
       "poses": {
@@ -8963,8 +9676,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
-        "minecraft:generic.attack_knockback"
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
+        "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -9188,8 +9906,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
         "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range",
         "minecraft:generic.attack_damage"
       ],
       "poses": {
@@ -9584,8 +10307,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
-        "minecraft:generic.attack_knockback"
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
+        "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -9809,8 +10537,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
         "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range",
         "minecraft:generic.attack_damage"
       ],
       "poses": {
@@ -10050,8 +10783,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
         "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range",
         "minecraft:generic.attack_damage"
       ],
       "poses": {
@@ -10281,8 +11019,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
         "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range",
         "minecraft:generic.attack_damage"
       ],
       "poses": {
@@ -10707,8 +11450,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
-        "minecraft:generic.attack_knockback"
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
+        "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -10942,8 +11690,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
         "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range",
         "minecraft:generic.attack_damage",
         "minecraft:zombie.spawn_reinforcements"
       ],
@@ -11179,8 +11932,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
         "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range",
         "minecraft:generic.attack_damage"
       ],
       "poses": {
@@ -11590,8 +12348,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
         "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range",
         "minecraft:generic.attack_damage"
       ],
       "poses": {
@@ -12396,6 +13159,166 @@
       "height": 0.25,
       "eye_height": 0.2125,
       "fixed": false
+    },
+    "attributes": {
+      "attributes": [],
+      "poses": {
+        "standing": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "fall_flying": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "sleeping": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "swimming": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "spin_attack": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "crouching": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "long_jumping": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "dying": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "croaking": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "using_tongue": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "sitting": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "digging": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "sliding": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "shooting": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "inhaling": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        }
+      },
+      "data_tracker": [
+        {
+          "name": "DATA_ITEM",
+          "id": 8,
+          "type": 7
+        },
+        {
+          "name": "DATA_SHARED_FLAGS_ID",
+          "id": 0,
+          "type": 0
+        },
+        {
+          "name": "DATA_AIR_SUPPLY_ID",
+          "id": 1,
+          "type": 1
+        },
+        {
+          "name": "DATA_CUSTOM_NAME",
+          "id": 2,
+          "type": 6
+        },
+        {
+          "name": "DATA_CUSTOM_NAME_VISIBLE",
+          "id": 3,
+          "type": 10
+        },
+        {
+          "name": "DATA_SILENT",
+          "id": 4,
+          "type": 10
+        },
+        {
+          "name": "DATA_NO_GRAVITY",
+          "id": 5,
+          "type": 10
+        },
+        {
+          "name": "DATA_POSE",
+          "id": 6,
+          "type": 22
+        },
+        {
+          "name": "DATA_TICKS_FROZEN",
+          "id": 7,
+          "type": 1
+        }
+      ]
     }
   },
   {
@@ -12921,8 +13844,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
-        "minecraft:generic.attack_knockback"
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
+        "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -13331,8 +14259,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
         "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range",
         "minecraft:generic.attack_damage"
       ],
       "poses": {
@@ -13917,8 +14850,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
-        "minecraft:generic.attack_knockback"
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
+        "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -14147,8 +15085,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
-        "minecraft:generic.attack_knockback"
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
+        "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -14382,8 +15325,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
         "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range",
         "minecraft:generic.attack_damage"
       ],
       "poses": {
@@ -14783,8 +15731,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
         "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range",
         "minecraft:generic.attack_damage"
       ],
       "poses": {
@@ -15039,9 +15992,15 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
         "minecraft:generic.attack_knockback",
-        "minecraft:generic.flying_speed"
+        "minecraft:generic.follow_range",
+        "minecraft:generic.flying_speed",
+        "minecraft:generic.attack_damage"
       ],
       "poses": {
         "standing": {
@@ -15280,8 +16239,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
         "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range",
         "minecraft:generic.attack_damage"
       ],
       "poses": {
@@ -15506,8 +16470,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
-        "minecraft:generic.attack_knockback"
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
+        "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -15741,8 +16710,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
         "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range",
         "minecraft:generic.attack_damage"
       ],
       "poses": {
@@ -15982,8 +16956,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
         "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range",
         "minecraft:generic.attack_damage"
       ],
       "poses": {
@@ -16208,8 +17187,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
         "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range",
         "minecraft:generic.attack_damage"
       ],
       "poses": {
@@ -16439,8 +17423,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
         "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range",
         "minecraft:generic.attack_damage"
       ],
       "poses": {
@@ -16840,8 +17829,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
-        "minecraft:generic.attack_knockback"
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
+        "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -17070,8 +18064,14 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
+        "minecraft:generic.attack_knockback",
         "minecraft:generic.follow_range",
-        "minecraft:generic.attack_knockback"
+        "minecraft:generic.attack_damage"
       ],
       "poses": {
         "standing": {
@@ -17300,8 +18300,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
         "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range",
         "minecraft:generic.attack_damage"
       ],
       "poses": {
@@ -17526,8 +18531,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
-        "minecraft:generic.attack_knockback"
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
+        "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -17751,8 +18761,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
-        "minecraft:generic.attack_knockback"
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
+        "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -17981,8 +18996,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
-        "minecraft:generic.attack_knockback"
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
+        "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -18381,8 +19401,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
         "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range",
         "minecraft:generic.attack_damage"
       ],
       "poses": {
@@ -18602,8 +19627,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
         "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range",
         "minecraft:generic.attack_damage"
       ],
       "poses": {
@@ -18828,8 +19858,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
-        "minecraft:generic.attack_knockback"
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
+        "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -19058,8 +20093,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
         "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range",
         "minecraft:generic.attack_damage"
       ],
       "poses": {
@@ -19454,8 +20494,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
-        "minecraft:generic.attack_knockback"
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
+        "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -19689,8 +20734,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
-        "minecraft:generic.attack_knockback"
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
+        "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -20454,8 +21504,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
         "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range",
         "minecraft:generic.attack_damage"
       ],
       "poses": {
@@ -20680,8 +21735,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
-        "minecraft:generic.attack_knockback"
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
+        "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -20900,8 +21960,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
         "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range",
         "minecraft:generic.attack_damage"
       ],
       "poses": {
@@ -21121,8 +22186,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
-        "minecraft:generic.attack_knockback"
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
+        "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -21361,8 +22431,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
-        "minecraft:generic.attack_knockback"
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
+        "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -22221,8 +23296,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
-        "minecraft:generic.attack_knockback"
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
+        "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -22651,8 +23731,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
-        "minecraft:generic.attack_knockback"
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
+        "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -22881,8 +23966,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
-        "minecraft:generic.attack_knockback"
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
+        "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -23136,8 +24226,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
         "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range",
         "minecraft:generic.attack_damage"
       ],
       "poses": {
@@ -23362,8 +24457,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
-        "minecraft:generic.attack_knockback"
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
+        "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -23597,8 +24697,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
         "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range",
         "minecraft:generic.attack_damage"
       ],
       "poses": {
@@ -23823,8 +24928,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
-        "minecraft:generic.attack_knockback"
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
+        "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -24053,8 +25163,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
         "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range",
         "minecraft:generic.attack_damage"
       ],
       "poses": {
@@ -24264,6 +25379,161 @@
       "height": 0.3125,
       "eye_height": 0.265625,
       "fixed": false
+    },
+    "attributes": {
+      "attributes": [],
+      "poses": {
+        "standing": {
+          "width": 0.3125,
+          "height": 0.3125,
+          "eye_height": 0.0,
+          "fixed": false
+        },
+        "fall_flying": {
+          "width": 0.3125,
+          "height": 0.3125,
+          "eye_height": 0.0,
+          "fixed": false
+        },
+        "sleeping": {
+          "width": 0.3125,
+          "height": 0.3125,
+          "eye_height": 0.0,
+          "fixed": false
+        },
+        "swimming": {
+          "width": 0.3125,
+          "height": 0.3125,
+          "eye_height": 0.0,
+          "fixed": false
+        },
+        "spin_attack": {
+          "width": 0.3125,
+          "height": 0.3125,
+          "eye_height": 0.0,
+          "fixed": false
+        },
+        "crouching": {
+          "width": 0.3125,
+          "height": 0.3125,
+          "eye_height": 0.0,
+          "fixed": false
+        },
+        "long_jumping": {
+          "width": 0.3125,
+          "height": 0.3125,
+          "eye_height": 0.0,
+          "fixed": false
+        },
+        "dying": {
+          "width": 0.3125,
+          "height": 0.3125,
+          "eye_height": 0.0,
+          "fixed": false
+        },
+        "croaking": {
+          "width": 0.3125,
+          "height": 0.3125,
+          "eye_height": 0.0,
+          "fixed": false
+        },
+        "using_tongue": {
+          "width": 0.3125,
+          "height": 0.3125,
+          "eye_height": 0.0,
+          "fixed": false
+        },
+        "sitting": {
+          "width": 0.3125,
+          "height": 0.3125,
+          "eye_height": 0.0,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.3125,
+          "height": 0.3125,
+          "eye_height": 0.0,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.3125,
+          "height": 0.3125,
+          "eye_height": 0.0,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.3125,
+          "height": 0.3125,
+          "eye_height": 0.0,
+          "fixed": false
+        },
+        "digging": {
+          "width": 0.3125,
+          "height": 0.3125,
+          "eye_height": 0.0,
+          "fixed": false
+        },
+        "sliding": {
+          "width": 0.3125,
+          "height": 0.3125,
+          "eye_height": 0.0,
+          "fixed": false
+        },
+        "shooting": {
+          "width": 0.3125,
+          "height": 0.3125,
+          "eye_height": 0.0,
+          "fixed": false
+        },
+        "inhaling": {
+          "width": 0.3125,
+          "height": 0.3125,
+          "eye_height": 0.0,
+          "fixed": false
+        }
+      },
+      "data_tracker": [
+        {
+          "name": "DATA_SHARED_FLAGS_ID",
+          "id": 0,
+          "type": 0
+        },
+        {
+          "name": "DATA_AIR_SUPPLY_ID",
+          "id": 1,
+          "type": 1
+        },
+        {
+          "name": "DATA_CUSTOM_NAME",
+          "id": 2,
+          "type": 6
+        },
+        {
+          "name": "DATA_CUSTOM_NAME_VISIBLE",
+          "id": 3,
+          "type": 10
+        },
+        {
+          "name": "DATA_SILENT",
+          "id": 4,
+          "type": 10
+        },
+        {
+          "name": "DATA_NO_GRAVITY",
+          "id": 5,
+          "type": 10
+        },
+        {
+          "name": "DATA_POSE",
+          "id": 6,
+          "type": 22
+        },
+        {
+          "name": "DATA_TICKS_FROZEN",
+          "id": 7,
+          "type": 1
+        }
+      ]
     }
   },
   {
@@ -24289,8 +25559,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
         "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range",
         "minecraft:generic.attack_damage"
       ],
       "poses": {
@@ -24520,8 +25795,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
         "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range",
         "minecraft:generic.attack_damage",
         "minecraft:generic.flying_speed"
       ],
@@ -24762,8 +26042,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
         "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range",
         "minecraft:generic.attack_damage"
       ],
       "poses": {
@@ -25153,8 +26438,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
         "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range",
         "minecraft:generic.attack_damage"
       ],
       "poses": {
@@ -25409,8 +26699,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
         "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range",
         "minecraft:generic.attack_damage"
       ],
       "poses": {
@@ -25635,8 +26930,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
         "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range",
         "minecraft:generic.attack_damage",
         "minecraft:zombie.spawn_reinforcements"
       ],
@@ -25872,8 +27172,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
-        "minecraft:generic.attack_knockback"
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
+        "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -26102,8 +27407,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
         "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range",
         "minecraft:generic.attack_damage",
         "minecraft:zombie.spawn_reinforcements"
       ],
@@ -26349,8 +27659,13 @@
         "minecraft:generic.safe_fall_distance",
         "minecraft:generic.fall_damage_multiplier",
         "minecraft:generic.jump_strength",
-        "minecraft:generic.follow_range",
+        "minecraft:generic.oxygen_bonus",
+        "minecraft:generic.burning_time",
+        "minecraft:generic.explosion_knockback_resistance",
+        "minecraft:generic.water_movement_efficiency",
+        "minecraft:generic.movement_efficiency",
         "minecraft:generic.attack_knockback",
+        "minecraft:generic.follow_range",
         "minecraft:generic.attack_damage",
         "minecraft:zombie.spawn_reinforcements"
       ],
