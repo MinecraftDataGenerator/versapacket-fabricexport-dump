@@ -1,43 +1,19 @@
 [
   {
-    "name": "camera_distance",
-    "type": "RANGED",
-    "default_value": 4.0,
-    "min_value": 0.0,
-    "max_value": 32.0,
-    "syncable": true
-  },
-  {
-    "name": "armor_toughness",
-    "type": "RANGED",
-    "default_value": 0.0,
-    "min_value": 0.0,
-    "max_value": 20.0,
-    "syncable": true
-  },
-  {
-    "name": "mining_efficiency",
-    "type": "RANGED",
-    "default_value": 0.0,
-    "min_value": 0.0,
-    "max_value": 1024.0,
-    "syncable": true
-  },
-  {
-    "name": "spawn_reinforcements",
+    "name": "explosion_knockback_resistance",
     "type": "RANGED",
     "default_value": 0.0,
     "min_value": 0.0,
     "max_value": 1.0,
+    "syncable": true
+  },
+  {
+    "name": "attack_damage",
+    "type": "RANGED",
+    "default_value": 2.0,
+    "min_value": 0.0,
+    "max_value": 2048.0,
     "syncable": false
-  },
-  {
-    "name": "sweeping_damage_ratio",
-    "type": "RANGED",
-    "default_value": 0.0,
-    "min_value": 0.0,
-    "max_value": 1.0,
-    "syncable": true
   },
   {
     "name": "movement_efficiency",
@@ -45,14 +21,6 @@
     "default_value": 0.0,
     "min_value": 0.0,
     "max_value": 1.0,
-    "syncable": true
-  },
-  {
-    "name": "block_interaction_range",
-    "type": "RANGED",
-    "default_value": 4.5,
-    "min_value": 0.0,
-    "max_value": 64.0,
     "syncable": true
   },
   {
@@ -64,6 +32,46 @@
     "syncable": true
   },
   {
+    "name": "tempt_range",
+    "type": "RANGED",
+    "default_value": 10.0,
+    "min_value": 0.0,
+    "max_value": 2048.0,
+    "syncable": false
+  },
+  {
+    "name": "movement_speed",
+    "type": "RANGED",
+    "default_value": 0.7,
+    "min_value": 0.0,
+    "max_value": 1024.0,
+    "syncable": true
+  },
+  {
+    "name": "burning_time",
+    "type": "RANGED",
+    "default_value": 1.0,
+    "min_value": 0.0,
+    "max_value": 1024.0,
+    "syncable": true
+  },
+  {
+    "name": "submerged_mining_speed",
+    "type": "RANGED",
+    "default_value": 0.2,
+    "min_value": 0.0,
+    "max_value": 20.0,
+    "syncable": true
+  },
+  {
+    "name": "knockback_resistance",
+    "type": "RANGED",
+    "default_value": 0.0,
+    "min_value": 0.0,
+    "max_value": 1.0,
+    "syncable": false
+  },
+  {
     "name": "jump_strength",
     "type": "RANGED",
     "default_value": 0.41999998688697815,
@@ -72,27 +80,35 @@
     "syncable": true
   },
   {
-    "name": "gravity",
+    "name": "attack_speed",
     "type": "RANGED",
-    "default_value": 0.08,
-    "min_value": -1.0,
-    "max_value": 1.0,
+    "default_value": 4.0,
+    "min_value": 0.0,
+    "max_value": 1024.0,
     "syncable": true
   },
   {
-    "name": "attack_knockback",
+    "name": "entity_interaction_range",
     "type": "RANGED",
-    "default_value": 0.0,
+    "default_value": 3.0,
     "min_value": 0.0,
-    "max_value": 5.0,
-    "syncable": false
+    "max_value": 64.0,
+    "syncable": true
   },
   {
-    "name": "explosion_knockback_resistance",
+    "name": "armor_toughness",
     "type": "RANGED",
     "default_value": 0.0,
     "min_value": 0.0,
-    "max_value": 1.0,
+    "max_value": 20.0,
+    "syncable": true
+  },
+  {
+    "name": "safe_fall_distance",
+    "type": "RANGED",
+    "default_value": 3.0,
+    "min_value": -1024.0,
+    "max_value": 1024.0,
     "syncable": true
   },
   {
@@ -101,6 +117,14 @@
     "default_value": 0.0,
     "min_value": 0.0,
     "max_value": 30.0,
+    "syncable": true
+  },
+  {
+    "name": "block_interaction_range",
+    "type": "RANGED",
+    "default_value": 4.5,
+    "min_value": 0.0,
+    "max_value": 64.0,
     "syncable": true
   },
   {
@@ -120,12 +144,20 @@
     "syncable": true
   },
   {
-    "name": "movement_speed",
+    "name": "water_movement_efficiency",
     "type": "RANGED",
-    "default_value": 0.7,
+    "default_value": 0.0,
     "min_value": 0.0,
-    "max_value": 1024.0,
+    "max_value": 1.0,
     "syncable": true
+  },
+  {
+    "name": "spawn_reinforcements",
+    "type": "RANGED",
+    "default_value": 0.0,
+    "min_value": 0.0,
+    "max_value": 1.0,
+    "syncable": false
   },
   {
     "name": "waypoint_receive_range",
@@ -136,17 +168,73 @@
     "syncable": false
   },
   {
-    "name": "attack_speed",
+    "name": "mining_efficiency",
     "type": "RANGED",
-    "default_value": 4.0,
+    "default_value": 0.0,
     "min_value": 0.0,
     "max_value": 1024.0,
     "syncable": true
   },
   {
-    "name": "tempt_range",
+    "name": "max_health",
     "type": "RANGED",
-    "default_value": 10.0,
+    "default_value": 20.0,
+    "min_value": 1.0,
+    "max_value": 1024.0,
+    "syncable": true
+  },
+  {
+    "name": "luck",
+    "type": "RANGED",
+    "default_value": 0.0,
+    "min_value": -1024.0,
+    "max_value": 1024.0,
+    "syncable": true
+  },
+  {
+    "name": "scale",
+    "type": "RANGED",
+    "default_value": 1.0,
+    "min_value": 0.0625,
+    "max_value": 16.0,
+    "syncable": true
+  },
+  {
+    "name": "attack_knockback",
+    "type": "RANGED",
+    "default_value": 0.0,
+    "min_value": 0.0,
+    "max_value": 5.0,
+    "syncable": false
+  },
+  {
+    "name": "fall_damage_multiplier",
+    "type": "RANGED",
+    "default_value": 1.0,
+    "min_value": 0.0,
+    "max_value": 100.0,
+    "syncable": true
+  },
+  {
+    "name": "flying_speed",
+    "type": "RANGED",
+    "default_value": 0.4,
+    "min_value": 0.0,
+    "max_value": 1024.0,
+    "syncable": true
+  },
+  {
+    "name": "sweeping_damage_ratio",
+    "type": "RANGED",
+    "default_value": 0.0,
+    "min_value": 0.0,
+    "max_value": 1.0,
+    "syncable": true
+  },
+  {
+    "name": "follow_range",
+    "type": "RANGED",
+    "default_value": 32.0,
     "min_value": 0.0,
     "max_value": 2048.0,
     "syncable": false
@@ -160,19 +248,11 @@
     "syncable": true
   },
   {
-    "name": "waypoint_transmit_range",
+    "name": "gravity",
     "type": "RANGED",
-    "default_value": 0.0,
-    "min_value": 0.0,
-    "max_value": 6.0E7,
-    "syncable": false
-  },
-  {
-    "name": "max_health",
-    "type": "RANGED",
-    "default_value": 20.0,
-    "min_value": 1.0,
-    "max_value": 1024.0,
+    "default_value": 0.08,
+    "min_value": -1.0,
+    "max_value": 1.0,
     "syncable": true
   },
   {
@@ -184,99 +264,19 @@
     "syncable": true
   },
   {
-    "name": "knockback_resistance",
+    "name": "camera_distance",
+    "type": "RANGED",
+    "default_value": 4.0,
+    "min_value": 0.0,
+    "max_value": 32.0,
+    "syncable": true
+  },
+  {
+    "name": "waypoint_transmit_range",
     "type": "RANGED",
     "default_value": 0.0,
     "min_value": 0.0,
-    "max_value": 1.0,
+    "max_value": 6.0E7,
     "syncable": false
-  },
-  {
-    "name": "safe_fall_distance",
-    "type": "RANGED",
-    "default_value": 3.0,
-    "min_value": -1024.0,
-    "max_value": 1024.0,
-    "syncable": true
-  },
-  {
-    "name": "attack_damage",
-    "type": "RANGED",
-    "default_value": 2.0,
-    "min_value": 0.0,
-    "max_value": 2048.0,
-    "syncable": false
-  },
-  {
-    "name": "entity_interaction_range",
-    "type": "RANGED",
-    "default_value": 3.0,
-    "min_value": 0.0,
-    "max_value": 64.0,
-    "syncable": true
-  },
-  {
-    "name": "fall_damage_multiplier",
-    "type": "RANGED",
-    "default_value": 1.0,
-    "min_value": 0.0,
-    "max_value": 100.0,
-    "syncable": true
-  },
-  {
-    "name": "submerged_mining_speed",
-    "type": "RANGED",
-    "default_value": 0.2,
-    "min_value": 0.0,
-    "max_value": 20.0,
-    "syncable": true
-  },
-  {
-    "name": "flying_speed",
-    "type": "RANGED",
-    "default_value": 0.4,
-    "min_value": 0.0,
-    "max_value": 1024.0,
-    "syncable": true
-  },
-  {
-    "name": "scale",
-    "type": "RANGED",
-    "default_value": 1.0,
-    "min_value": 0.0625,
-    "max_value": 16.0,
-    "syncable": true
-  },
-  {
-    "name": "follow_range",
-    "type": "RANGED",
-    "default_value": 32.0,
-    "min_value": 0.0,
-    "max_value": 2048.0,
-    "syncable": false
-  },
-  {
-    "name": "luck",
-    "type": "RANGED",
-    "default_value": 0.0,
-    "min_value": -1024.0,
-    "max_value": 1024.0,
-    "syncable": true
-  },
-  {
-    "name": "burning_time",
-    "type": "RANGED",
-    "default_value": 1.0,
-    "min_value": 0.0,
-    "max_value": 1024.0,
-    "syncable": true
-  },
-  {
-    "name": "water_movement_efficiency",
-    "type": "RANGED",
-    "default_value": 0.0,
-    "min_value": 0.0,
-    "max_value": 1.0,
-    "syncable": true
   }
 ]
