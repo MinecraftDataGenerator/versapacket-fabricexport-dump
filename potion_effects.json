@@ -88,7 +88,14 @@
     "identifier": "minecraft:jump_boost",
     "category": "beneficial",
     "color": 16646020,
-    "modifiers": []
+    "modifiers": [
+      {
+        "attribute": "minecraft:generic.safe_fall_distance",
+        "identifier": "c0105bf3-aef8-46b0-9ebc-92943757ccbe",
+        "base_value": 1.0,
+        "operation": "addition"
+      }
+    ]
   },
   {
     "protocol_id": 8,
