@@ -1,0 +1,438 @@
+[
+  {
+    "protocol_id": 0,
+    "identifier": "minecraft:angry_villager"
+  },
+  {
+    "protocol_id": 1,
+    "identifier": "minecraft:block"
+  },
+  {
+    "protocol_id": 2,
+    "identifier": "minecraft:block_marker"
+  },
+  {
+    "protocol_id": 3,
+    "identifier": "minecraft:bubble"
+  },
+  {
+    "protocol_id": 4,
+    "identifier": "minecraft:cloud"
+  },
+  {
+    "protocol_id": 5,
+    "identifier": "minecraft:crit"
+  },
+  {
+    "protocol_id": 6,
+    "identifier": "minecraft:damage_indicator"
+  },
+  {
+    "protocol_id": 7,
+    "identifier": "minecraft:dragon_breath"
+  },
+  {
+    "protocol_id": 8,
+    "identifier": "minecraft:dripping_lava"
+  },
+  {
+    "protocol_id": 9,
+    "identifier": "minecraft:falling_lava"
+  },
+  {
+    "protocol_id": 10,
+    "identifier": "minecraft:landing_lava"
+  },
+  {
+    "protocol_id": 11,
+    "identifier": "minecraft:dripping_water"
+  },
+  {
+    "protocol_id": 12,
+    "identifier": "minecraft:falling_water"
+  },
+  {
+    "protocol_id": 13,
+    "identifier": "minecraft:dust"
+  },
+  {
+    "protocol_id": 14,
+    "identifier": "minecraft:dust_color_transition"
+  },
+  {
+    "protocol_id": 15,
+    "identifier": "minecraft:effect"
+  },
+  {
+    "protocol_id": 16,
+    "identifier": "minecraft:elder_guardian"
+  },
+  {
+    "protocol_id": 17,
+    "identifier": "minecraft:enchanted_hit"
+  },
+  {
+    "protocol_id": 18,
+    "identifier": "minecraft:enchant"
+  },
+  {
+    "protocol_id": 19,
+    "identifier": "minecraft:end_rod"
+  },
+  {
+    "protocol_id": 20,
+    "identifier": "minecraft:entity_effect"
+  },
+  {
+    "protocol_id": 21,
+    "identifier": "minecraft:explosion_emitter"
+  },
+  {
+    "protocol_id": 22,
+    "identifier": "minecraft:explosion"
+  },
+  {
+    "protocol_id": 23,
+    "identifier": "minecraft:gust"
+  },
+  {
+    "protocol_id": 24,
+    "identifier": "minecraft:small_gust"
+  },
+  {
+    "protocol_id": 25,
+    "identifier": "minecraft:gust_emitter_large"
+  },
+  {
+    "protocol_id": 26,
+    "identifier": "minecraft:gust_emitter_small"
+  },
+  {
+    "protocol_id": 27,
+    "identifier": "minecraft:sonic_boom"
+  },
+  {
+    "protocol_id": 28,
+    "identifier": "minecraft:falling_dust"
+  },
+  {
+    "protocol_id": 29,
+    "identifier": "minecraft:firework"
+  },
+  {
+    "protocol_id": 30,
+    "identifier": "minecraft:fishing"
+  },
+  {
+    "protocol_id": 31,
+    "identifier": "minecraft:flame"
+  },
+  {
+    "protocol_id": 32,
+    "identifier": "minecraft:infested"
+  },
+  {
+    "protocol_id": 33,
+    "identifier": "minecraft:cherry_leaves"
+  },
+  {
+    "protocol_id": 34,
+    "identifier": "minecraft:sculk_soul"
+  },
+  {
+    "protocol_id": 35,
+    "identifier": "minecraft:sculk_charge"
+  },
+  {
+    "protocol_id": 36,
+    "identifier": "minecraft:sculk_charge_pop"
+  },
+  {
+    "protocol_id": 37,
+    "identifier": "minecraft:soul_fire_flame"
+  },
+  {
+    "protocol_id": 38,
+    "identifier": "minecraft:soul"
+  },
+  {
+    "protocol_id": 39,
+    "identifier": "minecraft:flash"
+  },
+  {
+    "protocol_id": 40,
+    "identifier": "minecraft:happy_villager"
+  },
+  {
+    "protocol_id": 41,
+    "identifier": "minecraft:composter"
+  },
+  {
+    "protocol_id": 42,
+    "identifier": "minecraft:heart"
+  },
+  {
+    "protocol_id": 43,
+    "identifier": "minecraft:instant_effect"
+  },
+  {
+    "protocol_id": 44,
+    "identifier": "minecraft:item"
+  },
+  {
+    "protocol_id": 45,
+    "identifier": "minecraft:vibration"
+  },
+  {
+    "protocol_id": 46,
+    "identifier": "minecraft:item_slime"
+  },
+  {
+    "protocol_id": 47,
+    "identifier": "minecraft:item_cobweb"
+  },
+  {
+    "protocol_id": 48,
+    "identifier": "minecraft:item_snowball"
+  },
+  {
+    "protocol_id": 49,
+    "identifier": "minecraft:large_smoke"
+  },
+  {
+    "protocol_id": 50,
+    "identifier": "minecraft:lava"
+  },
+  {
+    "protocol_id": 51,
+    "identifier": "minecraft:mycelium"
+  },
+  {
+    "protocol_id": 52,
+    "identifier": "minecraft:note"
+  },
+  {
+    "protocol_id": 53,
+    "identifier": "minecraft:poof"
+  },
+  {
+    "protocol_id": 54,
+    "identifier": "minecraft:portal"
+  },
+  {
+    "protocol_id": 55,
+    "identifier": "minecraft:rain"
+  },
+  {
+    "protocol_id": 56,
+    "identifier": "minecraft:smoke"
+  },
+  {
+    "protocol_id": 57,
+    "identifier": "minecraft:white_smoke"
+  },
+  {
+    "protocol_id": 58,
+    "identifier": "minecraft:sneeze"
+  },
+  {
+    "protocol_id": 59,
+    "identifier": "minecraft:spit"
+  },
+  {
+    "protocol_id": 60,
+    "identifier": "minecraft:squid_ink"
+  },
+  {
+    "protocol_id": 61,
+    "identifier": "minecraft:sweep_attack"
+  },
+  {
+    "protocol_id": 62,
+    "identifier": "minecraft:totem_of_undying"
+  },
+  {
+    "protocol_id": 63,
+    "identifier": "minecraft:underwater"
+  },
+  {
+    "protocol_id": 64,
+    "identifier": "minecraft:splash"
+  },
+  {
+    "protocol_id": 65,
+    "identifier": "minecraft:witch"
+  },
+  {
+    "protocol_id": 66,
+    "identifier": "minecraft:bubble_pop"
+  },
+  {
+    "protocol_id": 67,
+    "identifier": "minecraft:current_down"
+  },
+  {
+    "protocol_id": 68,
+    "identifier": "minecraft:bubble_column_up"
+  },
+  {
+    "protocol_id": 69,
+    "identifier": "minecraft:nautilus"
+  },
+  {
+    "protocol_id": 70,
+    "identifier": "minecraft:dolphin"
+  },
+  {
+    "protocol_id": 71,
+    "identifier": "minecraft:campfire_cosy_smoke"
+  },
+  {
+    "protocol_id": 72,
+    "identifier": "minecraft:campfire_signal_smoke"
+  },
+  {
+    "protocol_id": 73,
+    "identifier": "minecraft:dripping_honey"
+  },
+  {
+    "protocol_id": 74,
+    "identifier": "minecraft:falling_honey"
+  },
+  {
+    "protocol_id": 75,
+    "identifier": "minecraft:landing_honey"
+  },
+  {
+    "protocol_id": 76,
+    "identifier": "minecraft:falling_nectar"
+  },
+  {
+    "protocol_id": 77,
+    "identifier": "minecraft:falling_spore_blossom"
+  },
+  {
+    "protocol_id": 78,
+    "identifier": "minecraft:ash"
+  },
+  {
+    "protocol_id": 79,
+    "identifier": "minecraft:crimson_spore"
+  },
+  {
+    "protocol_id": 80,
+    "identifier": "minecraft:warped_spore"
+  },
+  {
+    "protocol_id": 81,
+    "identifier": "minecraft:spore_blossom_air"
+  },
+  {
+    "protocol_id": 82,
+    "identifier": "minecraft:dripping_obsidian_tear"
+  },
+  {
+    "protocol_id": 83,
+    "identifier": "minecraft:falling_obsidian_tear"
+  },
+  {
+    "protocol_id": 84,
+    "identifier": "minecraft:landing_obsidian_tear"
+  },
+  {
+    "protocol_id": 85,
+    "identifier": "minecraft:reverse_portal"
+  },
+  {
+    "protocol_id": 86,
+    "identifier": "minecraft:white_ash"
+  },
+  {
+    "protocol_id": 87,
+    "identifier": "minecraft:small_flame"
+  },
+  {
+    "protocol_id": 88,
+    "identifier": "minecraft:snowflake"
+  },
+  {
+    "protocol_id": 89,
+    "identifier": "minecraft:dripping_dripstone_lava"
+  },
+  {
+    "protocol_id": 90,
+    "identifier": "minecraft:falling_dripstone_lava"
+  },
+  {
+    "protocol_id": 91,
+    "identifier": "minecraft:dripping_dripstone_water"
+  },
+  {
+    "protocol_id": 92,
+    "identifier": "minecraft:falling_dripstone_water"
+  },
+  {
+    "protocol_id": 93,
+    "identifier": "minecraft:glow_squid_ink"
+  },
+  {
+    "protocol_id": 94,
+    "identifier": "minecraft:glow"
+  },
+  {
+    "protocol_id": 95,
+    "identifier": "minecraft:wax_on"
+  },
+  {
+    "protocol_id": 96,
+    "identifier": "minecraft:wax_off"
+  },
+  {
+    "protocol_id": 97,
+    "identifier": "minecraft:electric_spark"
+  },
+  {
+    "protocol_id": 98,
+    "identifier": "minecraft:scrape"
+  },
+  {
+    "protocol_id": 99,
+    "identifier": "minecraft:shriek"
+  },
+  {
+    "protocol_id": 100,
+    "identifier": "minecraft:egg_crack"
+  },
+  {
+    "protocol_id": 101,
+    "identifier": "minecraft:dust_plume"
+  },
+  {
+    "protocol_id": 102,
+    "identifier": "minecraft:trial_spawner_detection"
+  },
+  {
+    "protocol_id": 103,
+    "identifier": "minecraft:trial_spawner_detection_ominous"
+  },
+  {
+    "protocol_id": 104,
+    "identifier": "minecraft:vault_connection"
+  },
+  {
+    "protocol_id": 105,
+    "identifier": "minecraft:dust_pillar"
+  },
+  {
+    "protocol_id": 106,
+    "identifier": "minecraft:ominous_spawning"
+  },
+  {
+    "protocol_id": 107,
+    "identifier": "minecraft:raid_omen"
+  },
+  {
+    "protocol_id": 108,
+    "identifier": "minecraft:trial_omen"
+  }
+]
