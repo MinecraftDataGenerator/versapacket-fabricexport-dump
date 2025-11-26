@@ -350,40 +350,40 @@
       "set_chunk_cache_radius": {
         "protocol_id": 66
       },
-      "set_display_objective": {
+      "set_default_spawn_position": {
         "protocol_id": 67
       },
-      "set_entity_data": {
+      "set_display_objective": {
         "protocol_id": 68
       },
-      "set_entity_link": {
+      "set_entity_data": {
         "protocol_id": 69
       },
-      "set_entity_motion": {
+      "set_entity_link": {
         "protocol_id": 70
       },
-      "set_equipped_item": {
+      "set_entity_motion": {
         "protocol_id": 71
       },
-      "set_experience": {
+      "set_equipped_item": {
         "protocol_id": 72
       },
-      "set_health": {
+      "set_experience": {
         "protocol_id": 73
       },
-      "set_objective": {
+      "set_health": {
         "protocol_id": 74
       },
-      "set_passengers": {
+      "set_objective": {
         "protocol_id": 75
       },
-      "set_player_team": {
+      "set_passengers": {
         "protocol_id": 76
       },
-      "set_score": {
+      "set_player_team": {
         "protocol_id": 77
       },
-      "set_spawn_position": {
+      "set_score": {
         "protocol_id": 78
       },
       "set_time": {
