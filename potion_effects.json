@@ -64,7 +64,7 @@
       {
         "attribute": "attribute.name.generic.attack_damage",
         "identifier": "648d7064-6a60-4f59-8abe-c2c23a6dd7a9",
-        "base_value": 0.0,
+        "base_value": 3.0,
         "operation": "addition"
       }
     ]
@@ -162,7 +162,7 @@
       {
         "attribute": "attribute.name.generic.attack_damage",
         "identifier": "22653b89-116e-49dc-9b6b-9971489b5be5",
-        "base_value": 0.0,
+        "base_value": -4.0,
         "operation": "addition"
       }
     ]
@@ -200,7 +200,14 @@
     "identifier": "minecraft:absorption",
     "category": "beneficial",
     "color": 2445989,
-    "modifiers": []
+    "modifiers": [
+      {
+        "attribute": "attribute.name.generic.max_absorption",
+        "identifier": "eae29cf0-701e-4ed6-883a-96f798f3dab5",
+        "base_value": 4.0,
+        "operation": "addition"
+      }
+    ]
   },
   {
     "protocol_id": 23,
