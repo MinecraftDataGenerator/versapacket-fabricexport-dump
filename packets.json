@@ -99,56 +99,59 @@
       "player_input": {
         "protocol_id": 29
       },
-      "recipe_book_update": {
+      "recipe_book_change_settings": {
         "protocol_id": 30
       },
-      "rename_item": {
+      "recipe_book_seen_recipe": {
         "protocol_id": 31
       },
-      "resource_pack": {
+      "rename_item": {
         "protocol_id": 32
       },
-      "seen_advancements": {
+      "resource_pack": {
         "protocol_id": 33
       },
-      "select_trade": {
+      "seen_advancements": {
         "protocol_id": 34
       },
-      "set_beacon": {
+      "select_trade": {
         "protocol_id": 35
       },
-      "set_carried_item": {
+      "set_beacon": {
         "protocol_id": 36
       },
-      "set_command_block": {
+      "set_carried_item": {
         "protocol_id": 37
       },
-      "set_command_minecart": {
+      "set_command_block": {
         "protocol_id": 38
       },
-      "set_creative_mode_slot": {
+      "set_command_minecart": {
         "protocol_id": 39
       },
-      "set_jigsaw_block": {
+      "set_creative_mode_slot": {
         "protocol_id": 40
       },
-      "set_structure_block": {
+      "set_jigsaw_block": {
         "protocol_id": 41
       },
-      "sign_update": {
+      "set_structure_block": {
         "protocol_id": 42
       },
-      "swing": {
+      "sign_update": {
         "protocol_id": 43
       },
-      "teleport_to_entity": {
+      "swing": {
         "protocol_id": 44
       },
-      "use_item_on": {
+      "teleport_to_entity": {
         "protocol_id": 45
       },
-      "use_item": {
+      "use_item_on": {
         "protocol_id": 46
+      },
+      "use_item": {
+        "protocol_id": 47
       }
     },
     "clientbound": {
