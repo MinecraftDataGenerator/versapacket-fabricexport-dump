@@ -1,4 +1,143 @@
 {
+  "status": {
+    "serverbound": {
+      "minecraft:status_request": {
+        "protocol_id": 0
+      },
+      "minecraft:ping_request": {
+        "protocol_id": 1
+      }
+    },
+    "clientbound": {
+      "minecraft:status_response": {
+        "protocol_id": 0
+      },
+      "minecraft:pong_response": {
+        "protocol_id": 1
+      }
+    }
+  },
+  "configuration": {
+    "serverbound": {
+      "minecraft:client_information": {
+        "protocol_id": 0
+      },
+      "minecraft:cookie_response": {
+        "protocol_id": 1
+      },
+      "minecraft:custom_payload": {
+        "protocol_id": 2
+      },
+      "minecraft:finish_configuration": {
+        "protocol_id": 3
+      },
+      "minecraft:keep_alive": {
+        "protocol_id": 4
+      },
+      "minecraft:pong": {
+        "protocol_id": 5
+      },
+      "minecraft:resource_pack": {
+        "protocol_id": 6
+      },
+      "minecraft:select_known_packs": {
+        "protocol_id": 7
+      }
+    },
+    "clientbound": {
+      "minecraft:cookie_request": {
+        "protocol_id": 0
+      },
+      "minecraft:custom_payload": {
+        "protocol_id": 1
+      },
+      "minecraft:disconnect": {
+        "protocol_id": 2
+      },
+      "minecraft:finish_configuration": {
+        "protocol_id": 3
+      },
+      "minecraft:keep_alive": {
+        "protocol_id": 4
+      },
+      "minecraft:ping": {
+        "protocol_id": 5
+      },
+      "minecraft:reset_chat": {
+        "protocol_id": 6
+      },
+      "minecraft:registry_data": {
+        "protocol_id": 7
+      },
+      "minecraft:resource_pack_pop": {
+        "protocol_id": 8
+      },
+      "minecraft:resource_pack_push": {
+        "protocol_id": 9
+      },
+      "minecraft:store_cookie": {
+        "protocol_id": 10
+      },
+      "minecraft:transfer": {
+        "protocol_id": 11
+      },
+      "minecraft:update_enabled_features": {
+        "protocol_id": 12
+      },
+      "minecraft:update_tags": {
+        "protocol_id": 13
+      },
+      "minecraft:select_known_packs": {
+        "protocol_id": 14
+      }
+    }
+  },
+  "handshake": {
+    "serverbound": {
+      "minecraft:intention": {
+        "protocol_id": 0
+      }
+    }
+  },
+  "login": {
+    "serverbound": {
+      "minecraft:hello": {
+        "protocol_id": 0
+      },
+      "minecraft:key": {
+        "protocol_id": 1
+      },
+      "minecraft:custom_query_answer": {
+        "protocol_id": 2
+      },
+      "minecraft:login_acknowledged": {
+        "protocol_id": 3
+      },
+      "minecraft:cookie_response": {
+        "protocol_id": 4
+      }
+    },
+    "clientbound": {
+      "minecraft:login_disconnect": {
+        "protocol_id": 0
+      },
+      "minecraft:hello": {
+        "protocol_id": 1
+      },
+      "minecraft:game_profile": {
+        "protocol_id": 2
+      },
+      "minecraft:login_compression": {
+        "protocol_id": 3
+      },
+      "minecraft:custom_query": {
+        "protocol_id": 4
+      },
+      "minecraft:cookie_request": {
+        "protocol_id": 5
+      }
+    }
+  },
   "play": {
     "serverbound": {
       "minecraft:accept_teleportation": {
@@ -542,145 +681,6 @@
       },
       "minecraft:projectile_power": {
         "protocol_id": 121
-      }
-    }
-  },
-  "configuration": {
-    "serverbound": {
-      "minecraft:client_information": {
-        "protocol_id": 0
-      },
-      "minecraft:cookie_response": {
-        "protocol_id": 1
-      },
-      "minecraft:custom_payload": {
-        "protocol_id": 2
-      },
-      "minecraft:finish_configuration": {
-        "protocol_id": 3
-      },
-      "minecraft:keep_alive": {
-        "protocol_id": 4
-      },
-      "minecraft:pong": {
-        "protocol_id": 5
-      },
-      "minecraft:resource_pack": {
-        "protocol_id": 6
-      },
-      "minecraft:select_known_packs": {
-        "protocol_id": 7
-      }
-    },
-    "clientbound": {
-      "minecraft:cookie_request": {
-        "protocol_id": 0
-      },
-      "minecraft:custom_payload": {
-        "protocol_id": 1
-      },
-      "minecraft:disconnect": {
-        "protocol_id": 2
-      },
-      "minecraft:finish_configuration": {
-        "protocol_id": 3
-      },
-      "minecraft:keep_alive": {
-        "protocol_id": 4
-      },
-      "minecraft:ping": {
-        "protocol_id": 5
-      },
-      "minecraft:reset_chat": {
-        "protocol_id": 6
-      },
-      "minecraft:registry_data": {
-        "protocol_id": 7
-      },
-      "minecraft:resource_pack_pop": {
-        "protocol_id": 8
-      },
-      "minecraft:resource_pack_push": {
-        "protocol_id": 9
-      },
-      "minecraft:store_cookie": {
-        "protocol_id": 10
-      },
-      "minecraft:transfer": {
-        "protocol_id": 11
-      },
-      "minecraft:update_enabled_features": {
-        "protocol_id": 12
-      },
-      "minecraft:update_tags": {
-        "protocol_id": 13
-      },
-      "minecraft:select_known_packs": {
-        "protocol_id": 14
-      }
-    }
-  },
-  "status": {
-    "serverbound": {
-      "minecraft:status_request": {
-        "protocol_id": 0
-      },
-      "minecraft:ping_request": {
-        "protocol_id": 1
-      }
-    },
-    "clientbound": {
-      "minecraft:status_response": {
-        "protocol_id": 0
-      },
-      "minecraft:pong_response": {
-        "protocol_id": 1
-      }
-    }
-  },
-  "handshake": {
-    "serverbound": {
-      "minecraft:intention": {
-        "protocol_id": 0
-      }
-    }
-  },
-  "login": {
-    "serverbound": {
-      "minecraft:hello": {
-        "protocol_id": 0
-      },
-      "minecraft:key": {
-        "protocol_id": 1
-      },
-      "minecraft:custom_query_answer": {
-        "protocol_id": 2
-      },
-      "minecraft:login_acknowledged": {
-        "protocol_id": 3
-      },
-      "minecraft:cookie_response": {
-        "protocol_id": 4
-      }
-    },
-    "clientbound": {
-      "minecraft:login_disconnect": {
-        "protocol_id": 0
-      },
-      "minecraft:hello": {
-        "protocol_id": 1
-      },
-      "minecraft:game_profile": {
-        "protocol_id": 2
-      },
-      "minecraft:login_compression": {
-        "protocol_id": 3
-      },
-      "minecraft:custom_query": {
-        "protocol_id": 4
-      },
-      "minecraft:cookie_request": {
-        "protocol_id": 5
       }
     }
   }
