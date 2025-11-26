@@ -11391,6 +11391,11 @@
           "type": 0
         },
         {
+          "name": "ID_FOIL",
+          "id": 11,
+          "type": 8
+        },
+        {
           "name": "ID_FLAGS",
           "id": 7,
           "type": 0
