@@ -10,15 +10,15 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
-        "attribute.name.generic.flying_speed",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.flying_speed",
         "attribute.name.generic.attack_damage",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -421,10 +421,10 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.max_health",
         "attribute.name.generic.armor"
       ],
@@ -843,14 +843,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_damage",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -1078,13 +1078,13 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -1297,15 +1297,15 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
-        "attribute.name.generic.flying_speed",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.flying_speed",
         "attribute.name.generic.attack_damage",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -1528,14 +1528,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_damage",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -2203,14 +2203,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
-        "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.max_absorption",
         "attribute.name.horse.jump_strength",
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.max_health",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -2438,14 +2438,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_damage",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -2688,14 +2688,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_damage",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -3303,13 +3303,13 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -3522,13 +3522,13 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -3946,13 +3946,13 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -4165,14 +4165,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_damage",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -4395,14 +4395,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_damage",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -4625,14 +4625,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
-        "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.max_absorption",
         "attribute.name.horse.jump_strength",
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.max_health",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -5020,16 +5020,16 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.zombie.spawn_reinforcements",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_damage",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
-        "attribute.name.generic.armor",
-        "attribute.name.zombie.spawn_reinforcements"
+        "attribute.name.generic.armor"
       ],
       "poses": {
         "standing": {
@@ -5421,14 +5421,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_damage",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -5821,13 +5821,13 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -6210,14 +6210,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_damage",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -6440,14 +6440,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_damage",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -6655,14 +6655,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_damage",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -7900,14 +7900,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_damage",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -8140,14 +8140,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_damage",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -8570,13 +8570,13 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -8789,14 +8789,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_damage",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -9179,13 +9179,13 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -9398,14 +9398,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_damage",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -9633,14 +9633,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_damage",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -9858,14 +9858,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_damage",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -10278,14 +10278,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
-        "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.max_absorption",
         "attribute.name.horse.jump_strength",
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.max_health",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -10508,16 +10508,16 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.zombie.spawn_reinforcements",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_damage",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
-        "attribute.name.generic.armor",
-        "attribute.name.zombie.spawn_reinforcements"
+        "attribute.name.generic.armor"
       ],
       "poses": {
         "standing": {
@@ -10739,14 +10739,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_damage",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -11144,14 +11144,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_damage",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -12459,14 +12459,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
-        "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.max_absorption",
         "attribute.name.horse.jump_strength",
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.max_health",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -12869,14 +12869,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_damage",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -13449,13 +13449,13 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -13673,14 +13673,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
-        "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.max_absorption",
         "attribute.name.horse.jump_strength",
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.max_health",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -13903,14 +13903,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_damage",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -14298,14 +14298,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_damage",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -14548,14 +14548,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
-        "attribute.name.generic.flying_speed",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.flying_speed",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -14783,14 +14783,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_damage",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -15003,13 +15003,13 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -15232,14 +15232,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_damage",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -15467,14 +15467,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_damage",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -15687,14 +15687,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_damage",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -15912,14 +15912,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_damage",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -16307,13 +16307,13 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -16531,13 +16531,13 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -16755,14 +16755,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_damage",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -16975,13 +16975,13 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -17194,13 +17194,13 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -17418,13 +17418,13 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -17812,14 +17812,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_damage",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -18027,14 +18027,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_damage",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -18247,14 +18247,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
-        "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.max_absorption",
         "attribute.name.horse.jump_strength",
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.max_health",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -18472,14 +18472,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_damage",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -18862,13 +18862,13 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -19091,13 +19091,13 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -19850,14 +19850,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_damage",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -20070,13 +20070,13 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -20284,14 +20284,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_damage",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -20499,13 +20499,13 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -20733,13 +20733,13 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -21587,14 +21587,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
-        "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.max_absorption",
         "attribute.name.horse.jump_strength",
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.max_health",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -22017,13 +22017,13 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -22241,13 +22241,13 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -22490,14 +22490,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_damage",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -22710,13 +22710,13 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -22939,14 +22939,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_damage",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -23159,13 +23159,13 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -23383,14 +23383,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_damage",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -23613,14 +23613,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_damage",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -23838,15 +23838,15 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
-        "attribute.name.generic.flying_speed",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.flying_speed",
         "attribute.name.generic.attack_damage",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -24074,14 +24074,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_damage",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -24459,14 +24459,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_damage",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -24704,14 +24704,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_damage",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -24924,16 +24924,16 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.zombie.spawn_reinforcements",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_damage",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
-        "attribute.name.generic.armor",
-        "attribute.name.zombie.spawn_reinforcements"
+        "attribute.name.generic.armor"
       ],
       "poses": {
         "standing": {
@@ -25155,14 +25155,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
-        "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.max_absorption",
         "attribute.name.horse.jump_strength",
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.max_health",
         "attribute.name.generic.armor"
       ],
       "poses": {
@@ -25380,16 +25380,16 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.zombie.spawn_reinforcements",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_damage",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
-        "attribute.name.generic.armor",
-        "attribute.name.zombie.spawn_reinforcements"
+        "attribute.name.generic.armor"
       ],
       "poses": {
         "standing": {
@@ -25621,16 +25621,16 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.max_absorption",
         "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range",
         "attribute.name.generic.attack_knockback",
         "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.max_absorption",
+        "attribute.name.zombie.spawn_reinforcements",
+        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_damage",
         "attribute.name.generic.max_health",
-        "attribute.name.generic.follow_range",
-        "attribute.name.generic.armor",
-        "attribute.name.zombie.spawn_reinforcements"
+        "attribute.name.generic.armor"
       ],
       "poses": {
         "standing": {
