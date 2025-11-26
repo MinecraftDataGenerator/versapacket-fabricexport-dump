@@ -5331,19 +5331,14 @@
       },
       "data_tracker": [
         {
-          "name": "DATA_ID_DISPLAY_BLOCK",
+          "name": "DATA_ID_CUSTOM_DISPLAY_BLOCK",
           "id": 11,
-          "type": 1
+          "type": 9
         },
         {
           "name": "DATA_ID_DISPLAY_OFFSET",
           "id": 12,
           "type": 1
-        },
-        {
-          "name": "DATA_ID_CUSTOM_DISPLAY",
-          "id": 13,
-          "type": 10
         },
         {
           "name": "DATA_ID_HURT",
@@ -5993,28 +5988,23 @@
       "data_tracker": [
         {
           "name": "DATA_ID_COMMAND_NAME",
-          "id": 14,
+          "id": 13,
           "type": 4
         },
         {
           "name": "DATA_ID_LAST_OUTPUT",
-          "id": 15,
+          "id": 14,
           "type": 5
         },
         {
-          "name": "DATA_ID_DISPLAY_BLOCK",
+          "name": "DATA_ID_CUSTOM_DISPLAY_BLOCK",
           "id": 11,
-          "type": 1
+          "type": 9
         },
         {
           "name": "DATA_ID_DISPLAY_OFFSET",
           "id": 12,
           "type": 1
-        },
-        {
-          "name": "DATA_ID_CUSTOM_DISPLAY",
-          "id": 13,
-          "type": 10
         },
         {
           "name": "DATA_ID_HURT",
@@ -7331,18 +7321,13 @@
       },
       "data_tracker": [
         {
-          "name": "TREASURE_POS",
-          "id": 17,
-          "type": 14
-        },
-        {
           "name": "GOT_FISH",
-          "id": 18,
+          "id": 17,
           "type": 10
         },
         {
           "name": "MOISTNESS_LEVEL",
-          "id": 19,
+          "id": 18,
           "type": 1
         },
         {
@@ -11578,23 +11563,18 @@
       "data_tracker": [
         {
           "name": "DATA_ID_FUEL",
-          "id": 14,
+          "id": 13,
           "type": 10
         },
         {
-          "name": "DATA_ID_DISPLAY_BLOCK",
+          "name": "DATA_ID_CUSTOM_DISPLAY_BLOCK",
           "id": 11,
-          "type": 1
+          "type": 9
         },
         {
           "name": "DATA_ID_DISPLAY_OFFSET",
           "id": 12,
           "type": 1
-        },
-        {
-          "name": "DATA_ID_CUSTOM_DISPLAY",
-          "id": 13,
-          "type": 10
         },
         {
           "name": "DATA_ID_HURT",
@@ -13362,19 +13342,14 @@
       },
       "data_tracker": [
         {
-          "name": "DATA_ID_DISPLAY_BLOCK",
+          "name": "DATA_ID_CUSTOM_DISPLAY_BLOCK",
           "id": 11,
-          "type": 1
+          "type": 9
         },
         {
           "name": "DATA_ID_DISPLAY_OFFSET",
           "id": 12,
           "type": 1
-        },
-        {
-          "name": "DATA_ID_CUSTOM_DISPLAY",
-          "id": 13,
-          "type": 10
         },
         {
           "name": "DATA_ID_HURT",
@@ -17204,19 +17179,14 @@
       },
       "data_tracker": [
         {
-          "name": "DATA_ID_DISPLAY_BLOCK",
+          "name": "DATA_ID_CUSTOM_DISPLAY_BLOCK",
           "id": 11,
-          "type": 1
+          "type": 9
         },
         {
           "name": "DATA_ID_DISPLAY_OFFSET",
           "id": 12,
           "type": 1
-        },
-        {
-          "name": "DATA_ID_CUSTOM_DISPLAY",
-          "id": 13,
-          "type": 10
         },
         {
           "name": "DATA_ID_HURT",
@@ -24819,19 +24789,14 @@
       },
       "data_tracker": [
         {
-          "name": "DATA_ID_DISPLAY_BLOCK",
+          "name": "DATA_ID_CUSTOM_DISPLAY_BLOCK",
           "id": 11,
-          "type": 1
+          "type": 9
         },
         {
           "name": "DATA_ID_DISPLAY_OFFSET",
           "id": 12,
           "type": 1
-        },
-        {
-          "name": "DATA_ID_CUSTOM_DISPLAY",
-          "id": 13,
-          "type": 10
         },
         {
           "name": "DATA_ID_HURT",
@@ -27183,19 +27148,14 @@
       },
       "data_tracker": [
         {
-          "name": "DATA_ID_DISPLAY_BLOCK",
+          "name": "DATA_ID_CUSTOM_DISPLAY_BLOCK",
           "id": 11,
-          "type": 1
+          "type": 9
         },
         {
           "name": "DATA_ID_DISPLAY_OFFSET",
           "id": 12,
           "type": 1
-        },
-        {
-          "name": "DATA_ID_CUSTOM_DISPLAY",
-          "id": 13,
-          "type": 10
         },
         {
           "name": "DATA_ID_HURT",
@@ -28075,33 +28035,13 @@
       },
       "data_tracker": [
         {
-          "name": "HOME_POS",
-          "id": 17,
-          "type": 14
-        },
-        {
           "name": "HAS_EGG",
-          "id": 18,
+          "id": 17,
           "type": 10
         },
         {
           "name": "LAYING_EGG",
-          "id": 19,
-          "type": 10
-        },
-        {
-          "name": "TRAVEL_POS",
-          "id": 20,
-          "type": 14
-        },
-        {
-          "name": "GOING_HOME",
-          "id": 21,
-          "type": 10
-        },
-        {
-          "name": "TRAVELLING",
-          "id": 22,
+          "id": 18,
           "type": 10
         },
         {
