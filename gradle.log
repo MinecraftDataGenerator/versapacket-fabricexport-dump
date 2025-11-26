@@ -13,37 +13,37 @@ Fabric Loom: 1.11.8
 > Task :configureLaunch
 
 > Task :runServer
-[06:54:09] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 1.21.6-pre1 with Fabric Loader 0.17.3
-[06:54:09] [main/INFO] (FabricLoader) Loading 5 mods:
+[06:59:31] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 1.21.6-pre2 with Fabric Loader 0.17.3
+[06:59:32] [main/INFO] (FabricLoader) Loading 5 mods:
 	- fabricloader 0.17.3
 	- java 21
-	- minecraft 1.21.6-beta.1
+	- minecraft 1.21.6-beta.2
 	- mixinextras 0.5.0
 	- versapacket-fabricexport 1.0.0
-[06:54:10] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/root/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/80fc3a9f592673cea87f4cd702f87991c6c9fe4d/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[06:54:11] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
-[06:54:11] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_21
-[06:54:26] [main/INFO] (FabricLoader/MixinExtras|Service) Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
-[06:54:27] [main/INFO] (Minecraft) Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[06:54:36] [main/INFO] (Minecraft) Loaded 1407 recipes
-[06:54:36] [main/INFO] (Minecraft) Loaded 1520 advancements
-[06:54:36] [Server thread/INFO] (Minecraft) Starting minecraft server version 1.21.6 Pre-Release 1
-[06:54:36] [Server thread/INFO] (Minecraft) Loading properties
-[06:54:36] [Server thread/INFO] (Minecraft) Default game type: SURVIVAL
-[06:54:36] [Server thread/INFO] (Minecraft) Generating keypair
-[06:54:36] [Server thread/INFO] (Minecraft) Starting Minecraft server on *:50340
-[06:54:37] [Server thread/INFO] (Minecraft) Using epoll channel type
-[06:54:37] [Server thread/INFO] (Minecraft) Preparing level "world"
-[06:54:37] [Server thread/INFO] (Minecraft) Preparing start region for dimension minecraft:overworld
-[06:54:39] [Worker-Main-2/INFO] (Minecraft) Preparing spawn area: 0%
-[06:54:39] [Worker-Main-2/INFO] (Minecraft) Preparing spawn area: 0%
-[06:54:39] [Worker-Main-2/INFO] (Minecraft) Preparing spawn area: 0%
-[06:54:39] [Worker-Main-2/INFO] (Minecraft) Preparing spawn area: 0%
-[06:54:39] [Worker-Main-2/INFO] (Minecraft) Preparing spawn area: 0%
-[06:54:40] [Server thread/INFO] (Minecraft) Time elapsed: 2357 ms
-[06:54:40] [Server thread/INFO] (Minecraft) Done (2.971s)! For help, type "help"
-[06:54:43] [Server thread/INFO] (Minecraft) [STDOUT]: EXPORT Done!
+[06:59:32] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/root/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/80fc3a9f592673cea87f4cd702f87991c6c9fe4d/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[06:59:33] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
+[06:59:33] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_21
+[06:59:47] [main/INFO] (FabricLoader/MixinExtras|Service) Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[06:59:48] [main/INFO] (Minecraft) Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[06:59:58] [main/INFO] (Minecraft) Loaded 1407 recipes
+[06:59:58] [main/INFO] (Minecraft) Loaded 1520 advancements
+[06:59:58] [Server thread/INFO] (Minecraft) Starting minecraft server version 1.21.6 Pre-Release 2
+[06:59:58] [Server thread/INFO] (Minecraft) Loading properties
+[06:59:58] [Server thread/INFO] (Minecraft) Default game type: SURVIVAL
+[06:59:58] [Server thread/INFO] (Minecraft) Generating keypair
+[06:59:58] [Server thread/INFO] (Minecraft) Starting Minecraft server on *:50341
+[06:59:58] [Server thread/INFO] (Minecraft) Using epoll channel type
+[06:59:59] [Server thread/INFO] (Minecraft) Preparing level "world"
+[06:59:59] [Server thread/INFO] (Minecraft) Preparing start region for dimension minecraft:overworld
+[07:00:01] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
+[07:00:01] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
+[07:00:01] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
+[07:00:01] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
+[07:00:01] [Worker-Main-1/INFO] (Minecraft) Preparing spawn area: 0%
+[07:00:01] [Server thread/INFO] (Minecraft) Time elapsed: 2137 ms
+[07:00:01] [Server thread/INFO] (Minecraft) Done (2.588s)! For help, type "help"
+[07:00:04] [Server thread/INFO] (Minecraft) [STDOUT]: EXPORT Done!
 
-BUILD SUCCESSFUL in 1m 4s
+BUILD SUCCESSFUL in 1m 5s
 6 actionable tasks: 5 executed, 1 from cache
 Consider enabling configuration cache to speed up this build: https://docs.gradle.org/9.1.0/userguide/configuration_cache_enabling.html
