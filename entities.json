@@ -12978,18 +12978,13 @@
       },
       "data_tracker": [
         {
-          "name": "DATA_HEALTH_ID",
-          "id": 18,
-          "type": 2
-        },
-        {
           "name": "DATA_INTERESTED_ID",
-          "id": 19,
+          "id": 18,
           "type": 8
         },
         {
           "name": "DATA_COLLAR_COLOR",
-          "id": 20,
+          "id": 19,
           "type": 1
         },
         {
