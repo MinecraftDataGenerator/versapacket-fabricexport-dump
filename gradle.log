@@ -13,101 +13,109 @@ Fabric Loom: 1.11.8
 > Task :configureLaunch
 
 > Task :runServer
-[07:05:49] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 21w44a with Fabric Loader 0.17.3
-[07:05:50] [main/INFO] (FabricLoader) Loading 5 mods:
+[06:36:09] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 1.18-pre1 with Fabric Loader 0.17.3
+[06:36:09] [main/INFO] (FabricLoader) Loading 5 mods:
 	- fabricloader 0.17.3
 	- java 21
-	- minecraft 1.18-alpha.21.44.a
+	- minecraft 1.18-beta.1
 	- mixinextras 0.5.0
 	- versapacket-fabricexport 1.0.0
-[07:05:50] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/root/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/80fc3a9f592673cea87f4cd702f87991c6c9fe4d/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[07:05:51] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
-[07:05:51] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_21
-[07:06:06] [main/INFO] (Minecraft) Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[07:06:09] [main/WARN] (Minecraft) Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[07:06:09] [main/WARN] (Minecraft) Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[07:06:09] [main/WARN] (Minecraft) Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[07:06:09] [main/WARN] (Minecraft) Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[07:06:09] [main/WARN] (Minecraft) Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[07:06:09] [main/INFO] (Minecraft) Reloading ResourceManager: Default
-[07:06:12] [Worker-Main-9/INFO] (Minecraft) Loaded 7 recipes
-[07:06:15] [Worker-Main-9/INFO] (Minecraft) Loaded 1141 advancements
-[07:06:22] [main/INFO] (FabricLoader/MixinExtras|Service) Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
-[07:06:23] [Server thread/INFO] (Minecraft) Starting minecraft server version 21w44a
-[07:06:23] [Server thread/INFO] (Minecraft) Loading properties
-[07:06:23] [Server thread/INFO] (Minecraft) Default game type: SURVIVAL
-[07:06:23] [Server thread/INFO] (Minecraft) Generating keypair
-[07:06:24] [Server thread/INFO] (Minecraft) Starting Minecraft server on *:50118
-[07:06:25] [Server thread/INFO] (Minecraft) Using epoll channel type
-[07:06:27] [Server thread/INFO] (Minecraft) Preparing level "world"
-[07:06:28] [Server thread/INFO] (Minecraft) Preparing start region for dimension minecraft:overworld
-[07:06:31] [Worker-Main-6/INFO] (Minecraft) Preparing spawn area: 0%
-[07:06:31] [Worker-Main-8/INFO] (Minecraft) Preparing spawn area: 0%
-[07:06:31] [Worker-Main-9/INFO] (Minecraft) Preparing spawn area: 0%
-[07:06:31] [Worker-Main-8/INFO] (Minecraft) Preparing spawn area: 0%
-[07:06:31] [Worker-Main-9/INFO] (Minecraft) Preparing spawn area: 0%
-[07:06:31] [Worker-Main-6/INFO] (Minecraft) Preparing spawn area: 0%
-[07:06:31] [Worker-Main-8/INFO] (Minecraft) Preparing spawn area: 0%
-[07:06:31] [Worker-Main-8/INFO] (Minecraft) Preparing spawn area: 0%
-[07:06:32] [Worker-Main-8/INFO] (Minecraft) Preparing spawn area: 0%
-[07:06:32] [Worker-Main-10/INFO] (Minecraft) Preparing spawn area: 0%
-[07:06:33] [Worker-Main-10/INFO] (Minecraft) Preparing spawn area: 0%
-[07:06:33] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 0%
-[07:06:34] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 0%
-[07:06:34] [Worker-Main-10/INFO] (Minecraft) Preparing spawn area: 0%
-[07:06:35] [Worker-Main-8/INFO] (Minecraft) Preparing spawn area: 0%
-[07:06:35] [Worker-Main-8/INFO] (Minecraft) Preparing spawn area: 0%
-[07:06:36] [Worker-Main-10/INFO] (Minecraft) Preparing spawn area: 0%
-[07:06:36] [Worker-Main-9/INFO] (Minecraft) Preparing spawn area: 0%
-[07:06:37] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 0%
-[07:06:37] [Worker-Main-6/INFO] (Minecraft) Preparing spawn area: 0%
-[07:06:38] [Worker-Main-8/INFO] (Minecraft) Preparing spawn area: 0%
-[07:06:38] [Worker-Main-9/INFO] (Minecraft) Preparing spawn area: 0%
-[07:06:39] [Worker-Main-10/INFO] (Minecraft) Preparing spawn area: 0%
-[07:06:39] [Worker-Main-9/INFO] (Minecraft) Preparing spawn area: 0%
-[07:06:40] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 0%
-[07:06:40] [Worker-Main-10/INFO] (Minecraft) Preparing spawn area: 0%
-[07:06:41] [Worker-Main-6/INFO] (Minecraft) Preparing spawn area: 0%
-[07:06:41] [Worker-Main-6/INFO] (Minecraft) Preparing spawn area: 0%
-[07:06:42] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 0%
-[07:06:42] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 0%
-[07:06:43] [Worker-Main-10/INFO] (Minecraft) Preparing spawn area: 0%
-[07:06:43] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 0%
-[07:06:44] [Worker-Main-9/INFO] (Minecraft) Preparing spawn area: 0%
-[07:06:44] [Worker-Main-8/INFO] (Minecraft) Preparing spawn area: 0%
-[07:06:45] [Worker-Main-9/INFO] (Minecraft) Preparing spawn area: 0%
-[07:06:45] [Worker-Main-10/INFO] (Minecraft) Preparing spawn area: 1%
-[07:06:46] [Worker-Main-6/INFO] (Minecraft) Preparing spawn area: 1%
-[07:06:46] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 1%
-[07:06:47] [Worker-Main-6/INFO] (Minecraft) Preparing spawn area: 1%
-[07:06:47] [Worker-Main-10/INFO] (Minecraft) Preparing spawn area: 1%
-[07:06:48] [Worker-Main-10/INFO] (Minecraft) Preparing spawn area: 1%
-[07:06:48] [Worker-Main-8/INFO] (Minecraft) Preparing spawn area: 1%
-[07:06:49] [Worker-Main-6/INFO] (Minecraft) Preparing spawn area: 1%
-[07:06:49] [Worker-Main-6/INFO] (Minecraft) Preparing spawn area: 1%
-[07:06:50] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 1%
-[07:06:50] [Worker-Main-8/INFO] (Minecraft) Preparing spawn area: 1%
-[07:06:51] [Worker-Main-9/INFO] (Minecraft) Preparing spawn area: 2%
-[07:06:51] [Worker-Main-6/INFO] (Minecraft) Preparing spawn area: 2%
-[07:06:52] [Worker-Main-9/INFO] (Minecraft) Preparing spawn area: 3%
-[07:06:52] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 6%
-[07:06:53] [Worker-Main-6/INFO] (Minecraft) Preparing spawn area: 13%
-[07:06:53] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 13%
-[07:06:54] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 13%
-[07:06:54] [Worker-Main-8/INFO] (Minecraft) Preparing spawn area: 15%
-[07:06:55] [Worker-Main-10/INFO] (Minecraft) Preparing spawn area: 27%
-[07:06:55] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 28%
-[07:06:56] [Worker-Main-10/INFO] (Minecraft) Preparing spawn area: 44%
-[07:06:56] [Worker-Main-10/INFO] (Minecraft) Preparing spawn area: 48%
-[07:06:57] [Worker-Main-8/INFO] (Minecraft) Preparing spawn area: 52%
-[07:06:57] [Worker-Main-8/INFO] (Minecraft) Preparing spawn area: 65%
-[07:06:58] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 77%
-[07:06:58] [Worker-Main-10/INFO] (Minecraft) Preparing spawn area: 83%
-[07:06:59] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 88%
-[07:06:59] [Server thread/INFO] (Minecraft) Time elapsed: 31427 ms
-[07:06:59] [Server thread/INFO] (Minecraft) Done (32.111s)! For help, type "help"
-[07:07:06] [Server thread/INFO] (Minecraft) [STDOUT]: EXPORT Done!
+[06:36:10] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/root/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/80fc3a9f592673cea87f4cd702f87991c6c9fe4d/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[06:36:10] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
+[06:36:11] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_21
+[06:36:29] [main/INFO] (Minecraft) Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[06:36:33] [main/WARN] (Minecraft) Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06:36:33] [main/WARN] (Minecraft) Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06:36:33] [main/WARN] (Minecraft) Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[06:36:33] [main/WARN] (Minecraft) Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[06:36:33] [main/WARN] (Minecraft) Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06:36:33] [main/INFO] (Minecraft) Reloading ResourceManager: Default
+[06:36:36] [Worker-Main-8/INFO] (Minecraft) Loaded 7 recipes
+[06:36:38] [Worker-Main-8/INFO] (Minecraft) Loaded 1141 advancements
+[06:36:45] [main/INFO] (FabricLoader/MixinExtras|Service) Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[06:36:46] [Server thread/INFO] (Minecraft) Starting minecraft server version 1.18 Pre-release 1
+[06:36:46] [Server thread/INFO] (Minecraft) Loading properties
+[06:36:46] [Server thread/INFO] (Minecraft) Default game type: SURVIVAL
+[06:36:46] [Server thread/INFO] (Minecraft) Generating keypair
+[06:36:48] [Server thread/INFO] (Minecraft) Starting Minecraft server on *:50119
+[06:36:49] [Server thread/INFO] (Minecraft) Using epoll channel type
+[06:36:50] [Server thread/INFO] (Minecraft) Preparing level "world"
+[06:36:51] [Server thread/INFO] (Minecraft) Preparing start region for dimension minecraft:overworld
+[06:36:55] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 0%
+[06:36:55] [Worker-Main-10/INFO] (Minecraft) Preparing spawn area: 0%
+[06:36:55] [Worker-Main-9/INFO] (Minecraft) Preparing spawn area: 0%
+[06:36:55] [Worker-Main-8/INFO] (Minecraft) Preparing spawn area: 0%
+[06:36:55] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 0%
+[06:36:56] [Worker-Main-9/INFO] (Minecraft) Preparing spawn area: 0%
+[06:36:56] [Worker-Main-10/INFO] (Minecraft) Preparing spawn area: 0%
+[06:36:56] [Worker-Main-9/INFO] (Minecraft) Preparing spawn area: 0%
+[06:36:56] [Worker-Main-10/INFO] (Minecraft) Preparing spawn area: 0%
+[06:36:56] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 0%
+[06:36:56] [Worker-Main-6/INFO] (Minecraft) Preparing spawn area: 0%
+[06:36:57] [Worker-Main-9/INFO] (Minecraft) Preparing spawn area: 0%
+[06:36:57] [Worker-Main-9/INFO] (Minecraft) Preparing spawn area: 0%
+[06:36:58] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 0%
+[06:36:58] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 0%
+[06:36:59] [Worker-Main-8/INFO] (Minecraft) Preparing spawn area: 0%
+[06:36:59] [Worker-Main-9/INFO] (Minecraft) Preparing spawn area: 0%
+[06:37:00] [Worker-Main-9/INFO] (Minecraft) Preparing spawn area: 0%
+[06:37:00] [Worker-Main-8/INFO] (Minecraft) Preparing spawn area: 0%
+[06:37:01] [Worker-Main-6/INFO] (Minecraft) Preparing spawn area: 0%
+[06:37:01] [Worker-Main-10/INFO] (Minecraft) Preparing spawn area: 0%
+[06:37:02] [Worker-Main-10/INFO] (Minecraft) Preparing spawn area: 0%
+[06:37:02] [Worker-Main-8/INFO] (Minecraft) Preparing spawn area: 0%
+[06:37:03] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 0%
+[06:37:03] [Worker-Main-6/INFO] (Minecraft) Preparing spawn area: 0%
+[06:37:04] [Worker-Main-6/INFO] (Minecraft) Preparing spawn area: 0%
+[06:37:04] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 0%
+[06:37:05] [Worker-Main-8/INFO] (Minecraft) Preparing spawn area: 0%
+[06:37:05] [Worker-Main-8/INFO] (Minecraft) Preparing spawn area: 0%
+[06:37:06] [Worker-Main-8/INFO] (Minecraft) Preparing spawn area: 0%
+[06:37:06] [Worker-Main-8/INFO] (Minecraft) Preparing spawn area: 0%
+[06:37:07] [Worker-Main-6/INFO] (Minecraft) Preparing spawn area: 0%
+[06:37:07] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 0%
+[06:37:08] [Worker-Main-8/INFO] (Minecraft) Preparing spawn area: 0%
+[06:37:09] [Worker-Main-10/INFO] (Minecraft) Preparing spawn area: 0%
+[06:37:09] [Worker-Main-6/INFO] (Minecraft) Preparing spawn area: 0%
+[06:37:09] [Worker-Main-9/INFO] (Minecraft) Preparing spawn area: 0%
+[06:37:10] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 0%
+[06:37:10] [Worker-Main-6/INFO] (Minecraft) Preparing spawn area: 0%
+[06:37:11] [Worker-Main-8/INFO] (Minecraft) Preparing spawn area: 0%
+[06:37:11] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 0%
+[06:37:12] [Worker-Main-10/INFO] (Minecraft) Preparing spawn area: 0%
+[06:37:12] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 0%
+[06:37:13] [Worker-Main-8/INFO] (Minecraft) Preparing spawn area: 0%
+[06:37:13] [Worker-Main-8/INFO] (Minecraft) Preparing spawn area: 0%
+[06:37:14] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 0%
+[06:37:14] [Worker-Main-9/INFO] (Minecraft) Preparing spawn area: 0%
+[06:37:15] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 0%
+[06:37:15] [Worker-Main-8/INFO] (Minecraft) Preparing spawn area: 0%
+[06:37:16] [Worker-Main-9/INFO] (Minecraft) Preparing spawn area: 0%
+[06:37:16] [Worker-Main-8/INFO] (Minecraft) Preparing spawn area: 0%
+[06:37:17] [Worker-Main-8/INFO] (Minecraft) Preparing spawn area: 0%
+[06:37:17] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 0%
+[06:37:18] [Worker-Main-10/INFO] (Minecraft) Preparing spawn area: 0%
+[06:37:18] [Worker-Main-9/INFO] (Minecraft) Preparing spawn area: 1%
+[06:37:19] [Worker-Main-8/INFO] (Minecraft) Preparing spawn area: 5%
+[06:37:19] [Worker-Main-10/INFO] (Minecraft) Preparing spawn area: 6%
+[06:37:20] [Worker-Main-9/INFO] (Minecraft) Preparing spawn area: 7%
+[06:37:20] [Worker-Main-9/INFO] (Minecraft) Preparing spawn area: 7%
+[06:37:21] [Worker-Main-8/INFO] (Minecraft) Preparing spawn area: 10%
+[06:37:21] [Worker-Main-9/INFO] (Minecraft) Preparing spawn area: 20%
+[06:37:22] [Worker-Main-6/INFO] (Minecraft) Preparing spawn area: 26%
+[06:37:22] [Worker-Main-10/INFO] (Minecraft) Preparing spawn area: 31%
+[06:37:23] [Worker-Main-9/INFO] (Minecraft) Preparing spawn area: 36%
+[06:37:23] [Worker-Main-10/INFO] (Minecraft) Preparing spawn area: 46%
+[06:37:24] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 56%
+[06:37:25] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 69%
+[06:37:25] [Worker-Main-9/INFO] (Minecraft) Preparing spawn area: 70%
+[06:37:25] [Worker-Main-9/INFO] (Minecraft) Preparing spawn area: 75%
+[06:37:26] [Worker-Main-9/INFO] (Minecraft) Preparing spawn area: 76%
+[06:37:26] [Worker-Main-7/INFO] (Minecraft) Preparing spawn area: 96%
+[06:37:26] [Server thread/INFO] (Minecraft) Time elapsed: 35221 ms
+[06:37:26] [Server thread/INFO] (Minecraft) Done (36.071s)! For help, type "help"
+[06:37:34] [Server thread/INFO] (Minecraft) [STDOUT]: EXPORT Done!
 
-BUILD SUCCESSFUL in 1m 53s
+BUILD SUCCESSFUL in 1m 54s
 6 actionable tasks: 5 executed, 1 from cache
 Consider enabling configuration cache to speed up this build: https://docs.gradle.org/9.1.0/userguide/configuration_cache_enabling.html
