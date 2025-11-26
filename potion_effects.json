@@ -49,7 +49,7 @@
     "modifiers": [
       {
         "attribute": "minecraft:generic.attack_speed",
-        "identifier": "minecraft:effect.minining_fatigue",
+        "identifier": "minecraft:effect.mining_fatigue",
         "base_value": -0.10000000149011612,
         "operation": "add_multiplied_total"
       }
