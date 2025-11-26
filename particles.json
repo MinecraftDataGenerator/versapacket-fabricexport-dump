@@ -450,5 +450,9 @@
   {
     "protocol_id": 112,
     "identifier": "minecraft:block_crumble"
+  },
+  {
+    "protocol_id": 113,
+    "identifier": "minecraft:firefly"
   }
 ]
