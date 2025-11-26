@@ -306,5 +306,47 @@
     "category": "harmful",
     "color": 2696993,
     "modifiers": []
+  },
+  {
+    "protocol_id": 33,
+    "identifier": "minecraft:trial_omen",
+    "category": "neutral",
+    "color": 1484454,
+    "modifiers": []
+  },
+  {
+    "protocol_id": 34,
+    "identifier": "minecraft:raid_omen",
+    "category": "neutral",
+    "color": 14565464,
+    "modifiers": []
+  },
+  {
+    "protocol_id": 35,
+    "identifier": "minecraft:wind_charged",
+    "category": "harmful",
+    "color": 12438015,
+    "modifiers": []
+  },
+  {
+    "protocol_id": 36,
+    "identifier": "minecraft:weaving",
+    "category": "harmful",
+    "color": 7891290,
+    "modifiers": []
+  },
+  {
+    "protocol_id": 37,
+    "identifier": "minecraft:oozing",
+    "category": "harmful",
+    "color": 10092451,
+    "modifiers": []
+  },
+  {
+    "protocol_id": 38,
+    "identifier": "minecraft:infested",
+    "category": "harmful",
+    "color": 9214860,
+    "modifiers": []
   }
 ]
