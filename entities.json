@@ -7831,7 +7831,7 @@
   },
   {
     "protocol_id": 57,
-    "identifier": "minecraft:zombie_pigman",
+    "identifier": "minecraft:zombified_piglin",
     "dimensions": {
       "width": 0.6,
       "height": 1.95,
@@ -14081,8 +14081,13 @@
           "type": 8
         },
         {
-          "name": "DATA_IS_CHARGING_CROSSBOW",
+          "name": "DATA_IMMUNE_TO_ZOMBIFICATION",
           "id": 16,
+          "type": 8
+        },
+        {
+          "name": "DATA_IS_CHARGING_CROSSBOW",
+          "id": 17,
           "type": 8
         },
         {
