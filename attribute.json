@@ -1,37 +1,5 @@
 [
   {
-    "name": "player.block_interaction_range",
-    "type": "RANGED",
-    "default_value": 4.5,
-    "min_value": 0.0,
-    "max_value": 64.0,
-    "syncable": true
-  },
-  {
-    "name": "generic.step_height",
-    "type": "RANGED",
-    "default_value": 0.6,
-    "min_value": 0.0,
-    "max_value": 10.0,
-    "syncable": true
-  },
-  {
-    "name": "generic.follow_range",
-    "type": "RANGED",
-    "default_value": 32.0,
-    "min_value": 0.0,
-    "max_value": 2048.0,
-    "syncable": false
-  },
-  {
-    "name": "generic.fall_damage_multiplier",
-    "type": "RANGED",
-    "default_value": 1.0,
-    "min_value": 0.0,
-    "max_value": 100.0,
-    "syncable": true
-  },
-  {
     "name": "generic.luck",
     "type": "RANGED",
     "default_value": 0.0,
@@ -40,44 +8,12 @@
     "syncable": true
   },
   {
-    "name": "generic.max_health",
+    "name": "generic.scale",
     "type": "RANGED",
-    "default_value": 20.0,
-    "min_value": 1.0,
-    "max_value": 1024.0,
+    "default_value": 1.0,
+    "min_value": 0.0625,
+    "max_value": 16.0,
     "syncable": true
-  },
-  {
-    "name": "player.entity_interaction_range",
-    "type": "RANGED",
-    "default_value": 3.0,
-    "min_value": 0.0,
-    "max_value": 64.0,
-    "syncable": true
-  },
-  {
-    "name": "generic.gravity",
-    "type": "RANGED",
-    "default_value": 0.08,
-    "min_value": -1.0,
-    "max_value": 1.0,
-    "syncable": true
-  },
-  {
-    "name": "generic.armor_toughness",
-    "type": "RANGED",
-    "default_value": 0.0,
-    "min_value": 0.0,
-    "max_value": 20.0,
-    "syncable": true
-  },
-  {
-    "name": "generic.attack_knockback",
-    "type": "RANGED",
-    "default_value": 0.0,
-    "min_value": 0.0,
-    "max_value": 5.0,
-    "syncable": false
   },
   {
     "name": "generic.movement_speed",
@@ -96,11 +32,19 @@
     "syncable": false
   },
   {
-    "name": "zombie.spawn_reinforcements",
+    "name": "player.block_break_speed",
     "type": "RANGED",
-    "default_value": 0.0,
+    "default_value": 1.0,
     "min_value": 0.0,
-    "max_value": 1.0,
+    "max_value": 1024.0,
+    "syncable": true
+  },
+  {
+    "name": "generic.follow_range",
+    "type": "RANGED",
+    "default_value": 32.0,
+    "min_value": 0.0,
+    "max_value": 2048.0,
     "syncable": false
   },
   {
@@ -112,19 +56,51 @@
     "syncable": true
   },
   {
-    "name": "generic.safe_fall_distance",
+    "name": "zombie.spawn_reinforcements",
+    "type": "RANGED",
+    "default_value": 0.0,
+    "min_value": 0.0,
+    "max_value": 1.0,
+    "syncable": false
+  },
+  {
+    "name": "player.entity_interaction_range",
     "type": "RANGED",
     "default_value": 3.0,
-    "min_value": -1024.0,
-    "max_value": 1024.0,
+    "min_value": 0.0,
+    "max_value": 64.0,
     "syncable": true
   },
   {
-    "name": "generic.scale",
+    "name": "generic.armor_toughness",
     "type": "RANGED",
-    "default_value": 1.0,
-    "min_value": 0.0625,
-    "max_value": 16.0,
+    "default_value": 0.0,
+    "min_value": 0.0,
+    "max_value": 20.0,
+    "syncable": true
+  },
+  {
+    "name": "generic.jump_strength",
+    "type": "RANGED",
+    "default_value": 0.41999998688697815,
+    "min_value": 0.0,
+    "max_value": 32.0,
+    "syncable": true
+  },
+  {
+    "name": "generic.step_height",
+    "type": "RANGED",
+    "default_value": 0.6,
+    "min_value": 0.0,
+    "max_value": 10.0,
+    "syncable": true
+  },
+  {
+    "name": "player.block_interaction_range",
+    "type": "RANGED",
+    "default_value": 4.5,
+    "min_value": 0.0,
+    "max_value": 64.0,
     "syncable": true
   },
   {
@@ -136,6 +112,22 @@
     "syncable": false
   },
   {
+    "name": "generic.fall_damage_multiplier",
+    "type": "RANGED",
+    "default_value": 1.0,
+    "min_value": 0.0,
+    "max_value": 100.0,
+    "syncable": true
+  },
+  {
+    "name": "generic.safe_fall_distance",
+    "type": "RANGED",
+    "default_value": 3.0,
+    "min_value": -1024.0,
+    "max_value": 1024.0,
+    "syncable": true
+  },
+  {
     "name": "generic.armor",
     "type": "RANGED",
     "default_value": 0.0,
@@ -144,10 +136,26 @@
     "syncable": true
   },
   {
-    "name": "player.block_break_speed",
+    "name": "generic.attack_knockback",
     "type": "RANGED",
-    "default_value": 1.0,
+    "default_value": 0.0,
     "min_value": 0.0,
+    "max_value": 5.0,
+    "syncable": false
+  },
+  {
+    "name": "generic.gravity",
+    "type": "RANGED",
+    "default_value": 0.08,
+    "min_value": -1.0,
+    "max_value": 1.0,
+    "syncable": true
+  },
+  {
+    "name": "generic.max_health",
+    "type": "RANGED",
+    "default_value": 20.0,
+    "min_value": 1.0,
     "max_value": 1024.0,
     "syncable": true
   },
@@ -157,14 +165,6 @@
     "default_value": 0.4000000059604645,
     "min_value": 0.0,
     "max_value": 1024.0,
-    "syncable": true
-  },
-  {
-    "name": "generic.jump_strength",
-    "type": "RANGED",
-    "default_value": 0.41999998688697815,
-    "min_value": 0.0,
-    "max_value": 32.0,
     "syncable": true
   },
   {
