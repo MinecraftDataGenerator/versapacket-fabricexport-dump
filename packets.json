@@ -377,152 +377,155 @@
       "reset_score": {
         "protocol_id": 66
       },
-      "resource_pack": {
+      "resource_pack_pop": {
         "protocol_id": 67
       },
-      "respawn": {
+      "resource_pack_push": {
         "protocol_id": 68
       },
-      "rotate_head": {
+      "respawn": {
         "protocol_id": 69
       },
-      "section_blocks_update": {
+      "rotate_head": {
         "protocol_id": 70
       },
-      "select_advancements_tab": {
+      "section_blocks_update": {
         "protocol_id": 71
       },
-      "server_data": {
+      "select_advancements_tab": {
         "protocol_id": 72
       },
-      "set_action_bar_text": {
+      "server_data": {
         "protocol_id": 73
       },
-      "set_border_center": {
+      "set_action_bar_text": {
         "protocol_id": 74
       },
-      "set_border_lerp_size": {
+      "set_border_center": {
         "protocol_id": 75
       },
-      "set_border_size": {
+      "set_border_lerp_size": {
         "protocol_id": 76
       },
-      "set_border_warning_delay": {
+      "set_border_size": {
         "protocol_id": 77
       },
-      "set_border_warning_distance": {
+      "set_border_warning_delay": {
         "protocol_id": 78
       },
-      "set_camera": {
+      "set_border_warning_distance": {
         "protocol_id": 79
       },
-      "set_carried_item": {
+      "set_camera": {
         "protocol_id": 80
       },
-      "set_chunk_cache_center": {
+      "set_carried_item": {
         "protocol_id": 81
       },
-      "set_chunk_cache_radius": {
+      "set_chunk_cache_center": {
         "protocol_id": 82
       },
-      "set_default_spawn_position": {
+      "set_chunk_cache_radius": {
         "protocol_id": 83
       },
-      "set_display_objective": {
+      "set_default_spawn_position": {
         "protocol_id": 84
       },
-      "set_entity_data": {
+      "set_display_objective": {
         "protocol_id": 85
       },
-      "set_entity_link": {
+      "set_entity_data": {
         "protocol_id": 86
       },
-      "set_entity_motion": {
+      "set_entity_link": {
         "protocol_id": 87
       },
-      "set_equipment": {
+      "set_entity_motion": {
         "protocol_id": 88
       },
-      "set_experience": {
+      "set_equipment": {
         "protocol_id": 89
       },
-      "set_health": {
+      "set_experience": {
         "protocol_id": 90
       },
-      "set_objective": {
+      "set_health": {
         "protocol_id": 91
       },
-      "set_passengers": {
+      "set_objective": {
         "protocol_id": 92
       },
-      "set_player_team": {
+      "set_passengers": {
         "protocol_id": 93
       },
-      "set_score": {
+      "set_player_team": {
         "protocol_id": 94
       },
-      "set_simulation_distance": {
+      "set_score": {
         "protocol_id": 95
       },
-      "set_subtitle_text": {
+      "set_simulation_distance": {
         "protocol_id": 96
       },
-      "set_time": {
+      "set_subtitle_text": {
         "protocol_id": 97
       },
-      "set_title_text": {
+      "set_time": {
         "protocol_id": 98
       },
-      "set_titles_animation": {
+      "set_title_text": {
         "protocol_id": 99
       },
-      "sound_entity": {
+      "set_titles_animation": {
         "protocol_id": 100
       },
-      "sound": {
+      "sound_entity": {
         "protocol_id": 101
       },
-      "start_configuration": {
+      "sound": {
         "protocol_id": 102
       },
-      "stop_sound": {
+      "start_configuration": {
         "protocol_id": 103
       },
-      "system_chat": {
+      "stop_sound": {
         "protocol_id": 104
       },
-      "tab_list": {
+      "system_chat": {
         "protocol_id": 105
       },
-      "tag_query": {
+      "tab_list": {
         "protocol_id": 106
       },
-      "take_item_entity": {
+      "tag_query": {
         "protocol_id": 107
       },
-      "teleport_entity": {
+      "take_item_entity": {
         "protocol_id": 108
       },
-      "ticking_state": {
+      "teleport_entity": {
         "protocol_id": 109
       },
-      "ticking_step": {
+      "ticking_state": {
         "protocol_id": 110
       },
-      "update_advancements": {
+      "ticking_step": {
         "protocol_id": 111
       },
-      "update_attributes": {
+      "update_advancements": {
         "protocol_id": 112
       },
-      "update_mob_effect": {
+      "update_attributes": {
         "protocol_id": 113
       },
-      "update_recipes": {
+      "update_mob_effect": {
         "protocol_id": 114
       },
-      "update_tags": {
+      "update_recipes": {
         "protocol_id": 115
+      },
+      "update_tags": {
+        "protocol_id": 116
       }
     }
   },
@@ -617,14 +620,17 @@
       "registry_data": {
         "protocol_id": 5
       },
-      "resource_pack": {
+      "resource_pack_pop": {
         "protocol_id": 6
       },
-      "update_enabled_features": {
+      "resource_pack_push": {
         "protocol_id": 7
       },
-      "update_tags": {
+      "update_enabled_features": {
         "protocol_id": 8
+      },
+      "update_tags": {
+        "protocol_id": 9
       }
     }
   }
