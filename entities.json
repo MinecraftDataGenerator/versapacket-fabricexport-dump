@@ -70,6 +70,30 @@
           "height": 0.5,
           "eye_height": 0.425,
           "fixed": false
+        },
+        "roaring": {
+          "width": 6.0,
+          "height": 0.5,
+          "eye_height": 0.425,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 6.0,
+          "height": 0.5,
+          "eye_height": 0.425,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 6.0,
+          "height": 0.5,
+          "eye_height": 0.425,
+          "fixed": false
+        },
+        "digging": {
+          "width": 6.0,
+          "height": 0.5,
+          "eye_height": 0.425,
+          "fixed": false
         }
       },
       "data_tracker": [
@@ -147,9 +171,9 @@
     },
     "attributes": {
       "attributes": [
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.max_health",
         "attribute.name.generic.movement_speed"
       ],
@@ -209,6 +233,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.5,
+          "height": 1.975,
+          "eye_height": 1.7775,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.5,
+          "height": 1.975,
+          "eye_height": 1.7775,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.5,
+          "height": 1.975,
+          "eye_height": 1.7775,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.5,
+          "height": 1.975,
+          "eye_height": 1.7775,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.5,
           "height": 1.975,
           "eye_height": 1.7775,
@@ -400,6 +448,30 @@
           "height": 0.5,
           "eye_height": 0.13,
           "fixed": false
+        },
+        "roaring": {
+          "width": 0.5,
+          "height": 0.5,
+          "eye_height": 0.13,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.5,
+          "height": 0.5,
+          "eye_height": 0.13,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.5,
+          "height": 0.5,
+          "eye_height": 0.13,
+          "fixed": false
+        },
+        "digging": {
+          "width": 0.5,
+          "height": 0.5,
+          "eye_height": 0.13,
+          "fixed": false
         }
       },
       "data_tracker": [
@@ -472,14 +544,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.max_health",
-        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_knockback",
-        "attribute.name.generic.attack_damage"
+        "attribute.name.generic.max_health",
+        "attribute.name.generic.attack_damage",
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -537,6 +609,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.75,
+          "height": 0.42,
+          "eye_height": 0.2751,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.75,
+          "height": 0.42,
+          "eye_height": 0.2751,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.75,
+          "height": 0.42,
+          "eye_height": 0.2751,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.75,
+          "height": 0.42,
+          "eye_height": 0.2751,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.75,
           "height": 0.42,
           "eye_height": 0.2751,
@@ -658,13 +754,13 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
+        "attribute.name.generic.attack_knockback",
         "attribute.name.generic.max_health",
         "attribute.name.generic.movement_speed",
-        "attribute.name.generic.attack_knockback"
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -722,6 +818,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.5,
+          "height": 0.9,
+          "eye_height": 0.45,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.5,
+          "height": 0.9,
+          "eye_height": 0.45,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.5,
+          "height": 0.9,
+          "eye_height": 0.45,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.5,
+          "height": 0.9,
+          "eye_height": 0.45,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.5,
           "height": 0.9,
           "eye_height": 0.45,
@@ -828,15 +948,15 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.flying_speed",
-        "attribute.name.generic.max_health",
-        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_knockback",
-        "attribute.name.generic.attack_damage"
+        "attribute.name.generic.max_health",
+        "attribute.name.generic.attack_damage",
+        "attribute.name.generic.flying_speed",
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -894,6 +1014,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.7,
+          "height": 0.6,
+          "eye_height": 0.3,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.7,
+          "height": 0.6,
+          "eye_height": 0.3,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.7,
+          "height": 0.6,
+          "eye_height": 0.3,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.7,
+          "height": 0.6,
+          "eye_height": 0.3,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.7,
           "height": 0.6,
           "eye_height": 0.3,
@@ -1010,14 +1154,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.max_health",
-        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_knockback",
-        "attribute.name.generic.attack_damage"
+        "attribute.name.generic.max_health",
+        "attribute.name.generic.attack_damage",
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -1075,6 +1219,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.6,
+          "height": 1.8,
+          "eye_height": 1.53,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.6,
+          "height": 1.8,
+          "eye_height": 1.53,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.6,
+          "height": 1.8,
+          "eye_height": 1.53,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.6,
+          "height": 1.8,
+          "eye_height": 1.53,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.6,
           "height": 1.8,
           "eye_height": 1.53,
@@ -1241,6 +1409,30 @@
           "height": 0.5625,
           "eye_height": 0.5625,
           "fixed": false
+        },
+        "roaring": {
+          "width": 1.375,
+          "height": 0.5625,
+          "eye_height": 0.5625,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 1.375,
+          "height": 0.5625,
+          "eye_height": 0.5625,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 1.375,
+          "height": 0.5625,
+          "eye_height": 0.5625,
+          "fixed": false
+        },
+        "digging": {
+          "width": 1.375,
+          "height": 0.5625,
+          "eye_height": 0.5625,
+          "fixed": false
         }
       },
       "data_tracker": [
@@ -1324,6 +1516,182 @@
   },
   {
     "protocol_id": 8,
+    "identifier": "minecraft:chest_boat",
+    "dimensions": {
+      "width": 1.375,
+      "height": 0.5625,
+      "eye_height": 0.478125,
+      "fixed": false
+    },
+    "attributes": {
+      "attributes": [],
+      "poses": {
+        "standing": {
+          "width": 1.375,
+          "height": 0.5625,
+          "eye_height": 0.5625,
+          "fixed": false
+        },
+        "fall_flying": {
+          "width": 1.375,
+          "height": 0.5625,
+          "eye_height": 0.5625,
+          "fixed": false
+        },
+        "sleeping": {
+          "width": 1.375,
+          "height": 0.5625,
+          "eye_height": 0.5625,
+          "fixed": false
+        },
+        "swimming": {
+          "width": 1.375,
+          "height": 0.5625,
+          "eye_height": 0.5625,
+          "fixed": false
+        },
+        "spin_attack": {
+          "width": 1.375,
+          "height": 0.5625,
+          "eye_height": 0.5625,
+          "fixed": false
+        },
+        "crouching": {
+          "width": 1.375,
+          "height": 0.5625,
+          "eye_height": 0.5625,
+          "fixed": false
+        },
+        "long_jumping": {
+          "width": 1.375,
+          "height": 0.5625,
+          "eye_height": 0.5625,
+          "fixed": false
+        },
+        "dying": {
+          "width": 1.375,
+          "height": 0.5625,
+          "eye_height": 0.5625,
+          "fixed": false
+        },
+        "croaking": {
+          "width": 1.375,
+          "height": 0.5625,
+          "eye_height": 0.5625,
+          "fixed": false
+        },
+        "using_tongue": {
+          "width": 1.375,
+          "height": 0.5625,
+          "eye_height": 0.5625,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 1.375,
+          "height": 0.5625,
+          "eye_height": 0.5625,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 1.375,
+          "height": 0.5625,
+          "eye_height": 0.5625,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 1.375,
+          "height": 0.5625,
+          "eye_height": 0.5625,
+          "fixed": false
+        },
+        "digging": {
+          "width": 1.375,
+          "height": 0.5625,
+          "eye_height": 0.5625,
+          "fixed": false
+        }
+      },
+      "data_tracker": [
+        {
+          "name": "DATA_ID_HURT",
+          "id": 8,
+          "type": 1
+        },
+        {
+          "name": "DATA_ID_HURTDIR",
+          "id": 9,
+          "type": 1
+        },
+        {
+          "name": "DATA_ID_DAMAGE",
+          "id": 10,
+          "type": 2
+        },
+        {
+          "name": "DATA_ID_TYPE",
+          "id": 11,
+          "type": 1
+        },
+        {
+          "name": "DATA_ID_PADDLE_LEFT",
+          "id": 12,
+          "type": 8
+        },
+        {
+          "name": "DATA_ID_PADDLE_RIGHT",
+          "id": 13,
+          "type": 8
+        },
+        {
+          "name": "DATA_ID_BUBBLE_TIME",
+          "id": 14,
+          "type": 1
+        },
+        {
+          "name": "DATA_SHARED_FLAGS_ID",
+          "id": 0,
+          "type": 0
+        },
+        {
+          "name": "DATA_AIR_SUPPLY_ID",
+          "id": 1,
+          "type": 1
+        },
+        {
+          "name": "DATA_CUSTOM_NAME",
+          "id": 2,
+          "type": 5
+        },
+        {
+          "name": "DATA_CUSTOM_NAME_VISIBLE",
+          "id": 3,
+          "type": 8
+        },
+        {
+          "name": "DATA_SILENT",
+          "id": 4,
+          "type": 8
+        },
+        {
+          "name": "DATA_NO_GRAVITY",
+          "id": 5,
+          "type": 8
+        },
+        {
+          "name": "DATA_POSE",
+          "id": 6,
+          "type": 18
+        },
+        {
+          "name": "DATA_TICKS_FROZEN",
+          "id": 7,
+          "type": 1
+        }
+      ]
+    }
+  },
+  {
+    "protocol_id": 9,
     "identifier": "minecraft:cat",
     "dimensions": {
       "width": 0.6,
@@ -1333,14 +1701,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.max_health",
-        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_knockback",
-        "attribute.name.generic.attack_damage"
+        "attribute.name.generic.max_health",
+        "attribute.name.generic.attack_damage",
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -1398,6 +1766,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.6,
+          "height": 0.7,
+          "eye_height": 0.35,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.6,
+          "height": 0.7,
+          "eye_height": 0.35,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.6,
+          "height": 0.7,
+          "eye_height": 0.35,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.6,
+          "height": 0.7,
+          "eye_height": 0.35,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.6,
           "height": 0.7,
           "eye_height": 0.35,
@@ -1524,7 +1916,7 @@
     }
   },
   {
-    "protocol_id": 9,
+    "protocol_id": 10,
     "identifier": "minecraft:cave_spider",
     "dimensions": {
       "width": 0.7,
@@ -1534,14 +1926,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.max_health",
-        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_knockback",
-        "attribute.name.generic.attack_damage"
+        "attribute.name.generic.max_health",
+        "attribute.name.generic.attack_damage",
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -1599,6 +1991,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.7,
+          "height": 0.5,
+          "eye_height": 0.45,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.7,
+          "height": 0.5,
+          "eye_height": 0.45,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.7,
+          "height": 0.5,
+          "eye_height": 0.45,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.7,
+          "height": 0.5,
+          "eye_height": 0.45,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.7,
           "height": 0.5,
           "eye_height": 0.45,
@@ -1695,7 +2111,7 @@
     }
   },
   {
-    "protocol_id": 10,
+    "protocol_id": 11,
     "identifier": "minecraft:chicken",
     "dimensions": {
       "width": 0.4,
@@ -1705,13 +2121,13 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
+        "attribute.name.generic.attack_knockback",
         "attribute.name.generic.max_health",
         "attribute.name.generic.movement_speed",
-        "attribute.name.generic.attack_knockback"
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -1769,6 +2185,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.4,
+          "height": 0.7,
+          "eye_height": 0.644,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.4,
+          "height": 0.7,
+          "eye_height": 0.644,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.4,
+          "height": 0.7,
+          "eye_height": 0.644,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.4,
+          "height": 0.7,
+          "eye_height": 0.644,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.4,
           "height": 0.7,
           "eye_height": 0.644,
@@ -1865,7 +2305,7 @@
     }
   },
   {
-    "protocol_id": 11,
+    "protocol_id": 12,
     "identifier": "minecraft:cod",
     "dimensions": {
       "width": 0.5,
@@ -1875,13 +2315,13 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
+        "attribute.name.generic.attack_knockback",
         "attribute.name.generic.max_health",
         "attribute.name.generic.movement_speed",
-        "attribute.name.generic.attack_knockback"
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -1939,6 +2379,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.5,
+          "height": 0.3,
+          "eye_height": 0.19500001,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.5,
+          "height": 0.3,
+          "eye_height": 0.19500001,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.5,
+          "height": 0.3,
+          "eye_height": 0.19500001,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.5,
+          "height": 0.3,
+          "eye_height": 0.19500001,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.5,
           "height": 0.3,
           "eye_height": 0.19500001,
@@ -2035,7 +2499,7 @@
     }
   },
   {
-    "protocol_id": 12,
+    "protocol_id": 13,
     "identifier": "minecraft:cow",
     "dimensions": {
       "width": 0.9,
@@ -2045,13 +2509,13 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
+        "attribute.name.generic.attack_knockback",
         "attribute.name.generic.max_health",
         "attribute.name.generic.movement_speed",
-        "attribute.name.generic.attack_knockback"
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -2109,6 +2573,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.9,
+          "height": 1.4,
+          "eye_height": 1.3,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.9,
+          "height": 1.4,
+          "eye_height": 1.3,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.9,
+          "height": 1.4,
+          "eye_height": 1.3,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.9,
+          "height": 1.4,
+          "eye_height": 1.3,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.9,
           "height": 1.4,
           "eye_height": 1.3,
@@ -2205,7 +2693,7 @@
     }
   },
   {
-    "protocol_id": 13,
+    "protocol_id": 14,
     "identifier": "minecraft:creeper",
     "dimensions": {
       "width": 0.6,
@@ -2215,14 +2703,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.max_health",
-        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_knockback",
-        "attribute.name.generic.attack_damage"
+        "attribute.name.generic.max_health",
+        "attribute.name.generic.attack_damage",
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -2280,6 +2768,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.6,
+          "height": 1.7,
+          "eye_height": 1.445,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.6,
+          "height": 1.7,
+          "eye_height": 1.445,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.6,
+          "height": 1.7,
+          "eye_height": 1.445,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.6,
+          "height": 1.7,
+          "eye_height": 1.445,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.6,
           "height": 1.7,
           "eye_height": 1.445,
@@ -2386,7 +2898,7 @@
     }
   },
   {
-    "protocol_id": 14,
+    "protocol_id": 15,
     "identifier": "minecraft:dolphin",
     "dimensions": {
       "width": 0.9,
@@ -2396,14 +2908,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.max_health",
-        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_knockback",
-        "attribute.name.generic.attack_damage"
+        "attribute.name.generic.max_health",
+        "attribute.name.generic.attack_damage",
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -2461,6 +2973,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.9,
+          "height": 0.6,
+          "eye_height": 0.3,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.9,
+          "height": 0.6,
+          "eye_height": 0.3,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.9,
+          "height": 0.6,
+          "eye_height": 0.3,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.9,
+          "height": 0.6,
+          "eye_height": 0.3,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.9,
           "height": 0.6,
           "eye_height": 0.3,
@@ -2567,7 +3103,7 @@
     }
   },
   {
-    "protocol_id": 15,
+    "protocol_id": 16,
     "identifier": "minecraft:donkey",
     "dimensions": {
       "width": 1.3964844,
@@ -2577,14 +3113,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
-        "attribute.name.horse.jump_strength",
+        "attribute.name.generic.attack_knockback",
         "attribute.name.generic.max_health",
         "attribute.name.generic.movement_speed",
-        "attribute.name.generic.attack_knockback"
+        "attribute.name.generic.follow_range",
+        "attribute.name.horse.jump_strength"
       ],
       "poses": {
         "standing": {
@@ -2642,6 +3178,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 1.3964844,
+          "height": 1.5,
+          "eye_height": 1.425,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 1.3964844,
+          "height": 1.5,
+          "eye_height": 1.425,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 1.3964844,
+          "height": 1.5,
+          "eye_height": 1.425,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 1.3964844,
+          "height": 1.5,
+          "eye_height": 1.425,
+          "fixed": false
+        },
+        "digging": {
           "width": 1.3964844,
           "height": 1.5,
           "eye_height": 1.425,
@@ -2753,7 +3313,7 @@
     }
   },
   {
-    "protocol_id": 16,
+    "protocol_id": 17,
     "identifier": "minecraft:dragon_fireball",
     "dimensions": {
       "width": 1.0,
@@ -2823,6 +3383,30 @@
           "height": 1.0,
           "eye_height": 0.85,
           "fixed": false
+        },
+        "roaring": {
+          "width": 1.0,
+          "height": 1.0,
+          "eye_height": 0.85,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 1.0,
+          "height": 1.0,
+          "eye_height": 0.85,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 1.0,
+          "height": 1.0,
+          "eye_height": 0.85,
+          "fixed": false
+        },
+        "digging": {
+          "width": 1.0,
+          "height": 1.0,
+          "eye_height": 0.85,
+          "fixed": false
         }
       },
       "data_tracker": [
@@ -2870,7 +3454,7 @@
     }
   },
   {
-    "protocol_id": 17,
+    "protocol_id": 18,
     "identifier": "minecraft:drowned",
     "dimensions": {
       "width": 0.6,
@@ -2880,15 +3464,15 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
+        "attribute.name.zombie.spawn_reinforcements",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.max_health",
-        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_knockback",
+        "attribute.name.generic.max_health",
         "attribute.name.generic.attack_damage",
-        "attribute.name.zombie.spawn_reinforcements"
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -2946,6 +3530,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.6,
           "height": 1.95,
           "eye_height": 1.74,
@@ -3052,7 +3660,7 @@
     }
   },
   {
-    "protocol_id": 18,
+    "protocol_id": 19,
     "identifier": "minecraft:elder_guardian",
     "dimensions": {
       "width": 1.9975,
@@ -3062,14 +3670,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.max_health",
-        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_knockback",
-        "attribute.name.generic.attack_damage"
+        "attribute.name.generic.max_health",
+        "attribute.name.generic.attack_damage",
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -3127,6 +3735,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 1.9975,
+          "height": 1.9975,
+          "eye_height": 0.99875,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 1.9975,
+          "height": 1.9975,
+          "eye_height": 0.99875,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 1.9975,
+          "height": 1.9975,
+          "eye_height": 0.99875,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 1.9975,
+          "height": 1.9975,
+          "eye_height": 0.99875,
+          "fixed": false
+        },
+        "digging": {
           "width": 1.9975,
           "height": 1.9975,
           "eye_height": 0.99875,
@@ -3228,7 +3860,7 @@
     }
   },
   {
-    "protocol_id": 19,
+    "protocol_id": 20,
     "identifier": "minecraft:end_crystal",
     "dimensions": {
       "width": 2.0,
@@ -3298,6 +3930,30 @@
           "height": 2.0,
           "eye_height": 1.7,
           "fixed": false
+        },
+        "roaring": {
+          "width": 2.0,
+          "height": 2.0,
+          "eye_height": 1.7,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 2.0,
+          "height": 2.0,
+          "eye_height": 1.7,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 2.0,
+          "height": 2.0,
+          "eye_height": 1.7,
+          "fixed": false
+        },
+        "digging": {
+          "width": 2.0,
+          "height": 2.0,
+          "eye_height": 1.7,
+          "fixed": false
         }
       },
       "data_tracker": [
@@ -3355,7 +4011,7 @@
     }
   },
   {
-    "protocol_id": 20,
+    "protocol_id": 21,
     "identifier": "minecraft:ender_dragon",
     "dimensions": {
       "width": 16.0,
@@ -3365,13 +4021,13 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
+        "attribute.name.generic.attack_knockback",
         "attribute.name.generic.max_health",
         "attribute.name.generic.movement_speed",
-        "attribute.name.generic.attack_knockback"
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -3429,6 +4085,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 16.0,
+          "height": 8.0,
+          "eye_height": 6.8,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 16.0,
+          "height": 8.0,
+          "eye_height": 6.8,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 16.0,
+          "height": 8.0,
+          "eye_height": 6.8,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 16.0,
+          "height": 8.0,
+          "eye_height": 6.8,
+          "fixed": false
+        },
+        "digging": {
           "width": 16.0,
           "height": 8.0,
           "eye_height": 6.8,
@@ -3525,7 +4205,7 @@
     }
   },
   {
-    "protocol_id": 21,
+    "protocol_id": 22,
     "identifier": "minecraft:enderman",
     "dimensions": {
       "width": 0.6,
@@ -3535,14 +4215,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.max_health",
-        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_knockback",
-        "attribute.name.generic.attack_damage"
+        "attribute.name.generic.max_health",
+        "attribute.name.generic.attack_damage",
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -3600,6 +4280,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.6,
+          "height": 2.9,
+          "eye_height": 2.55,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.6,
+          "height": 2.9,
+          "eye_height": 2.55,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.6,
+          "height": 2.9,
+          "eye_height": 2.55,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.6,
+          "height": 2.9,
+          "eye_height": 2.55,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.6,
           "height": 2.9,
           "eye_height": 2.55,
@@ -3706,7 +4410,7 @@
     }
   },
   {
-    "protocol_id": 22,
+    "protocol_id": 23,
     "identifier": "minecraft:endermite",
     "dimensions": {
       "width": 0.4,
@@ -3716,14 +4420,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.max_health",
-        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_knockback",
-        "attribute.name.generic.attack_damage"
+        "attribute.name.generic.max_health",
+        "attribute.name.generic.attack_damage",
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -3781,6 +4485,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.4,
+          "height": 0.3,
+          "eye_height": 0.13,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.4,
+          "height": 0.3,
+          "eye_height": 0.13,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.4,
+          "height": 0.3,
+          "eye_height": 0.13,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.4,
+          "height": 0.3,
+          "eye_height": 0.13,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.4,
           "height": 0.3,
           "eye_height": 0.13,
@@ -3872,7 +4600,7 @@
     }
   },
   {
-    "protocol_id": 23,
+    "protocol_id": 24,
     "identifier": "minecraft:evoker",
     "dimensions": {
       "width": 0.6,
@@ -3882,14 +4610,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.max_health",
-        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_knockback",
-        "attribute.name.generic.attack_damage"
+        "attribute.name.generic.max_health",
+        "attribute.name.generic.attack_damage",
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -3947,6 +4675,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.6575,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.6575,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.6575,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.6575,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.6,
           "height": 1.95,
           "eye_height": 1.6575,
@@ -4048,7 +4800,7 @@
     }
   },
   {
-    "protocol_id": 24,
+    "protocol_id": 25,
     "identifier": "minecraft:evoker_fangs",
     "dimensions": {
       "width": 0.5,
@@ -4118,6 +4870,30 @@
           "height": 0.8,
           "eye_height": 0.68,
           "fixed": false
+        },
+        "roaring": {
+          "width": 0.5,
+          "height": 0.8,
+          "eye_height": 0.68,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.5,
+          "height": 0.8,
+          "eye_height": 0.68,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.5,
+          "height": 0.8,
+          "eye_height": 0.68,
+          "fixed": false
+        },
+        "digging": {
+          "width": 0.5,
+          "height": 0.8,
+          "eye_height": 0.68,
+          "fixed": false
         }
       },
       "data_tracker": [
@@ -4165,7 +4941,7 @@
     }
   },
   {
-    "protocol_id": 25,
+    "protocol_id": 26,
     "identifier": "minecraft:experience_orb",
     "dimensions": {
       "width": 0.5,
@@ -4235,6 +5011,30 @@
           "height": 0.5,
           "eye_height": 0.425,
           "fixed": false
+        },
+        "roaring": {
+          "width": 0.5,
+          "height": 0.5,
+          "eye_height": 0.425,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.5,
+          "height": 0.5,
+          "eye_height": 0.425,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.5,
+          "height": 0.5,
+          "eye_height": 0.425,
+          "fixed": false
+        },
+        "digging": {
+          "width": 0.5,
+          "height": 0.5,
+          "eye_height": 0.425,
+          "fixed": false
         }
       },
       "data_tracker": [
@@ -4282,7 +5082,7 @@
     }
   },
   {
-    "protocol_id": 26,
+    "protocol_id": 27,
     "identifier": "minecraft:eye_of_ender",
     "dimensions": {
       "width": 0.25,
@@ -4352,6 +5152,30 @@
           "height": 0.25,
           "eye_height": 0.2125,
           "fixed": false
+        },
+        "roaring": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "digging": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
         }
       },
       "data_tracker": [
@@ -4404,7 +5228,7 @@
     }
   },
   {
-    "protocol_id": 27,
+    "protocol_id": 28,
     "identifier": "minecraft:falling_block",
     "dimensions": {
       "width": 0.98,
@@ -4474,6 +5298,30 @@
           "height": 0.98,
           "eye_height": 0.83300006,
           "fixed": false
+        },
+        "roaring": {
+          "width": 0.98,
+          "height": 0.98,
+          "eye_height": 0.83300006,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.98,
+          "height": 0.98,
+          "eye_height": 0.83300006,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.98,
+          "height": 0.98,
+          "eye_height": 0.83300006,
+          "fixed": false
+        },
+        "digging": {
+          "width": 0.98,
+          "height": 0.98,
+          "eye_height": 0.83300006,
+          "fixed": false
         }
       },
       "data_tracker": [
@@ -4526,7 +5374,7 @@
     }
   },
   {
-    "protocol_id": 28,
+    "protocol_id": 29,
     "identifier": "minecraft:firework_rocket",
     "dimensions": {
       "width": 0.25,
@@ -4596,6 +5444,30 @@
           "height": 0.25,
           "eye_height": 0.2125,
           "fixed": false
+        },
+        "roaring": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "digging": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
         }
       },
       "data_tracker": [
@@ -4658,7 +5530,7 @@
     }
   },
   {
-    "protocol_id": 29,
+    "protocol_id": 30,
     "identifier": "minecraft:fox",
     "dimensions": {
       "width": 0.6,
@@ -4668,14 +5540,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.max_health",
-        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_knockback",
-        "attribute.name.generic.attack_damage"
+        "attribute.name.generic.max_health",
+        "attribute.name.generic.attack_damage",
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -4733,6 +5605,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.6,
+          "height": 0.7,
+          "eye_height": 0.4,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.6,
+          "height": 0.7,
+          "eye_height": 0.4,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.6,
+          "height": 0.7,
+          "eye_height": 0.4,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.6,
+          "height": 0.7,
+          "eye_height": 0.4,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.6,
           "height": 0.7,
           "eye_height": 0.4,
@@ -4849,7 +5745,7 @@
     }
   },
   {
-    "protocol_id": 30,
+    "protocol_id": 31,
     "identifier": "minecraft:frog",
     "dimensions": {
       "width": 0.5,
@@ -4859,13 +5755,13 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
+        "attribute.name.generic.attack_knockback",
         "attribute.name.generic.max_health",
         "attribute.name.generic.movement_speed",
-        "attribute.name.generic.attack_knockback"
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -4923,6 +5819,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.5,
+          "height": 0.5,
+          "eye_height": 0.425,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.5,
+          "height": 0.5,
+          "eye_height": 0.425,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.5,
+          "height": 0.5,
+          "eye_height": 0.425,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.5,
+          "height": 0.5,
+          "eye_height": 0.425,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.5,
           "height": 0.5,
           "eye_height": 0.425,
@@ -5029,7 +5949,7 @@
     }
   },
   {
-    "protocol_id": 31,
+    "protocol_id": 32,
     "identifier": "minecraft:ghast",
     "dimensions": {
       "width": 4.0,
@@ -5039,13 +5959,13 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
+        "attribute.name.generic.attack_knockback",
         "attribute.name.generic.max_health",
         "attribute.name.generic.movement_speed",
-        "attribute.name.generic.attack_knockback"
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -5103,6 +6023,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 4.0,
+          "height": 4.0,
+          "eye_height": 2.6,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 4.0,
+          "height": 4.0,
+          "eye_height": 2.6,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 4.0,
+          "height": 4.0,
+          "eye_height": 2.6,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 4.0,
+          "height": 4.0,
+          "eye_height": 2.6,
+          "fixed": false
+        },
+        "digging": {
           "width": 4.0,
           "height": 4.0,
           "eye_height": 2.6,
@@ -5199,7 +6143,7 @@
     }
   },
   {
-    "protocol_id": 32,
+    "protocol_id": 33,
     "identifier": "minecraft:giant",
     "dimensions": {
       "width": 3.6,
@@ -5209,14 +6153,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.max_health",
-        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_knockback",
-        "attribute.name.generic.attack_damage"
+        "attribute.name.generic.max_health",
+        "attribute.name.generic.attack_damage",
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -5274,6 +6218,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 3.6,
+          "height": 12.0,
+          "eye_height": 10.440001,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 3.6,
+          "height": 12.0,
+          "eye_height": 10.440001,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 3.6,
+          "height": 12.0,
+          "eye_height": 10.440001,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 3.6,
+          "height": 12.0,
+          "eye_height": 10.440001,
+          "fixed": false
+        },
+        "digging": {
           "width": 3.6,
           "height": 12.0,
           "eye_height": 10.440001,
@@ -5365,7 +6333,7 @@
     }
   },
   {
-    "protocol_id": 33,
+    "protocol_id": 34,
     "identifier": "minecraft:glow_item_frame",
     "dimensions": {
       "width": 0.5,
@@ -5435,6 +6403,30 @@
           "height": 0.5,
           "eye_height": 0.0,
           "fixed": false
+        },
+        "roaring": {
+          "width": 0.5,
+          "height": 0.5,
+          "eye_height": 0.0,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.5,
+          "height": 0.5,
+          "eye_height": 0.0,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.5,
+          "height": 0.5,
+          "eye_height": 0.0,
+          "fixed": false
+        },
+        "digging": {
+          "width": 0.5,
+          "height": 0.5,
+          "eye_height": 0.0,
+          "fixed": false
         }
       },
       "data_tracker": [
@@ -5492,7 +6484,7 @@
     }
   },
   {
-    "protocol_id": 34,
+    "protocol_id": 35,
     "identifier": "minecraft:glow_squid",
     "dimensions": {
       "width": 0.8,
@@ -5502,13 +6494,13 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
+        "attribute.name.generic.attack_knockback",
         "attribute.name.generic.max_health",
         "attribute.name.generic.movement_speed",
-        "attribute.name.generic.attack_knockback"
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -5566,6 +6558,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.8,
+          "height": 0.8,
+          "eye_height": 0.4,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.8,
+          "height": 0.8,
+          "eye_height": 0.4,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.8,
+          "height": 0.8,
+          "eye_height": 0.4,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.8,
+          "height": 0.8,
+          "eye_height": 0.4,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.8,
           "height": 0.8,
           "eye_height": 0.4,
@@ -5662,7 +6678,7 @@
     }
   },
   {
-    "protocol_id": 35,
+    "protocol_id": 36,
     "identifier": "minecraft:goat",
     "dimensions": {
       "width": 0.9,
@@ -5672,14 +6688,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.max_health",
-        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_knockback",
-        "attribute.name.generic.attack_damage"
+        "attribute.name.generic.max_health",
+        "attribute.name.generic.attack_damage",
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -5737,6 +6753,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.9,
+          "height": 1.3,
+          "eye_height": 1.105,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.9,
+          "height": 1.3,
+          "eye_height": 1.105,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.9,
+          "height": 1.3,
+          "eye_height": 1.105,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.9,
+          "height": 1.3,
+          "eye_height": 1.105,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.9,
           "height": 1.3,
           "eye_height": 1.105,
@@ -5838,7 +6878,7 @@
     }
   },
   {
-    "protocol_id": 36,
+    "protocol_id": 37,
     "identifier": "minecraft:guardian",
     "dimensions": {
       "width": 0.85,
@@ -5848,14 +6888,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.max_health",
-        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_knockback",
-        "attribute.name.generic.attack_damage"
+        "attribute.name.generic.max_health",
+        "attribute.name.generic.attack_damage",
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -5913,6 +6953,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.85,
+          "height": 0.85,
+          "eye_height": 0.425,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.85,
+          "height": 0.85,
+          "eye_height": 0.425,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.85,
+          "height": 0.85,
+          "eye_height": 0.425,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.85,
+          "height": 0.85,
+          "eye_height": 0.425,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.85,
           "height": 0.85,
           "eye_height": 0.425,
@@ -6014,7 +7078,7 @@
     }
   },
   {
-    "protocol_id": 37,
+    "protocol_id": 38,
     "identifier": "minecraft:hoglin",
     "dimensions": {
       "width": 1.3964844,
@@ -6024,14 +7088,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.max_health",
-        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_knockback",
-        "attribute.name.generic.attack_damage"
+        "attribute.name.generic.max_health",
+        "attribute.name.generic.attack_damage",
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -6089,6 +7153,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 1.3964844,
+          "height": 1.4,
+          "eye_height": 1.19,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 1.3964844,
+          "height": 1.4,
+          "eye_height": 1.19,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 1.3964844,
+          "height": 1.4,
+          "eye_height": 1.19,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 1.3964844,
+          "height": 1.4,
+          "eye_height": 1.19,
+          "fixed": false
+        },
+        "digging": {
           "width": 1.3964844,
           "height": 1.4,
           "eye_height": 1.19,
@@ -6190,7 +7278,7 @@
     }
   },
   {
-    "protocol_id": 38,
+    "protocol_id": 39,
     "identifier": "minecraft:horse",
     "dimensions": {
       "width": 1.3964844,
@@ -6200,14 +7288,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
-        "attribute.name.horse.jump_strength",
+        "attribute.name.generic.attack_knockback",
         "attribute.name.generic.max_health",
         "attribute.name.generic.movement_speed",
-        "attribute.name.generic.attack_knockback"
+        "attribute.name.generic.follow_range",
+        "attribute.name.horse.jump_strength"
       ],
       "poses": {
         "standing": {
@@ -6265,6 +7353,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 1.3964844,
+          "height": 1.6,
+          "eye_height": 1.52,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 1.3964844,
+          "height": 1.6,
+          "eye_height": 1.52,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 1.3964844,
+          "height": 1.6,
+          "eye_height": 1.52,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 1.3964844,
+          "height": 1.6,
+          "eye_height": 1.52,
+          "fixed": false
+        },
+        "digging": {
           "width": 1.3964844,
           "height": 1.6,
           "eye_height": 1.52,
@@ -6376,7 +7488,7 @@
     }
   },
   {
-    "protocol_id": 39,
+    "protocol_id": 40,
     "identifier": "minecraft:husk",
     "dimensions": {
       "width": 0.6,
@@ -6386,15 +7498,15 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
+        "attribute.name.zombie.spawn_reinforcements",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.max_health",
-        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_knockback",
+        "attribute.name.generic.max_health",
         "attribute.name.generic.attack_damage",
-        "attribute.name.zombie.spawn_reinforcements"
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -6452,6 +7564,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.6,
           "height": 1.95,
           "eye_height": 1.74,
@@ -6558,7 +7694,7 @@
     }
   },
   {
-    "protocol_id": 40,
+    "protocol_id": 41,
     "identifier": "minecraft:illusioner",
     "dimensions": {
       "width": 0.6,
@@ -6568,14 +7704,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.max_health",
-        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_knockback",
-        "attribute.name.generic.attack_damage"
+        "attribute.name.generic.max_health",
+        "attribute.name.generic.attack_damage",
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -6633,6 +7769,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.6575,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.6575,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.6575,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.6575,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.6,
           "height": 1.95,
           "eye_height": 1.6575,
@@ -6734,7 +7894,7 @@
     }
   },
   {
-    "protocol_id": 41,
+    "protocol_id": 42,
     "identifier": "minecraft:iron_golem",
     "dimensions": {
       "width": 1.4,
@@ -6744,14 +7904,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.max_health",
-        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_knockback",
-        "attribute.name.generic.attack_damage"
+        "attribute.name.generic.max_health",
+        "attribute.name.generic.attack_damage",
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -6809,6 +7969,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 1.4,
+          "height": 2.7,
+          "eye_height": 2.295,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 1.4,
+          "height": 2.7,
+          "eye_height": 2.295,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 1.4,
+          "height": 2.7,
+          "eye_height": 2.295,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 1.4,
+          "height": 2.7,
+          "eye_height": 2.295,
+          "fixed": false
+        },
+        "digging": {
           "width": 1.4,
           "height": 2.7,
           "eye_height": 2.295,
@@ -6905,7 +8089,7 @@
     }
   },
   {
-    "protocol_id": 42,
+    "protocol_id": 43,
     "identifier": "minecraft:item",
     "dimensions": {
       "width": 0.25,
@@ -6975,6 +8159,30 @@
           "height": 0.25,
           "eye_height": 0.2125,
           "fixed": false
+        },
+        "roaring": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "digging": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
         }
       },
       "data_tracker": [
@@ -7027,7 +8235,7 @@
     }
   },
   {
-    "protocol_id": 43,
+    "protocol_id": 44,
     "identifier": "minecraft:item_frame",
     "dimensions": {
       "width": 0.5,
@@ -7097,6 +8305,30 @@
           "height": 0.5,
           "eye_height": 0.0,
           "fixed": false
+        },
+        "roaring": {
+          "width": 0.5,
+          "height": 0.5,
+          "eye_height": 0.0,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.5,
+          "height": 0.5,
+          "eye_height": 0.0,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.5,
+          "height": 0.5,
+          "eye_height": 0.0,
+          "fixed": false
+        },
+        "digging": {
+          "width": 0.5,
+          "height": 0.5,
+          "eye_height": 0.0,
+          "fixed": false
         }
       },
       "data_tracker": [
@@ -7154,7 +8386,7 @@
     }
   },
   {
-    "protocol_id": 44,
+    "protocol_id": 45,
     "identifier": "minecraft:fireball",
     "dimensions": {
       "width": 1.0,
@@ -7224,6 +8456,30 @@
           "height": 1.0,
           "eye_height": 0.85,
           "fixed": false
+        },
+        "roaring": {
+          "width": 1.0,
+          "height": 1.0,
+          "eye_height": 0.85,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 1.0,
+          "height": 1.0,
+          "eye_height": 0.85,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 1.0,
+          "height": 1.0,
+          "eye_height": 0.85,
+          "fixed": false
+        },
+        "digging": {
+          "width": 1.0,
+          "height": 1.0,
+          "eye_height": 0.85,
+          "fixed": false
         }
       },
       "data_tracker": [
@@ -7276,7 +8532,7 @@
     }
   },
   {
-    "protocol_id": 45,
+    "protocol_id": 46,
     "identifier": "minecraft:leash_knot",
     "dimensions": {
       "width": 0.375,
@@ -7346,6 +8602,30 @@
           "height": 0.5,
           "eye_height": 0.0625,
           "fixed": false
+        },
+        "roaring": {
+          "width": 0.375,
+          "height": 0.5,
+          "eye_height": 0.0625,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.375,
+          "height": 0.5,
+          "eye_height": 0.0625,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.375,
+          "height": 0.5,
+          "eye_height": 0.0625,
+          "fixed": false
+        },
+        "digging": {
+          "width": 0.375,
+          "height": 0.5,
+          "eye_height": 0.0625,
+          "fixed": false
         }
       },
       "data_tracker": [
@@ -7393,7 +8673,7 @@
     }
   },
   {
-    "protocol_id": 46,
+    "protocol_id": 47,
     "identifier": "minecraft:lightning_bolt",
     "dimensions": {
       "width": 0.0,
@@ -7463,6 +8743,30 @@
           "height": 0.0,
           "eye_height": 0.0,
           "fixed": false
+        },
+        "roaring": {
+          "width": 0.0,
+          "height": 0.0,
+          "eye_height": 0.0,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.0,
+          "height": 0.0,
+          "eye_height": 0.0,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.0,
+          "height": 0.0,
+          "eye_height": 0.0,
+          "fixed": false
+        },
+        "digging": {
+          "width": 0.0,
+          "height": 0.0,
+          "eye_height": 0.0,
+          "fixed": false
         }
       },
       "data_tracker": [
@@ -7510,7 +8814,7 @@
     }
   },
   {
-    "protocol_id": 47,
+    "protocol_id": 48,
     "identifier": "minecraft:llama",
     "dimensions": {
       "width": 0.9,
@@ -7520,14 +8824,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
-        "attribute.name.horse.jump_strength",
+        "attribute.name.generic.attack_knockback",
         "attribute.name.generic.max_health",
         "attribute.name.generic.movement_speed",
-        "attribute.name.generic.attack_knockback"
+        "attribute.name.generic.follow_range",
+        "attribute.name.horse.jump_strength"
       ],
       "poses": {
         "standing": {
@@ -7585,6 +8889,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.9,
+          "height": 1.87,
+          "eye_height": 1.7765,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.9,
+          "height": 1.87,
+          "eye_height": 1.7765,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.9,
+          "height": 1.87,
+          "eye_height": 1.7765,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.9,
+          "height": 1.87,
+          "eye_height": 1.7765,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.9,
           "height": 1.87,
           "eye_height": 1.7765,
@@ -7711,7 +9039,7 @@
     }
   },
   {
-    "protocol_id": 48,
+    "protocol_id": 49,
     "identifier": "minecraft:llama_spit",
     "dimensions": {
       "width": 0.25,
@@ -7781,6 +9109,30 @@
           "height": 0.25,
           "eye_height": 0.2125,
           "fixed": false
+        },
+        "roaring": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "digging": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
         }
       },
       "data_tracker": [
@@ -7828,7 +9180,7 @@
     }
   },
   {
-    "protocol_id": 49,
+    "protocol_id": 50,
     "identifier": "minecraft:magma_cube",
     "dimensions": {
       "width": 2.04,
@@ -7838,14 +9190,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.max_health",
-        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_knockback",
-        "attribute.name.generic.attack_damage"
+        "attribute.name.generic.max_health",
+        "attribute.name.generic.attack_damage",
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -7903,6 +9255,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.52019995,
+          "height": 0.52019995,
+          "eye_height": 0.32512498,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.52019995,
+          "height": 0.52019995,
+          "eye_height": 0.32512498,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.52019995,
+          "height": 0.52019995,
+          "eye_height": 0.32512498,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.52019995,
+          "height": 0.52019995,
+          "eye_height": 0.32512498,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.52019995,
           "height": 0.52019995,
           "eye_height": 0.32512498,
@@ -7999,7 +9375,7 @@
     }
   },
   {
-    "protocol_id": 50,
+    "protocol_id": 51,
     "identifier": "minecraft:marker",
     "dimensions": {
       "width": 0.0,
@@ -8069,6 +9445,30 @@
           "height": 0.0,
           "eye_height": 0.0,
           "fixed": false
+        },
+        "roaring": {
+          "width": 0.0,
+          "height": 0.0,
+          "eye_height": 0.0,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.0,
+          "height": 0.0,
+          "eye_height": 0.0,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.0,
+          "height": 0.0,
+          "eye_height": 0.0,
+          "fixed": false
+        },
+        "digging": {
+          "width": 0.0,
+          "height": 0.0,
+          "eye_height": 0.0,
+          "fixed": false
         }
       },
       "data_tracker": [
@@ -8116,7 +9516,7 @@
     }
   },
   {
-    "protocol_id": 51,
+    "protocol_id": 52,
     "identifier": "minecraft:minecart",
     "dimensions": {
       "width": 0.98,
@@ -8186,149 +9586,26 @@
           "height": 0.7,
           "eye_height": 0.595,
           "fixed": false
-        }
-      },
-      "data_tracker": [
-        {
-          "name": "DATA_ID_HURT",
-          "id": 8,
-          "type": 1
         },
-        {
-          "name": "DATA_ID_HURTDIR",
-          "id": 9,
-          "type": 1
-        },
-        {
-          "name": "DATA_ID_DAMAGE",
-          "id": 10,
-          "type": 2
-        },
-        {
-          "name": "DATA_ID_DISPLAY_BLOCK",
-          "id": 11,
-          "type": 1
-        },
-        {
-          "name": "DATA_ID_DISPLAY_OFFSET",
-          "id": 12,
-          "type": 1
-        },
-        {
-          "name": "DATA_ID_CUSTOM_DISPLAY",
-          "id": 13,
-          "type": 8
-        },
-        {
-          "name": "DATA_SHARED_FLAGS_ID",
-          "id": 0,
-          "type": 0
-        },
-        {
-          "name": "DATA_AIR_SUPPLY_ID",
-          "id": 1,
-          "type": 1
-        },
-        {
-          "name": "DATA_CUSTOM_NAME",
-          "id": 2,
-          "type": 5
-        },
-        {
-          "name": "DATA_CUSTOM_NAME_VISIBLE",
-          "id": 3,
-          "type": 8
-        },
-        {
-          "name": "DATA_SILENT",
-          "id": 4,
-          "type": 8
-        },
-        {
-          "name": "DATA_NO_GRAVITY",
-          "id": 5,
-          "type": 8
-        },
-        {
-          "name": "DATA_POSE",
-          "id": 6,
-          "type": 18
-        },
-        {
-          "name": "DATA_TICKS_FROZEN",
-          "id": 7,
-          "type": 1
-        }
-      ]
-    }
-  },
-  {
-    "protocol_id": 52,
-    "identifier": "minecraft:chest_minecart",
-    "dimensions": {
-      "width": 0.98,
-      "height": 0.7,
-      "eye_height": 0.595,
-      "fixed": false
-    },
-    "attributes": {
-      "attributes": [],
-      "poses": {
-        "standing": {
+        "roaring": {
           "width": 0.98,
           "height": 0.7,
           "eye_height": 0.595,
           "fixed": false
         },
-        "fall_flying": {
+        "sniffing": {
           "width": 0.98,
           "height": 0.7,
           "eye_height": 0.595,
           "fixed": false
         },
-        "sleeping": {
+        "emerging": {
           "width": 0.98,
           "height": 0.7,
           "eye_height": 0.595,
           "fixed": false
         },
-        "swimming": {
-          "width": 0.98,
-          "height": 0.7,
-          "eye_height": 0.595,
-          "fixed": false
-        },
-        "spin_attack": {
-          "width": 0.98,
-          "height": 0.7,
-          "eye_height": 0.595,
-          "fixed": false
-        },
-        "crouching": {
-          "width": 0.98,
-          "height": 0.7,
-          "eye_height": 0.595,
-          "fixed": false
-        },
-        "long_jumping": {
-          "width": 0.98,
-          "height": 0.7,
-          "eye_height": 0.595,
-          "fixed": false
-        },
-        "dying": {
-          "width": 0.98,
-          "height": 0.7,
-          "eye_height": 0.595,
-          "fixed": false
-        },
-        "croaking": {
-          "width": 0.98,
-          "height": 0.7,
-          "eye_height": 0.595,
-          "fixed": false
-        },
-        "using_tongue": {
+        "digging": {
           "width": 0.98,
           "height": 0.7,
           "eye_height": 0.595,
@@ -8411,6 +9688,177 @@
   },
   {
     "protocol_id": 53,
+    "identifier": "minecraft:chest_minecart",
+    "dimensions": {
+      "width": 0.98,
+      "height": 0.7,
+      "eye_height": 0.595,
+      "fixed": false
+    },
+    "attributes": {
+      "attributes": [],
+      "poses": {
+        "standing": {
+          "width": 0.98,
+          "height": 0.7,
+          "eye_height": 0.595,
+          "fixed": false
+        },
+        "fall_flying": {
+          "width": 0.98,
+          "height": 0.7,
+          "eye_height": 0.595,
+          "fixed": false
+        },
+        "sleeping": {
+          "width": 0.98,
+          "height": 0.7,
+          "eye_height": 0.595,
+          "fixed": false
+        },
+        "swimming": {
+          "width": 0.98,
+          "height": 0.7,
+          "eye_height": 0.595,
+          "fixed": false
+        },
+        "spin_attack": {
+          "width": 0.98,
+          "height": 0.7,
+          "eye_height": 0.595,
+          "fixed": false
+        },
+        "crouching": {
+          "width": 0.98,
+          "height": 0.7,
+          "eye_height": 0.595,
+          "fixed": false
+        },
+        "long_jumping": {
+          "width": 0.98,
+          "height": 0.7,
+          "eye_height": 0.595,
+          "fixed": false
+        },
+        "dying": {
+          "width": 0.98,
+          "height": 0.7,
+          "eye_height": 0.595,
+          "fixed": false
+        },
+        "croaking": {
+          "width": 0.98,
+          "height": 0.7,
+          "eye_height": 0.595,
+          "fixed": false
+        },
+        "using_tongue": {
+          "width": 0.98,
+          "height": 0.7,
+          "eye_height": 0.595,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.98,
+          "height": 0.7,
+          "eye_height": 0.595,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.98,
+          "height": 0.7,
+          "eye_height": 0.595,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.98,
+          "height": 0.7,
+          "eye_height": 0.595,
+          "fixed": false
+        },
+        "digging": {
+          "width": 0.98,
+          "height": 0.7,
+          "eye_height": 0.595,
+          "fixed": false
+        }
+      },
+      "data_tracker": [
+        {
+          "name": "DATA_ID_HURT",
+          "id": 8,
+          "type": 1
+        },
+        {
+          "name": "DATA_ID_HURTDIR",
+          "id": 9,
+          "type": 1
+        },
+        {
+          "name": "DATA_ID_DAMAGE",
+          "id": 10,
+          "type": 2
+        },
+        {
+          "name": "DATA_ID_DISPLAY_BLOCK",
+          "id": 11,
+          "type": 1
+        },
+        {
+          "name": "DATA_ID_DISPLAY_OFFSET",
+          "id": 12,
+          "type": 1
+        },
+        {
+          "name": "DATA_ID_CUSTOM_DISPLAY",
+          "id": 13,
+          "type": 8
+        },
+        {
+          "name": "DATA_SHARED_FLAGS_ID",
+          "id": 0,
+          "type": 0
+        },
+        {
+          "name": "DATA_AIR_SUPPLY_ID",
+          "id": 1,
+          "type": 1
+        },
+        {
+          "name": "DATA_CUSTOM_NAME",
+          "id": 2,
+          "type": 5
+        },
+        {
+          "name": "DATA_CUSTOM_NAME_VISIBLE",
+          "id": 3,
+          "type": 8
+        },
+        {
+          "name": "DATA_SILENT",
+          "id": 4,
+          "type": 8
+        },
+        {
+          "name": "DATA_NO_GRAVITY",
+          "id": 5,
+          "type": 8
+        },
+        {
+          "name": "DATA_POSE",
+          "id": 6,
+          "type": 18
+        },
+        {
+          "name": "DATA_TICKS_FROZEN",
+          "id": 7,
+          "type": 1
+        }
+      ]
+    }
+  },
+  {
+    "protocol_id": 54,
     "identifier": "minecraft:command_block_minecart",
     "dimensions": {
       "width": 0.98,
@@ -8476,6 +9924,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.98,
+          "height": 0.7,
+          "eye_height": 0.595,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.98,
+          "height": 0.7,
+          "eye_height": 0.595,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.98,
+          "height": 0.7,
+          "eye_height": 0.595,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.98,
+          "height": 0.7,
+          "eye_height": 0.595,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.98,
           "height": 0.7,
           "eye_height": 0.595,
@@ -8567,7 +10039,7 @@
     }
   },
   {
-    "protocol_id": 54,
+    "protocol_id": 55,
     "identifier": "minecraft:furnace_minecart",
     "dimensions": {
       "width": 0.98,
@@ -8633,6 +10105,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.98,
+          "height": 0.7,
+          "eye_height": 0.595,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.98,
+          "height": 0.7,
+          "eye_height": 0.595,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.98,
+          "height": 0.7,
+          "eye_height": 0.595,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.98,
+          "height": 0.7,
+          "eye_height": 0.595,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.98,
           "height": 0.7,
           "eye_height": 0.595,
@@ -8719,7 +10215,7 @@
     }
   },
   {
-    "protocol_id": 55,
+    "protocol_id": 56,
     "identifier": "minecraft:hopper_minecart",
     "dimensions": {
       "width": 0.98,
@@ -8789,149 +10285,26 @@
           "height": 0.7,
           "eye_height": 0.595,
           "fixed": false
-        }
-      },
-      "data_tracker": [
-        {
-          "name": "DATA_ID_HURT",
-          "id": 8,
-          "type": 1
         },
-        {
-          "name": "DATA_ID_HURTDIR",
-          "id": 9,
-          "type": 1
-        },
-        {
-          "name": "DATA_ID_DAMAGE",
-          "id": 10,
-          "type": 2
-        },
-        {
-          "name": "DATA_ID_DISPLAY_BLOCK",
-          "id": 11,
-          "type": 1
-        },
-        {
-          "name": "DATA_ID_DISPLAY_OFFSET",
-          "id": 12,
-          "type": 1
-        },
-        {
-          "name": "DATA_ID_CUSTOM_DISPLAY",
-          "id": 13,
-          "type": 8
-        },
-        {
-          "name": "DATA_SHARED_FLAGS_ID",
-          "id": 0,
-          "type": 0
-        },
-        {
-          "name": "DATA_AIR_SUPPLY_ID",
-          "id": 1,
-          "type": 1
-        },
-        {
-          "name": "DATA_CUSTOM_NAME",
-          "id": 2,
-          "type": 5
-        },
-        {
-          "name": "DATA_CUSTOM_NAME_VISIBLE",
-          "id": 3,
-          "type": 8
-        },
-        {
-          "name": "DATA_SILENT",
-          "id": 4,
-          "type": 8
-        },
-        {
-          "name": "DATA_NO_GRAVITY",
-          "id": 5,
-          "type": 8
-        },
-        {
-          "name": "DATA_POSE",
-          "id": 6,
-          "type": 18
-        },
-        {
-          "name": "DATA_TICKS_FROZEN",
-          "id": 7,
-          "type": 1
-        }
-      ]
-    }
-  },
-  {
-    "protocol_id": 56,
-    "identifier": "minecraft:spawner_minecart",
-    "dimensions": {
-      "width": 0.98,
-      "height": 0.7,
-      "eye_height": 0.595,
-      "fixed": false
-    },
-    "attributes": {
-      "attributes": [],
-      "poses": {
-        "standing": {
+        "roaring": {
           "width": 0.98,
           "height": 0.7,
           "eye_height": 0.595,
           "fixed": false
         },
-        "fall_flying": {
+        "sniffing": {
           "width": 0.98,
           "height": 0.7,
           "eye_height": 0.595,
           "fixed": false
         },
-        "sleeping": {
+        "emerging": {
           "width": 0.98,
           "height": 0.7,
           "eye_height": 0.595,
           "fixed": false
         },
-        "swimming": {
-          "width": 0.98,
-          "height": 0.7,
-          "eye_height": 0.595,
-          "fixed": false
-        },
-        "spin_attack": {
-          "width": 0.98,
-          "height": 0.7,
-          "eye_height": 0.595,
-          "fixed": false
-        },
-        "crouching": {
-          "width": 0.98,
-          "height": 0.7,
-          "eye_height": 0.595,
-          "fixed": false
-        },
-        "long_jumping": {
-          "width": 0.98,
-          "height": 0.7,
-          "eye_height": 0.595,
-          "fixed": false
-        },
-        "dying": {
-          "width": 0.98,
-          "height": 0.7,
-          "eye_height": 0.595,
-          "fixed": false
-        },
-        "croaking": {
-          "width": 0.98,
-          "height": 0.7,
-          "eye_height": 0.595,
-          "fixed": false
-        },
-        "using_tongue": {
+        "digging": {
           "width": 0.98,
           "height": 0.7,
           "eye_height": 0.595,
@@ -9014,7 +10387,7 @@
   },
   {
     "protocol_id": 57,
-    "identifier": "minecraft:tnt_minecart",
+    "identifier": "minecraft:spawner_minecart",
     "dimensions": {
       "width": 0.98,
       "height": 0.7,
@@ -9079,6 +10452,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.98,
+          "height": 0.7,
+          "eye_height": 0.595,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.98,
+          "height": 0.7,
+          "eye_height": 0.595,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.98,
+          "height": 0.7,
+          "eye_height": 0.595,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.98,
+          "height": 0.7,
+          "eye_height": 0.595,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.98,
           "height": 0.7,
           "eye_height": 0.595,
@@ -9161,6 +10558,177 @@
   },
   {
     "protocol_id": 58,
+    "identifier": "minecraft:tnt_minecart",
+    "dimensions": {
+      "width": 0.98,
+      "height": 0.7,
+      "eye_height": 0.595,
+      "fixed": false
+    },
+    "attributes": {
+      "attributes": [],
+      "poses": {
+        "standing": {
+          "width": 0.98,
+          "height": 0.7,
+          "eye_height": 0.595,
+          "fixed": false
+        },
+        "fall_flying": {
+          "width": 0.98,
+          "height": 0.7,
+          "eye_height": 0.595,
+          "fixed": false
+        },
+        "sleeping": {
+          "width": 0.98,
+          "height": 0.7,
+          "eye_height": 0.595,
+          "fixed": false
+        },
+        "swimming": {
+          "width": 0.98,
+          "height": 0.7,
+          "eye_height": 0.595,
+          "fixed": false
+        },
+        "spin_attack": {
+          "width": 0.98,
+          "height": 0.7,
+          "eye_height": 0.595,
+          "fixed": false
+        },
+        "crouching": {
+          "width": 0.98,
+          "height": 0.7,
+          "eye_height": 0.595,
+          "fixed": false
+        },
+        "long_jumping": {
+          "width": 0.98,
+          "height": 0.7,
+          "eye_height": 0.595,
+          "fixed": false
+        },
+        "dying": {
+          "width": 0.98,
+          "height": 0.7,
+          "eye_height": 0.595,
+          "fixed": false
+        },
+        "croaking": {
+          "width": 0.98,
+          "height": 0.7,
+          "eye_height": 0.595,
+          "fixed": false
+        },
+        "using_tongue": {
+          "width": 0.98,
+          "height": 0.7,
+          "eye_height": 0.595,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.98,
+          "height": 0.7,
+          "eye_height": 0.595,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.98,
+          "height": 0.7,
+          "eye_height": 0.595,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.98,
+          "height": 0.7,
+          "eye_height": 0.595,
+          "fixed": false
+        },
+        "digging": {
+          "width": 0.98,
+          "height": 0.7,
+          "eye_height": 0.595,
+          "fixed": false
+        }
+      },
+      "data_tracker": [
+        {
+          "name": "DATA_ID_HURT",
+          "id": 8,
+          "type": 1
+        },
+        {
+          "name": "DATA_ID_HURTDIR",
+          "id": 9,
+          "type": 1
+        },
+        {
+          "name": "DATA_ID_DAMAGE",
+          "id": 10,
+          "type": 2
+        },
+        {
+          "name": "DATA_ID_DISPLAY_BLOCK",
+          "id": 11,
+          "type": 1
+        },
+        {
+          "name": "DATA_ID_DISPLAY_OFFSET",
+          "id": 12,
+          "type": 1
+        },
+        {
+          "name": "DATA_ID_CUSTOM_DISPLAY",
+          "id": 13,
+          "type": 8
+        },
+        {
+          "name": "DATA_SHARED_FLAGS_ID",
+          "id": 0,
+          "type": 0
+        },
+        {
+          "name": "DATA_AIR_SUPPLY_ID",
+          "id": 1,
+          "type": 1
+        },
+        {
+          "name": "DATA_CUSTOM_NAME",
+          "id": 2,
+          "type": 5
+        },
+        {
+          "name": "DATA_CUSTOM_NAME_VISIBLE",
+          "id": 3,
+          "type": 8
+        },
+        {
+          "name": "DATA_SILENT",
+          "id": 4,
+          "type": 8
+        },
+        {
+          "name": "DATA_NO_GRAVITY",
+          "id": 5,
+          "type": 8
+        },
+        {
+          "name": "DATA_POSE",
+          "id": 6,
+          "type": 18
+        },
+        {
+          "name": "DATA_TICKS_FROZEN",
+          "id": 7,
+          "type": 1
+        }
+      ]
+    }
+  },
+  {
+    "protocol_id": 59,
     "identifier": "minecraft:mule",
     "dimensions": {
       "width": 1.3964844,
@@ -9170,14 +10738,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
-        "attribute.name.horse.jump_strength",
+        "attribute.name.generic.attack_knockback",
         "attribute.name.generic.max_health",
         "attribute.name.generic.movement_speed",
-        "attribute.name.generic.attack_knockback"
+        "attribute.name.generic.follow_range",
+        "attribute.name.horse.jump_strength"
       ],
       "poses": {
         "standing": {
@@ -9235,6 +10803,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 1.3964844,
+          "height": 1.6,
+          "eye_height": 1.52,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 1.3964844,
+          "height": 1.6,
+          "eye_height": 1.52,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 1.3964844,
+          "height": 1.6,
+          "eye_height": 1.52,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 1.3964844,
+          "height": 1.6,
+          "eye_height": 1.52,
+          "fixed": false
+        },
+        "digging": {
           "width": 1.3964844,
           "height": 1.6,
           "eye_height": 1.52,
@@ -9346,7 +10938,7 @@
     }
   },
   {
-    "protocol_id": 59,
+    "protocol_id": 60,
     "identifier": "minecraft:mooshroom",
     "dimensions": {
       "width": 0.9,
@@ -9356,13 +10948,13 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
+        "attribute.name.generic.attack_knockback",
         "attribute.name.generic.max_health",
         "attribute.name.generic.movement_speed",
-        "attribute.name.generic.attack_knockback"
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -9420,6 +11012,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.9,
+          "height": 1.4,
+          "eye_height": 1.3,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.9,
+          "height": 1.4,
+          "eye_height": 1.3,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.9,
+          "height": 1.4,
+          "eye_height": 1.3,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.9,
+          "height": 1.4,
+          "eye_height": 1.3,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.9,
           "height": 1.4,
           "eye_height": 1.3,
@@ -9521,7 +11137,7 @@
     }
   },
   {
-    "protocol_id": 60,
+    "protocol_id": 61,
     "identifier": "minecraft:ocelot",
     "dimensions": {
       "width": 0.6,
@@ -9531,14 +11147,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.max_health",
-        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_knockback",
-        "attribute.name.generic.attack_damage"
+        "attribute.name.generic.max_health",
+        "attribute.name.generic.attack_damage",
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -9596,6 +11212,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.6,
+          "height": 0.7,
+          "eye_height": 0.595,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.6,
+          "height": 0.7,
+          "eye_height": 0.595,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.6,
+          "height": 0.7,
+          "eye_height": 0.595,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.6,
+          "height": 0.7,
+          "eye_height": 0.595,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.6,
           "height": 0.7,
           "eye_height": 0.595,
@@ -9697,7 +11337,7 @@
     }
   },
   {
-    "protocol_id": 61,
+    "protocol_id": 62,
     "identifier": "minecraft:painting",
     "dimensions": {
       "width": 0.5,
@@ -9767,6 +11407,30 @@
           "height": 0.5,
           "eye_height": 0.425,
           "fixed": false
+        },
+        "roaring": {
+          "width": 0.5,
+          "height": 0.5,
+          "eye_height": 0.425,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.5,
+          "height": 0.5,
+          "eye_height": 0.425,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.5,
+          "height": 0.5,
+          "eye_height": 0.425,
+          "fixed": false
+        },
+        "digging": {
+          "width": 0.5,
+          "height": 0.5,
+          "eye_height": 0.425,
+          "fixed": false
         }
       },
       "data_tracker": [
@@ -9814,7 +11478,7 @@
     }
   },
   {
-    "protocol_id": 62,
+    "protocol_id": 63,
     "identifier": "minecraft:panda",
     "dimensions": {
       "width": 1.3,
@@ -9824,14 +11488,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.max_health",
-        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_knockback",
-        "attribute.name.generic.attack_damage"
+        "attribute.name.generic.max_health",
+        "attribute.name.generic.attack_damage",
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -9889,6 +11553,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 1.3,
+          "height": 1.25,
+          "eye_height": 1.0625,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 1.3,
+          "height": 1.25,
+          "eye_height": 1.0625,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 1.3,
+          "height": 1.25,
+          "eye_height": 1.0625,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 1.3,
+          "height": 1.25,
+          "eye_height": 1.0625,
+          "fixed": false
+        },
+        "digging": {
           "width": 1.3,
           "height": 1.25,
           "eye_height": 1.0625,
@@ -10015,7 +11703,7 @@
     }
   },
   {
-    "protocol_id": 63,
+    "protocol_id": 64,
     "identifier": "minecraft:parrot",
     "dimensions": {
       "width": 0.5,
@@ -10025,14 +11713,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.flying_speed",
+        "attribute.name.generic.attack_knockback",
         "attribute.name.generic.max_health",
+        "attribute.name.generic.flying_speed",
         "attribute.name.generic.movement_speed",
-        "attribute.name.generic.attack_knockback"
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -10090,6 +11778,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.5,
+          "height": 0.9,
+          "eye_height": 0.54,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.5,
+          "height": 0.9,
+          "eye_height": 0.54,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.5,
+          "height": 0.9,
+          "eye_height": 0.54,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.5,
+          "height": 0.9,
+          "eye_height": 0.54,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.5,
           "height": 0.9,
           "eye_height": 0.54,
@@ -10201,7 +11913,7 @@
     }
   },
   {
-    "protocol_id": 64,
+    "protocol_id": 65,
     "identifier": "minecraft:phantom",
     "dimensions": {
       "width": 0.9,
@@ -10211,14 +11923,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.max_health",
-        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_knockback",
-        "attribute.name.generic.attack_damage"
+        "attribute.name.generic.max_health",
+        "attribute.name.generic.attack_damage",
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -10276,6 +11988,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.9,
+          "height": 0.5,
+          "eye_height": 0.175,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.9,
+          "height": 0.5,
+          "eye_height": 0.175,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.9,
+          "height": 0.5,
+          "eye_height": 0.175,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.9,
+          "height": 0.5,
+          "eye_height": 0.175,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.9,
           "height": 0.5,
           "eye_height": 0.175,
@@ -10372,7 +12108,7 @@
     }
   },
   {
-    "protocol_id": 65,
+    "protocol_id": 66,
     "identifier": "minecraft:pig",
     "dimensions": {
       "width": 0.9,
@@ -10382,13 +12118,13 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
+        "attribute.name.generic.attack_knockback",
         "attribute.name.generic.max_health",
         "attribute.name.generic.movement_speed",
-        "attribute.name.generic.attack_knockback"
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -10446,6 +12182,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.9,
+          "height": 0.9,
+          "eye_height": 0.765,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.9,
+          "height": 0.9,
+          "eye_height": 0.765,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.9,
+          "height": 0.9,
+          "eye_height": 0.765,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.9,
+          "height": 0.9,
+          "eye_height": 0.765,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.9,
           "height": 0.9,
           "eye_height": 0.765,
@@ -10552,7 +12312,7 @@
     }
   },
   {
-    "protocol_id": 66,
+    "protocol_id": 67,
     "identifier": "minecraft:piglin",
     "dimensions": {
       "width": 0.6,
@@ -10562,14 +12322,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.max_health",
-        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_knockback",
-        "attribute.name.generic.attack_damage"
+        "attribute.name.generic.max_health",
+        "attribute.name.generic.attack_damage",
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -10627,6 +12387,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.6,
           "height": 1.95,
           "eye_height": 1.74,
@@ -10738,7 +12522,7 @@
     }
   },
   {
-    "protocol_id": 67,
+    "protocol_id": 68,
     "identifier": "minecraft:piglin_brute",
     "dimensions": {
       "width": 0.6,
@@ -10748,14 +12532,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.max_health",
-        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_knockback",
-        "attribute.name.generic.attack_damage"
+        "attribute.name.generic.max_health",
+        "attribute.name.generic.attack_damage",
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -10813,6 +12597,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.6575,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.6575,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.6575,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.6575,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.6,
           "height": 1.95,
           "eye_height": 1.6575,
@@ -10909,7 +12717,7 @@
     }
   },
   {
-    "protocol_id": 68,
+    "protocol_id": 69,
     "identifier": "minecraft:pillager",
     "dimensions": {
       "width": 0.6,
@@ -10919,14 +12727,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.max_health",
-        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_knockback",
-        "attribute.name.generic.attack_damage"
+        "attribute.name.generic.max_health",
+        "attribute.name.generic.attack_damage",
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -10984,6 +12792,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.6575,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.6575,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.6575,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.6575,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.6,
           "height": 1.95,
           "eye_height": 1.6575,
@@ -11085,7 +12917,7 @@
     }
   },
   {
-    "protocol_id": 69,
+    "protocol_id": 70,
     "identifier": "minecraft:polar_bear",
     "dimensions": {
       "width": 1.4,
@@ -11095,14 +12927,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.max_health",
-        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_knockback",
-        "attribute.name.generic.attack_damage"
+        "attribute.name.generic.max_health",
+        "attribute.name.generic.attack_damage",
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -11160,6 +12992,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 1.4,
+          "height": 1.4,
+          "eye_height": 1.19,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 1.4,
+          "height": 1.4,
+          "eye_height": 1.19,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 1.4,
+          "height": 1.4,
+          "eye_height": 1.19,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 1.4,
+          "height": 1.4,
+          "eye_height": 1.19,
+          "fixed": false
+        },
+        "digging": {
           "width": 1.4,
           "height": 1.4,
           "eye_height": 1.19,
@@ -11261,7 +13117,7 @@
     }
   },
   {
-    "protocol_id": 70,
+    "protocol_id": 71,
     "identifier": "minecraft:tnt",
     "dimensions": {
       "width": 0.98,
@@ -11331,6 +13187,30 @@
           "height": 0.98,
           "eye_height": 0.15,
           "fixed": false
+        },
+        "roaring": {
+          "width": 0.98,
+          "height": 0.98,
+          "eye_height": 0.15,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.98,
+          "height": 0.98,
+          "eye_height": 0.15,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.98,
+          "height": 0.98,
+          "eye_height": 0.15,
+          "fixed": false
+        },
+        "digging": {
+          "width": 0.98,
+          "height": 0.98,
+          "eye_height": 0.15,
+          "fixed": false
         }
       },
       "data_tracker": [
@@ -11383,7 +13263,7 @@
     }
   },
   {
-    "protocol_id": 71,
+    "protocol_id": 72,
     "identifier": "minecraft:pufferfish",
     "dimensions": {
       "width": 0.7,
@@ -11393,13 +13273,13 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
+        "attribute.name.generic.attack_knockback",
         "attribute.name.generic.max_health",
         "attribute.name.generic.movement_speed",
-        "attribute.name.generic.attack_knockback"
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -11457,6 +13337,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.35,
+          "height": 0.35,
+          "eye_height": 0.22749999,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.35,
+          "height": 0.35,
+          "eye_height": 0.22749999,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.35,
+          "height": 0.35,
+          "eye_height": 0.22749999,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.35,
+          "height": 0.35,
+          "eye_height": 0.22749999,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.35,
           "height": 0.35,
           "eye_height": 0.22749999,
@@ -11558,7 +13462,7 @@
     }
   },
   {
-    "protocol_id": 72,
+    "protocol_id": 73,
     "identifier": "minecraft:rabbit",
     "dimensions": {
       "width": 0.4,
@@ -11568,13 +13472,13 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
+        "attribute.name.generic.attack_knockback",
         "attribute.name.generic.max_health",
         "attribute.name.generic.movement_speed",
-        "attribute.name.generic.attack_knockback"
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -11632,6 +13536,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.4,
+          "height": 0.5,
+          "eye_height": 0.425,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.4,
+          "height": 0.5,
+          "eye_height": 0.425,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.4,
+          "height": 0.5,
+          "eye_height": 0.425,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.4,
+          "height": 0.5,
+          "eye_height": 0.425,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.4,
           "height": 0.5,
           "eye_height": 0.425,
@@ -11733,7 +13661,7 @@
     }
   },
   {
-    "protocol_id": 73,
+    "protocol_id": 74,
     "identifier": "minecraft:ravager",
     "dimensions": {
       "width": 1.95,
@@ -11743,14 +13671,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.max_health",
-        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_knockback",
-        "attribute.name.generic.attack_damage"
+        "attribute.name.generic.max_health",
+        "attribute.name.generic.attack_damage",
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -11808,6 +13736,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 1.95,
+          "height": 2.2,
+          "eye_height": 1.8700001,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 1.95,
+          "height": 2.2,
+          "eye_height": 1.8700001,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 1.95,
+          "height": 2.2,
+          "eye_height": 1.8700001,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 1.95,
+          "height": 2.2,
+          "eye_height": 1.8700001,
+          "fixed": false
+        },
+        "digging": {
           "width": 1.95,
           "height": 2.2,
           "eye_height": 1.8700001,
@@ -11904,7 +13856,7 @@
     }
   },
   {
-    "protocol_id": 74,
+    "protocol_id": 75,
     "identifier": "minecraft:salmon",
     "dimensions": {
       "width": 0.7,
@@ -11914,13 +13866,13 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
+        "attribute.name.generic.attack_knockback",
         "attribute.name.generic.max_health",
         "attribute.name.generic.movement_speed",
-        "attribute.name.generic.attack_knockback"
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -11978,6 +13930,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.7,
+          "height": 0.4,
+          "eye_height": 0.26,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.7,
+          "height": 0.4,
+          "eye_height": 0.26,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.7,
+          "height": 0.4,
+          "eye_height": 0.26,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.7,
+          "height": 0.4,
+          "eye_height": 0.26,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.7,
           "height": 0.4,
           "eye_height": 0.26,
@@ -12074,7 +14050,7 @@
     }
   },
   {
-    "protocol_id": 75,
+    "protocol_id": 76,
     "identifier": "minecraft:sheep",
     "dimensions": {
       "width": 0.9,
@@ -12084,13 +14060,13 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
+        "attribute.name.generic.attack_knockback",
         "attribute.name.generic.max_health",
         "attribute.name.generic.movement_speed",
-        "attribute.name.generic.attack_knockback"
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -12148,6 +14124,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.9,
+          "height": 1.3,
+          "eye_height": 1.2349999,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.9,
+          "height": 1.3,
+          "eye_height": 1.2349999,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.9,
+          "height": 1.3,
+          "eye_height": 1.2349999,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.9,
+          "height": 1.3,
+          "eye_height": 1.2349999,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.9,
           "height": 1.3,
           "eye_height": 1.2349999,
@@ -12249,7 +14249,7 @@
     }
   },
   {
-    "protocol_id": 76,
+    "protocol_id": 77,
     "identifier": "minecraft:shulker",
     "dimensions": {
       "width": 1.0,
@@ -12259,13 +14259,13 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
+        "attribute.name.generic.attack_knockback",
         "attribute.name.generic.max_health",
         "attribute.name.generic.movement_speed",
-        "attribute.name.generic.attack_knockback"
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -12323,6 +14323,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 1.0,
+          "height": 1.0,
+          "eye_height": 0.5,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 1.0,
+          "height": 1.0,
+          "eye_height": 0.5,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 1.0,
+          "height": 1.0,
+          "eye_height": 0.5,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 1.0,
+          "height": 1.0,
+          "eye_height": 0.5,
+          "fixed": false
+        },
+        "digging": {
           "width": 1.0,
           "height": 1.0,
           "eye_height": 0.5,
@@ -12429,7 +14453,7 @@
     }
   },
   {
-    "protocol_id": 77,
+    "protocol_id": 78,
     "identifier": "minecraft:shulker_bullet",
     "dimensions": {
       "width": 0.3125,
@@ -12499,6 +14523,30 @@
           "height": 0.3125,
           "eye_height": 0.265625,
           "fixed": false
+        },
+        "roaring": {
+          "width": 0.3125,
+          "height": 0.3125,
+          "eye_height": 0.265625,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.3125,
+          "height": 0.3125,
+          "eye_height": 0.265625,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.3125,
+          "height": 0.3125,
+          "eye_height": 0.265625,
+          "fixed": false
+        },
+        "digging": {
+          "width": 0.3125,
+          "height": 0.3125,
+          "eye_height": 0.265625,
+          "fixed": false
         }
       },
       "data_tracker": [
@@ -12546,7 +14594,7 @@
     }
   },
   {
-    "protocol_id": 78,
+    "protocol_id": 79,
     "identifier": "minecraft:silverfish",
     "dimensions": {
       "width": 0.4,
@@ -12556,14 +14604,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.max_health",
-        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_knockback",
-        "attribute.name.generic.attack_damage"
+        "attribute.name.generic.max_health",
+        "attribute.name.generic.attack_damage",
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -12621,6 +14669,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.4,
+          "height": 0.3,
+          "eye_height": 0.13,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.4,
+          "height": 0.3,
+          "eye_height": 0.13,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.4,
+          "height": 0.3,
+          "eye_height": 0.13,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.4,
+          "height": 0.3,
+          "eye_height": 0.13,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.4,
           "height": 0.3,
           "eye_height": 0.13,
@@ -12712,7 +14784,7 @@
     }
   },
   {
-    "protocol_id": 79,
+    "protocol_id": 80,
     "identifier": "minecraft:skeleton",
     "dimensions": {
       "width": 0.6,
@@ -12722,14 +14794,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.max_health",
-        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_knockback",
-        "attribute.name.generic.attack_damage"
+        "attribute.name.generic.max_health",
+        "attribute.name.generic.attack_damage",
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -12787,6 +14859,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.6,
+          "height": 1.99,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.6,
+          "height": 1.99,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.6,
+          "height": 1.99,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.6,
+          "height": 1.99,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.6,
           "height": 1.99,
           "eye_height": 1.74,
@@ -12883,7 +14979,7 @@
     }
   },
   {
-    "protocol_id": 80,
+    "protocol_id": 81,
     "identifier": "minecraft:skeleton_horse",
     "dimensions": {
       "width": 1.3964844,
@@ -12893,14 +14989,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
-        "attribute.name.horse.jump_strength",
+        "attribute.name.generic.attack_knockback",
         "attribute.name.generic.max_health",
         "attribute.name.generic.movement_speed",
-        "attribute.name.generic.attack_knockback"
+        "attribute.name.generic.follow_range",
+        "attribute.name.horse.jump_strength"
       ],
       "poses": {
         "standing": {
@@ -12958,6 +15054,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 1.3964844,
+          "height": 1.6,
+          "eye_height": 1.52,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 1.3964844,
+          "height": 1.6,
+          "eye_height": 1.52,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 1.3964844,
+          "height": 1.6,
+          "eye_height": 1.52,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 1.3964844,
+          "height": 1.6,
+          "eye_height": 1.52,
+          "fixed": false
+        },
+        "digging": {
           "width": 1.3964844,
           "height": 1.6,
           "eye_height": 1.52,
@@ -13064,7 +15184,7 @@
     }
   },
   {
-    "protocol_id": 81,
+    "protocol_id": 82,
     "identifier": "minecraft:slime",
     "dimensions": {
       "width": 2.04,
@@ -13074,14 +15194,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.max_health",
-        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_knockback",
-        "attribute.name.generic.attack_damage"
+        "attribute.name.generic.max_health",
+        "attribute.name.generic.attack_damage",
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -13139,6 +15259,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.52019995,
+          "height": 0.52019995,
+          "eye_height": 0.32512498,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.52019995,
+          "height": 0.52019995,
+          "eye_height": 0.32512498,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.52019995,
+          "height": 0.52019995,
+          "eye_height": 0.32512498,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.52019995,
+          "height": 0.52019995,
+          "eye_height": 0.32512498,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.52019995,
           "height": 0.52019995,
           "eye_height": 0.32512498,
@@ -13235,7 +15379,7 @@
     }
   },
   {
-    "protocol_id": 82,
+    "protocol_id": 83,
     "identifier": "minecraft:small_fireball",
     "dimensions": {
       "width": 0.3125,
@@ -13305,6 +15449,30 @@
           "height": 0.3125,
           "eye_height": 0.265625,
           "fixed": false
+        },
+        "roaring": {
+          "width": 0.3125,
+          "height": 0.3125,
+          "eye_height": 0.265625,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.3125,
+          "height": 0.3125,
+          "eye_height": 0.265625,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.3125,
+          "height": 0.3125,
+          "eye_height": 0.265625,
+          "fixed": false
+        },
+        "digging": {
+          "width": 0.3125,
+          "height": 0.3125,
+          "eye_height": 0.265625,
+          "fixed": false
         }
       },
       "data_tracker": [
@@ -13357,7 +15525,7 @@
     }
   },
   {
-    "protocol_id": 83,
+    "protocol_id": 84,
     "identifier": "minecraft:snow_golem",
     "dimensions": {
       "width": 0.7,
@@ -13367,13 +15535,13 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
+        "attribute.name.generic.attack_knockback",
         "attribute.name.generic.max_health",
         "attribute.name.generic.movement_speed",
-        "attribute.name.generic.attack_knockback"
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -13431,6 +15599,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.7,
+          "height": 1.9,
+          "eye_height": 1.7,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.7,
+          "height": 1.9,
+          "eye_height": 1.7,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.7,
+          "height": 1.9,
+          "eye_height": 1.7,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.7,
+          "height": 1.9,
+          "eye_height": 1.7,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.7,
           "height": 1.9,
           "eye_height": 1.7,
@@ -13527,7 +15719,7 @@
     }
   },
   {
-    "protocol_id": 84,
+    "protocol_id": 85,
     "identifier": "minecraft:snowball",
     "dimensions": {
       "width": 0.25,
@@ -13597,6 +15789,30 @@
           "height": 0.25,
           "eye_height": 0.2125,
           "fixed": false
+        },
+        "roaring": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "digging": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
         }
       },
       "data_tracker": [
@@ -13649,7 +15865,7 @@
     }
   },
   {
-    "protocol_id": 85,
+    "protocol_id": 86,
     "identifier": "minecraft:spectral_arrow",
     "dimensions": {
       "width": 0.5,
@@ -13719,6 +15935,30 @@
           "height": 0.5,
           "eye_height": 0.13,
           "fixed": false
+        },
+        "roaring": {
+          "width": 0.5,
+          "height": 0.5,
+          "eye_height": 0.13,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.5,
+          "height": 0.5,
+          "eye_height": 0.13,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.5,
+          "height": 0.5,
+          "eye_height": 0.13,
+          "fixed": false
+        },
+        "digging": {
+          "width": 0.5,
+          "height": 0.5,
+          "eye_height": 0.13,
+          "fixed": false
         }
       },
       "data_tracker": [
@@ -13776,7 +16016,7 @@
     }
   },
   {
-    "protocol_id": 86,
+    "protocol_id": 87,
     "identifier": "minecraft:spider",
     "dimensions": {
       "width": 1.4,
@@ -13786,14 +16026,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.max_health",
-        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_knockback",
-        "attribute.name.generic.attack_damage"
+        "attribute.name.generic.max_health",
+        "attribute.name.generic.attack_damage",
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -13851,6 +16091,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 1.4,
+          "height": 0.9,
+          "eye_height": 0.65,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 1.4,
+          "height": 0.9,
+          "eye_height": 0.65,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 1.4,
+          "height": 0.9,
+          "eye_height": 0.65,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 1.4,
+          "height": 0.9,
+          "eye_height": 0.65,
+          "fixed": false
+        },
+        "digging": {
           "width": 1.4,
           "height": 0.9,
           "eye_height": 0.65,
@@ -13947,7 +16211,7 @@
     }
   },
   {
-    "protocol_id": 87,
+    "protocol_id": 88,
     "identifier": "minecraft:squid",
     "dimensions": {
       "width": 0.8,
@@ -13957,191 +16221,25 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.max_health",
-        "attribute.name.generic.movement_speed",
-        "attribute.name.generic.attack_knockback"
-      ],
-      "poses": {
-        "standing": {
-          "width": 0.8,
-          "height": 0.8,
-          "eye_height": 0.4,
-          "fixed": false
-        },
-        "fall_flying": {
-          "width": 0.8,
-          "height": 0.8,
-          "eye_height": 0.4,
-          "fixed": false
-        },
-        "sleeping": {
-          "width": 0.2,
-          "height": 0.2,
-          "eye_height": 0.2,
-          "fixed": true
-        },
-        "swimming": {
-          "width": 0.8,
-          "height": 0.8,
-          "eye_height": 0.4,
-          "fixed": false
-        },
-        "spin_attack": {
-          "width": 0.8,
-          "height": 0.8,
-          "eye_height": 0.4,
-          "fixed": false
-        },
-        "crouching": {
-          "width": 0.8,
-          "height": 0.8,
-          "eye_height": 0.4,
-          "fixed": false
-        },
-        "long_jumping": {
-          "width": 0.8,
-          "height": 0.8,
-          "eye_height": 0.4,
-          "fixed": false
-        },
-        "dying": {
-          "width": 0.8,
-          "height": 0.8,
-          "eye_height": 0.4,
-          "fixed": false
-        },
-        "croaking": {
-          "width": 0.8,
-          "height": 0.8,
-          "eye_height": 0.4,
-          "fixed": false
-        },
-        "using_tongue": {
-          "width": 0.8,
-          "height": 0.8,
-          "eye_height": 0.4,
-          "fixed": false
-        }
-      },
-      "data_tracker": [
-        {
-          "name": "DATA_MOB_FLAGS_ID",
-          "id": 15,
-          "type": 0
-        },
-        {
-          "name": "DATA_LIVING_ENTITY_FLAGS",
-          "id": 8,
-          "type": 0
-        },
-        {
-          "name": "DATA_HEALTH_ID",
-          "id": 9,
-          "type": 2
-        },
-        {
-          "name": "DATA_EFFECT_COLOR_ID",
-          "id": 10,
-          "type": 1
-        },
-        {
-          "name": "DATA_EFFECT_AMBIENCE_ID",
-          "id": 11,
-          "type": 8
-        },
-        {
-          "name": "DATA_ARROW_COUNT_ID",
-          "id": 12,
-          "type": 1
-        },
-        {
-          "name": "DATA_STINGER_COUNT_ID",
-          "id": 13,
-          "type": 1
-        },
-        {
-          "name": "SLEEPING_POS_ID",
-          "id": 14,
-          "type": 12
-        },
-        {
-          "name": "DATA_SHARED_FLAGS_ID",
-          "id": 0,
-          "type": 0
-        },
-        {
-          "name": "DATA_AIR_SUPPLY_ID",
-          "id": 1,
-          "type": 1
-        },
-        {
-          "name": "DATA_CUSTOM_NAME",
-          "id": 2,
-          "type": 5
-        },
-        {
-          "name": "DATA_CUSTOM_NAME_VISIBLE",
-          "id": 3,
-          "type": 8
-        },
-        {
-          "name": "DATA_SILENT",
-          "id": 4,
-          "type": 8
-        },
-        {
-          "name": "DATA_NO_GRAVITY",
-          "id": 5,
-          "type": 8
-        },
-        {
-          "name": "DATA_POSE",
-          "id": 6,
-          "type": 18
-        },
-        {
-          "name": "DATA_TICKS_FROZEN",
-          "id": 7,
-          "type": 1
-        }
-      ]
-    }
-  },
-  {
-    "protocol_id": 88,
-    "identifier": "minecraft:stray",
-    "dimensions": {
-      "width": 0.6,
-      "height": 1.99,
-      "eye_height": 1.6915001,
-      "fixed": false
-    },
-    "attributes": {
-      "attributes": [
-        "attribute.name.generic.follow_range",
-        "attribute.name.generic.knockback_resistance",
-        "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.max_health",
-        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_knockback",
-        "attribute.name.generic.attack_damage"
+        "attribute.name.generic.max_health",
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
-          "width": 0.6,
-          "height": 1.99,
-          "eye_height": 1.74,
+          "width": 0.8,
+          "height": 0.8,
+          "eye_height": 0.4,
           "fixed": false
         },
         "fall_flying": {
-          "width": 0.6,
-          "height": 1.99,
-          "eye_height": 1.74,
+          "width": 0.8,
+          "height": 0.8,
+          "eye_height": 0.4,
           "fixed": false
         },
         "sleeping": {
@@ -14151,45 +16249,69 @@
           "fixed": true
         },
         "swimming": {
-          "width": 0.6,
-          "height": 1.99,
-          "eye_height": 1.74,
+          "width": 0.8,
+          "height": 0.8,
+          "eye_height": 0.4,
           "fixed": false
         },
         "spin_attack": {
-          "width": 0.6,
-          "height": 1.99,
-          "eye_height": 1.74,
+          "width": 0.8,
+          "height": 0.8,
+          "eye_height": 0.4,
           "fixed": false
         },
         "crouching": {
-          "width": 0.6,
-          "height": 1.99,
-          "eye_height": 1.74,
+          "width": 0.8,
+          "height": 0.8,
+          "eye_height": 0.4,
           "fixed": false
         },
         "long_jumping": {
-          "width": 0.6,
-          "height": 1.99,
-          "eye_height": 1.74,
+          "width": 0.8,
+          "height": 0.8,
+          "eye_height": 0.4,
           "fixed": false
         },
         "dying": {
-          "width": 0.6,
-          "height": 1.99,
-          "eye_height": 1.74,
+          "width": 0.8,
+          "height": 0.8,
+          "eye_height": 0.4,
           "fixed": false
         },
         "croaking": {
-          "width": 0.6,
-          "height": 1.99,
-          "eye_height": 1.74,
+          "width": 0.8,
+          "height": 0.8,
+          "eye_height": 0.4,
           "fixed": false
         },
         "using_tongue": {
-          "width": 0.6,
-          "height": 1.99,
-          "eye_height": 1.74,
+          "width": 0.8,
+          "height": 0.8,
+          "eye_height": 0.4,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.8,
+          "height": 0.8,
+          "eye_height": 0.4,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.8,
+          "height": 0.8,
+          "eye_height": 0.4,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.8,
+          "height": 0.8,
+          "eye_height": 0.4,
+          "fixed": false
+        },
+        "digging": {
+          "width": 0.8,
+          "height": 0.8,
+          "eye_height": 0.4,
           "fixed": false
         }
       },
@@ -14279,6 +16401,196 @@
   },
   {
     "protocol_id": 89,
+    "identifier": "minecraft:stray",
+    "dimensions": {
+      "width": 0.6,
+      "height": 1.99,
+      "eye_height": 1.6915001,
+      "fixed": false
+    },
+    "attributes": {
+      "attributes": [
+        "attribute.name.generic.armor_toughness",
+        "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.armor",
+        "attribute.name.generic.attack_knockback",
+        "attribute.name.generic.max_health",
+        "attribute.name.generic.attack_damage",
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range"
+      ],
+      "poses": {
+        "standing": {
+          "width": 0.6,
+          "height": 1.99,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "fall_flying": {
+          "width": 0.6,
+          "height": 1.99,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "sleeping": {
+          "width": 0.2,
+          "height": 0.2,
+          "eye_height": 0.2,
+          "fixed": true
+        },
+        "swimming": {
+          "width": 0.6,
+          "height": 1.99,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "spin_attack": {
+          "width": 0.6,
+          "height": 1.99,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "crouching": {
+          "width": 0.6,
+          "height": 1.99,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "long_jumping": {
+          "width": 0.6,
+          "height": 1.99,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "dying": {
+          "width": 0.6,
+          "height": 1.99,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "croaking": {
+          "width": 0.6,
+          "height": 1.99,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "using_tongue": {
+          "width": 0.6,
+          "height": 1.99,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.6,
+          "height": 1.99,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.6,
+          "height": 1.99,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.6,
+          "height": 1.99,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "digging": {
+          "width": 0.6,
+          "height": 1.99,
+          "eye_height": 1.74,
+          "fixed": false
+        }
+      },
+      "data_tracker": [
+        {
+          "name": "DATA_MOB_FLAGS_ID",
+          "id": 15,
+          "type": 0
+        },
+        {
+          "name": "DATA_LIVING_ENTITY_FLAGS",
+          "id": 8,
+          "type": 0
+        },
+        {
+          "name": "DATA_HEALTH_ID",
+          "id": 9,
+          "type": 2
+        },
+        {
+          "name": "DATA_EFFECT_COLOR_ID",
+          "id": 10,
+          "type": 1
+        },
+        {
+          "name": "DATA_EFFECT_AMBIENCE_ID",
+          "id": 11,
+          "type": 8
+        },
+        {
+          "name": "DATA_ARROW_COUNT_ID",
+          "id": 12,
+          "type": 1
+        },
+        {
+          "name": "DATA_STINGER_COUNT_ID",
+          "id": 13,
+          "type": 1
+        },
+        {
+          "name": "SLEEPING_POS_ID",
+          "id": 14,
+          "type": 12
+        },
+        {
+          "name": "DATA_SHARED_FLAGS_ID",
+          "id": 0,
+          "type": 0
+        },
+        {
+          "name": "DATA_AIR_SUPPLY_ID",
+          "id": 1,
+          "type": 1
+        },
+        {
+          "name": "DATA_CUSTOM_NAME",
+          "id": 2,
+          "type": 5
+        },
+        {
+          "name": "DATA_CUSTOM_NAME_VISIBLE",
+          "id": 3,
+          "type": 8
+        },
+        {
+          "name": "DATA_SILENT",
+          "id": 4,
+          "type": 8
+        },
+        {
+          "name": "DATA_NO_GRAVITY",
+          "id": 5,
+          "type": 8
+        },
+        {
+          "name": "DATA_POSE",
+          "id": 6,
+          "type": 18
+        },
+        {
+          "name": "DATA_TICKS_FROZEN",
+          "id": 7,
+          "type": 1
+        }
+      ]
+    }
+  },
+  {
+    "protocol_id": 90,
     "identifier": "minecraft:strider",
     "dimensions": {
       "width": 0.9,
@@ -14288,13 +16600,13 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
+        "attribute.name.generic.attack_knockback",
         "attribute.name.generic.max_health",
         "attribute.name.generic.movement_speed",
-        "attribute.name.generic.attack_knockback"
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -14352,6 +16664,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.9,
+          "height": 1.7,
+          "eye_height": 1.445,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.9,
+          "height": 1.7,
+          "eye_height": 1.445,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.9,
+          "height": 1.7,
+          "eye_height": 1.445,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.9,
+          "height": 1.7,
+          "eye_height": 1.445,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.9,
           "height": 1.7,
           "eye_height": 1.445,
@@ -14463,7 +16799,7 @@
     }
   },
   {
-    "protocol_id": 90,
+    "protocol_id": 91,
     "identifier": "minecraft:tadpole",
     "dimensions": {
       "width": 0.5,
@@ -14473,13 +16809,13 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
+        "attribute.name.generic.attack_knockback",
         "attribute.name.generic.max_health",
         "attribute.name.generic.movement_speed",
-        "attribute.name.generic.attack_knockback"
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -14537,6 +16873,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.5,
+          "height": 0.4,
+          "eye_height": 0.26,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.5,
+          "height": 0.4,
+          "eye_height": 0.26,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.5,
+          "height": 0.4,
+          "eye_height": 0.26,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.5,
+          "height": 0.4,
+          "eye_height": 0.26,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.5,
           "height": 0.4,
           "eye_height": 0.26,
@@ -14633,7 +16993,7 @@
     }
   },
   {
-    "protocol_id": 91,
+    "protocol_id": 92,
     "identifier": "minecraft:egg",
     "dimensions": {
       "width": 0.25,
@@ -14703,6 +17063,30 @@
           "height": 0.25,
           "eye_height": 0.2125,
           "fixed": false
+        },
+        "roaring": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "digging": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
         }
       },
       "data_tracker": [
@@ -14755,7 +17139,7 @@
     }
   },
   {
-    "protocol_id": 92,
+    "protocol_id": 93,
     "identifier": "minecraft:ender_pearl",
     "dimensions": {
       "width": 0.25,
@@ -14825,6 +17209,30 @@
           "height": 0.25,
           "eye_height": 0.2125,
           "fixed": false
+        },
+        "roaring": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "digging": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
         }
       },
       "data_tracker": [
@@ -14877,7 +17285,7 @@
     }
   },
   {
-    "protocol_id": 93,
+    "protocol_id": 94,
     "identifier": "minecraft:experience_bottle",
     "dimensions": {
       "width": 0.25,
@@ -14947,6 +17355,30 @@
           "height": 0.25,
           "eye_height": 0.2125,
           "fixed": false
+        },
+        "roaring": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "digging": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
         }
       },
       "data_tracker": [
@@ -14999,7 +17431,7 @@
     }
   },
   {
-    "protocol_id": 94,
+    "protocol_id": 95,
     "identifier": "minecraft:potion",
     "dimensions": {
       "width": 0.25,
@@ -15069,6 +17501,30 @@
           "height": 0.25,
           "eye_height": 0.2125,
           "fixed": false
+        },
+        "roaring": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "digging": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
         }
       },
       "data_tracker": [
@@ -15121,7 +17577,7 @@
     }
   },
   {
-    "protocol_id": 95,
+    "protocol_id": 96,
     "identifier": "minecraft:trident",
     "dimensions": {
       "width": 0.5,
@@ -15187,6 +17643,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.5,
+          "height": 0.5,
+          "eye_height": 0.13,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.5,
+          "height": 0.5,
+          "eye_height": 0.13,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.5,
+          "height": 0.5,
+          "eye_height": 0.13,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.5,
+          "height": 0.5,
+          "eye_height": 0.13,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.5,
           "height": 0.5,
           "eye_height": 0.13,
@@ -15258,7 +17738,7 @@
     }
   },
   {
-    "protocol_id": 96,
+    "protocol_id": 97,
     "identifier": "minecraft:trader_llama",
     "dimensions": {
       "width": 0.9,
@@ -15268,14 +17748,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
-        "attribute.name.horse.jump_strength",
+        "attribute.name.generic.attack_knockback",
         "attribute.name.generic.max_health",
         "attribute.name.generic.movement_speed",
-        "attribute.name.generic.attack_knockback"
+        "attribute.name.generic.follow_range",
+        "attribute.name.horse.jump_strength"
       ],
       "poses": {
         "standing": {
@@ -15333,6 +17813,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.9,
+          "height": 1.87,
+          "eye_height": 1.7765,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.9,
+          "height": 1.87,
+          "eye_height": 1.7765,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.9,
+          "height": 1.87,
+          "eye_height": 1.7765,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.9,
+          "height": 1.87,
+          "eye_height": 1.7765,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.9,
           "height": 1.87,
           "eye_height": 1.7765,
@@ -15459,7 +17963,7 @@
     }
   },
   {
-    "protocol_id": 97,
+    "protocol_id": 98,
     "identifier": "minecraft:tropical_fish",
     "dimensions": {
       "width": 0.5,
@@ -15469,13 +17973,13 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
+        "attribute.name.generic.attack_knockback",
         "attribute.name.generic.max_health",
         "attribute.name.generic.movement_speed",
-        "attribute.name.generic.attack_knockback"
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -15533,6 +18037,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.5,
+          "height": 0.4,
+          "eye_height": 0.26,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.5,
+          "height": 0.4,
+          "eye_height": 0.26,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.5,
+          "height": 0.4,
+          "eye_height": 0.26,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.5,
+          "height": 0.4,
+          "eye_height": 0.26,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.5,
           "height": 0.4,
           "eye_height": 0.26,
@@ -15634,7 +18162,7 @@
     }
   },
   {
-    "protocol_id": 98,
+    "protocol_id": 99,
     "identifier": "minecraft:turtle",
     "dimensions": {
       "width": 1.2,
@@ -15644,13 +18172,13 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
+        "attribute.name.generic.attack_knockback",
         "attribute.name.generic.max_health",
         "attribute.name.generic.movement_speed",
-        "attribute.name.generic.attack_knockback"
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -15708,6 +18236,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 1.2,
+          "height": 0.4,
+          "eye_height": 0.34,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 1.2,
+          "height": 0.4,
+          "eye_height": 0.34,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 1.2,
+          "height": 0.4,
+          "eye_height": 0.34,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 1.2,
+          "height": 0.4,
+          "eye_height": 0.34,
+          "fixed": false
+        },
+        "digging": {
           "width": 1.2,
           "height": 0.4,
           "eye_height": 0.34,
@@ -15834,7 +18386,7 @@
     }
   },
   {
-    "protocol_id": 99,
+    "protocol_id": 100,
     "identifier": "minecraft:vex",
     "dimensions": {
       "width": 0.4,
@@ -15844,14 +18396,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.max_health",
-        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_knockback",
-        "attribute.name.generic.attack_damage"
+        "attribute.name.generic.max_health",
+        "attribute.name.generic.attack_damage",
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -15909,6 +18461,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.4,
+          "height": 0.8,
+          "eye_height": 0.68,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.4,
+          "height": 0.8,
+          "eye_height": 0.68,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.4,
+          "height": 0.8,
+          "eye_height": 0.68,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.4,
+          "height": 0.8,
+          "eye_height": 0.68,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.4,
           "height": 0.8,
           "eye_height": 0.68,
@@ -16005,7 +18581,7 @@
     }
   },
   {
-    "protocol_id": 100,
+    "protocol_id": 101,
     "identifier": "minecraft:villager",
     "dimensions": {
       "width": 0.6,
@@ -16015,13 +18591,13 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
+        "attribute.name.generic.attack_knockback",
         "attribute.name.generic.max_health",
         "attribute.name.generic.movement_speed",
-        "attribute.name.generic.attack_knockback"
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -16079,6 +18655,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.62,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.62,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.62,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.62,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.6,
           "height": 1.95,
           "eye_height": 1.62,
@@ -16185,7 +18785,7 @@
     }
   },
   {
-    "protocol_id": 101,
+    "protocol_id": 102,
     "identifier": "minecraft:vindicator",
     "dimensions": {
       "width": 0.6,
@@ -16195,14 +18795,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.max_health",
-        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_knockback",
-        "attribute.name.generic.attack_damage"
+        "attribute.name.generic.max_health",
+        "attribute.name.generic.attack_damage",
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -16260,6 +18860,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.6575,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.6575,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.6575,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.6575,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.6,
           "height": 1.95,
           "eye_height": 1.6575,
@@ -16356,7 +18980,7 @@
     }
   },
   {
-    "protocol_id": 102,
+    "protocol_id": 103,
     "identifier": "minecraft:wandering_trader",
     "dimensions": {
       "width": 0.6,
@@ -16366,13 +18990,13 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
+        "attribute.name.generic.attack_knockback",
         "attribute.name.generic.max_health",
         "attribute.name.generic.movement_speed",
-        "attribute.name.generic.attack_knockback"
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -16430,6 +19054,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.62,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.62,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.62,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.62,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.6,
           "height": 1.95,
           "eye_height": 1.62,
@@ -16531,7 +19179,202 @@
     }
   },
   {
-    "protocol_id": 103,
+    "protocol_id": 104,
+    "identifier": "minecraft:warden",
+    "dimensions": {
+      "width": 0.9,
+      "height": 2.9,
+      "eye_height": 2.4650002,
+      "fixed": false
+    },
+    "attributes": {
+      "attributes": [
+        "attribute.name.generic.armor_toughness",
+        "attribute.name.generic.knockback_resistance",
+        "attribute.name.generic.armor",
+        "attribute.name.generic.attack_knockback",
+        "attribute.name.generic.max_health",
+        "attribute.name.generic.attack_damage",
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range"
+      ],
+      "poses": {
+        "standing": {
+          "width": 0.9,
+          "height": 2.9,
+          "eye_height": 2.4650002,
+          "fixed": false
+        },
+        "fall_flying": {
+          "width": 0.9,
+          "height": 2.9,
+          "eye_height": 2.4650002,
+          "fixed": false
+        },
+        "sleeping": {
+          "width": 0.2,
+          "height": 0.2,
+          "eye_height": 0.2,
+          "fixed": true
+        },
+        "swimming": {
+          "width": 0.9,
+          "height": 2.9,
+          "eye_height": 2.4650002,
+          "fixed": false
+        },
+        "spin_attack": {
+          "width": 0.9,
+          "height": 2.9,
+          "eye_height": 2.4650002,
+          "fixed": false
+        },
+        "crouching": {
+          "width": 0.9,
+          "height": 2.9,
+          "eye_height": 2.4650002,
+          "fixed": false
+        },
+        "long_jumping": {
+          "width": 0.9,
+          "height": 2.9,
+          "eye_height": 2.4650002,
+          "fixed": false
+        },
+        "dying": {
+          "width": 0.9,
+          "height": 2.9,
+          "eye_height": 2.4650002,
+          "fixed": false
+        },
+        "croaking": {
+          "width": 0.9,
+          "height": 2.9,
+          "eye_height": 2.4650002,
+          "fixed": false
+        },
+        "using_tongue": {
+          "width": 0.9,
+          "height": 2.9,
+          "eye_height": 2.4650002,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.9,
+          "height": 2.9,
+          "eye_height": 2.4650002,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.9,
+          "height": 2.9,
+          "eye_height": 2.4650002,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.9,
+          "height": 2.9,
+          "eye_height": 2.4650002,
+          "fixed": false
+        },
+        "digging": {
+          "width": 0.9,
+          "height": 2.9,
+          "eye_height": 2.4650002,
+          "fixed": false
+        }
+      },
+      "data_tracker": [
+        {
+          "name": "CLIENT_ANGER_LEVEL",
+          "id": 16,
+          "type": 1
+        },
+        {
+          "name": "DATA_MOB_FLAGS_ID",
+          "id": 15,
+          "type": 0
+        },
+        {
+          "name": "DATA_LIVING_ENTITY_FLAGS",
+          "id": 8,
+          "type": 0
+        },
+        {
+          "name": "DATA_HEALTH_ID",
+          "id": 9,
+          "type": 2
+        },
+        {
+          "name": "DATA_EFFECT_COLOR_ID",
+          "id": 10,
+          "type": 1
+        },
+        {
+          "name": "DATA_EFFECT_AMBIENCE_ID",
+          "id": 11,
+          "type": 8
+        },
+        {
+          "name": "DATA_ARROW_COUNT_ID",
+          "id": 12,
+          "type": 1
+        },
+        {
+          "name": "DATA_STINGER_COUNT_ID",
+          "id": 13,
+          "type": 1
+        },
+        {
+          "name": "SLEEPING_POS_ID",
+          "id": 14,
+          "type": 12
+        },
+        {
+          "name": "DATA_SHARED_FLAGS_ID",
+          "id": 0,
+          "type": 0
+        },
+        {
+          "name": "DATA_AIR_SUPPLY_ID",
+          "id": 1,
+          "type": 1
+        },
+        {
+          "name": "DATA_CUSTOM_NAME",
+          "id": 2,
+          "type": 5
+        },
+        {
+          "name": "DATA_CUSTOM_NAME_VISIBLE",
+          "id": 3,
+          "type": 8
+        },
+        {
+          "name": "DATA_SILENT",
+          "id": 4,
+          "type": 8
+        },
+        {
+          "name": "DATA_NO_GRAVITY",
+          "id": 5,
+          "type": 8
+        },
+        {
+          "name": "DATA_POSE",
+          "id": 6,
+          "type": 18
+        },
+        {
+          "name": "DATA_TICKS_FROZEN",
+          "id": 7,
+          "type": 1
+        }
+      ]
+    }
+  },
+  {
+    "protocol_id": 105,
     "identifier": "minecraft:witch",
     "dimensions": {
       "width": 0.6,
@@ -16541,14 +19384,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.max_health",
-        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_knockback",
-        "attribute.name.generic.attack_damage"
+        "attribute.name.generic.max_health",
+        "attribute.name.generic.attack_damage",
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -16606,6 +19449,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.62,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.62,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.62,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.62,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.6,
           "height": 1.95,
           "eye_height": 1.62,
@@ -16707,7 +19574,7 @@
     }
   },
   {
-    "protocol_id": 104,
+    "protocol_id": 106,
     "identifier": "minecraft:wither",
     "dimensions": {
       "width": 0.9,
@@ -16717,15 +19584,15 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.flying_speed",
-        "attribute.name.generic.max_health",
-        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_knockback",
-        "attribute.name.generic.attack_damage"
+        "attribute.name.generic.max_health",
+        "attribute.name.generic.attack_damage",
+        "attribute.name.generic.flying_speed",
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -16783,6 +19650,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.9,
+          "height": 3.5,
+          "eye_height": 2.9750001,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.9,
+          "height": 3.5,
+          "eye_height": 2.9750001,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.9,
+          "height": 3.5,
+          "eye_height": 2.9750001,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.9,
+          "height": 3.5,
+          "eye_height": 2.9750001,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.9,
           "height": 3.5,
           "eye_height": 2.9750001,
@@ -16894,7 +19785,7 @@
     }
   },
   {
-    "protocol_id": 105,
+    "protocol_id": 107,
     "identifier": "minecraft:wither_skeleton",
     "dimensions": {
       "width": 0.7,
@@ -16904,14 +19795,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.max_health",
-        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_knockback",
-        "attribute.name.generic.attack_damage"
+        "attribute.name.generic.max_health",
+        "attribute.name.generic.attack_damage",
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -16969,6 +19860,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.7,
+          "height": 2.4,
+          "eye_height": 2.1,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.7,
+          "height": 2.4,
+          "eye_height": 2.1,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.7,
+          "height": 2.4,
+          "eye_height": 2.1,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.7,
+          "height": 2.4,
+          "eye_height": 2.1,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.7,
           "height": 2.4,
           "eye_height": 2.1,
@@ -17060,7 +19975,7 @@
     }
   },
   {
-    "protocol_id": 106,
+    "protocol_id": 108,
     "identifier": "minecraft:wither_skull",
     "dimensions": {
       "width": 0.3125,
@@ -17130,6 +20045,30 @@
           "height": 0.3125,
           "eye_height": 0.265625,
           "fixed": false
+        },
+        "roaring": {
+          "width": 0.3125,
+          "height": 0.3125,
+          "eye_height": 0.265625,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.3125,
+          "height": 0.3125,
+          "eye_height": 0.265625,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.3125,
+          "height": 0.3125,
+          "eye_height": 0.265625,
+          "fixed": false
+        },
+        "digging": {
+          "width": 0.3125,
+          "height": 0.3125,
+          "eye_height": 0.265625,
+          "fixed": false
         }
       },
       "data_tracker": [
@@ -17182,7 +20121,7 @@
     }
   },
   {
-    "protocol_id": 107,
+    "protocol_id": 109,
     "identifier": "minecraft:wolf",
     "dimensions": {
       "width": 0.6,
@@ -17192,14 +20131,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.max_health",
-        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_knockback",
-        "attribute.name.generic.attack_damage"
+        "attribute.name.generic.max_health",
+        "attribute.name.generic.attack_damage",
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -17257,6 +20196,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.6,
+          "height": 0.85,
+          "eye_height": 0.68,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.6,
+          "height": 0.85,
+          "eye_height": 0.68,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.6,
+          "height": 0.85,
+          "eye_height": 0.68,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.6,
+          "height": 0.85,
+          "eye_height": 0.68,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.6,
           "height": 0.85,
           "eye_height": 0.68,
@@ -17378,7 +20341,7 @@
     }
   },
   {
-    "protocol_id": 108,
+    "protocol_id": 110,
     "identifier": "minecraft:zoglin",
     "dimensions": {
       "width": 1.3964844,
@@ -17388,14 +20351,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.max_health",
-        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_knockback",
-        "attribute.name.generic.attack_damage"
+        "attribute.name.generic.max_health",
+        "attribute.name.generic.attack_damage",
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -17453,6 +20416,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 1.3964844,
+          "height": 1.4,
+          "eye_height": 1.19,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 1.3964844,
+          "height": 1.4,
+          "eye_height": 1.19,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 1.3964844,
+          "height": 1.4,
+          "eye_height": 1.19,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 1.3964844,
+          "height": 1.4,
+          "eye_height": 1.19,
+          "fixed": false
+        },
+        "digging": {
           "width": 1.3964844,
           "height": 1.4,
           "eye_height": 1.19,
@@ -17549,7 +20536,7 @@
     }
   },
   {
-    "protocol_id": 109,
+    "protocol_id": 111,
     "identifier": "minecraft:zombie",
     "dimensions": {
       "width": 0.6,
@@ -17559,15 +20546,15 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
+        "attribute.name.zombie.spawn_reinforcements",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.max_health",
-        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_knockback",
+        "attribute.name.generic.max_health",
         "attribute.name.generic.attack_damage",
-        "attribute.name.zombie.spawn_reinforcements"
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -17625,6 +20612,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.6,
           "height": 1.95,
           "eye_height": 1.74,
@@ -17731,7 +20742,7 @@
     }
   },
   {
-    "protocol_id": 110,
+    "protocol_id": 112,
     "identifier": "minecraft:zombie_horse",
     "dimensions": {
       "width": 1.3964844,
@@ -17741,14 +20752,14 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
-        "attribute.name.horse.jump_strength",
+        "attribute.name.generic.attack_knockback",
         "attribute.name.generic.max_health",
         "attribute.name.generic.movement_speed",
-        "attribute.name.generic.attack_knockback"
+        "attribute.name.generic.follow_range",
+        "attribute.name.horse.jump_strength"
       ],
       "poses": {
         "standing": {
@@ -17806,6 +20817,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 1.3964844,
+          "height": 1.6,
+          "eye_height": 1.52,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 1.3964844,
+          "height": 1.6,
+          "eye_height": 1.52,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 1.3964844,
+          "height": 1.6,
+          "eye_height": 1.52,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 1.3964844,
+          "height": 1.6,
+          "eye_height": 1.52,
+          "fixed": false
+        },
+        "digging": {
           "width": 1.3964844,
           "height": 1.6,
           "eye_height": 1.52,
@@ -17912,7 +20947,7 @@
     }
   },
   {
-    "protocol_id": 111,
+    "protocol_id": 113,
     "identifier": "minecraft:zombie_villager",
     "dimensions": {
       "width": 0.6,
@@ -17922,15 +20957,15 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
+        "attribute.name.zombie.spawn_reinforcements",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.max_health",
-        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_knockback",
+        "attribute.name.generic.max_health",
         "attribute.name.generic.attack_damage",
-        "attribute.name.zombie.spawn_reinforcements"
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -17988,6 +21023,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.6,
           "height": 1.95,
           "eye_height": 1.74,
@@ -18104,7 +21163,7 @@
     }
   },
   {
-    "protocol_id": 112,
+    "protocol_id": 114,
     "identifier": "minecraft:zombified_piglin",
     "dimensions": {
       "width": 0.6,
@@ -18114,15 +21173,15 @@
     },
     "attributes": {
       "attributes": [
-        "attribute.name.generic.follow_range",
+        "attribute.name.generic.armor_toughness",
+        "attribute.name.zombie.spawn_reinforcements",
         "attribute.name.generic.knockback_resistance",
         "attribute.name.generic.armor",
-        "attribute.name.generic.armor_toughness",
-        "attribute.name.generic.max_health",
-        "attribute.name.generic.movement_speed",
         "attribute.name.generic.attack_knockback",
+        "attribute.name.generic.max_health",
         "attribute.name.generic.attack_damage",
-        "attribute.name.zombie.spawn_reinforcements"
+        "attribute.name.generic.movement_speed",
+        "attribute.name.generic.follow_range"
       ],
       "poses": {
         "standing": {
@@ -18180,6 +21239,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.6,
+          "height": 1.95,
+          "eye_height": 1.74,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.6,
           "height": 1.95,
           "eye_height": 1.74,
@@ -18286,7 +21369,7 @@
     }
   },
   {
-    "protocol_id": 113,
+    "protocol_id": 115,
     "identifier": "minecraft:player",
     "dimensions": {
       "width": 0.6,
@@ -18296,7 +21379,7 @@
     }
   },
   {
-    "protocol_id": 114,
+    "protocol_id": 116,
     "identifier": "minecraft:fishing_bobber",
     "dimensions": {
       "width": 0.25,
@@ -18362,6 +21445,30 @@
           "fixed": false
         },
         "using_tongue": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "roaring": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "sniffing": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "emerging": {
+          "width": 0.25,
+          "height": 0.25,
+          "eye_height": 0.2125,
+          "fixed": false
+        },
+        "digging": {
           "width": 0.25,
           "height": 0.25,
           "eye_height": 0.2125,

@@ -285,5 +285,12 @@
     "category": "beneficial",
     "color": 4521796,
     "modifiers": []
+  },
+  {
+    "protocol_id": 33,
+    "identifier": "minecraft:darkness",
+    "category": "harmful",
+    "color": 2696993,
+    "modifiers": []
   }
 ]
