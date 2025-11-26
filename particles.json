@@ -286,5 +286,9 @@
   {
     "protocol_id": 71,
     "identifier": "minecraft:white_ash"
+  },
+  {
+    "protocol_id": 72,
+    "identifier": "minecraft:small_flame"
   }
 ]
